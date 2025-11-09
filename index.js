@@ -79,7 +79,6 @@ export async function fetchDubSchedule() {
 
     console.log(`Getting dub airing schedule`)
 
-    // MODIFIED: This function now calculates a wider future window
     const { startYear, startWeek, endYear, endWeek } = calculateWeeksToFetch()
     let year = startYear
     let week = startWeek
@@ -87,6 +86,11 @@ export async function fetchDubSchedule() {
     while (year < endYear || (year === endYear && week <= endWeek)) {
         console.log(`Fetching dub timetables for Year ${year}, Week ${week}...`)
         const fetchedData = await fetchAiringSchedule({type: 'timetables', year, week, token: BEARER_TOKEN})
+        
+        // --- NEW LOGGING LINE ---
+        // This will show us exactly what the API returned for each week.
+        console.log(` -> Data for Year ${year}, Week ${week}:`, fetchedData && fetchedData.length > 0 ? `${fetchedData.length} entries found.` : 'No data found (null or empty).');
+
         if (fetchedData) {
             const newEntries = fetchedData.filter((item) => !airingLists.value.some((existing) => existing.route === item.route))
             airingLists.update((lists) => [...lists, ...newEntries])
@@ -99,6 +103,13 @@ export async function fetchDubSchedule() {
             year++
         }
     }
+
+    // --- NEW LOGGING BLOCK ---
+    // This will print the entire collection of data we gathered before processing.
+    console.log('\n--- Total Raw Data Fetched from API ---');
+    console.log(JSON.stringify(airingLists.value, null, 2));
+    console.log('------------------------------------\n');
+
 
     // Handle custom dubs
     let customDubs = loadJSON(path.join('./custom/custom-dubs.json'))
@@ -631,10 +642,12 @@ export async function updateDubFeed(optSchedule) {
     }
 
     if (newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
-        console.log(`${newEpisodes.length > 0 ? `Added ${newEpisodes.length}` : ``}${modifiedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ` and ` : ``}Modified ${modifiedEpisodes.length}` : ``}${removedEpisodes.length > 0 ? `${(newEpisodes.length > 0) || (modifiedEpisodes.length > 0) ? ` and ` : ``}Removed ${removedEpisodes.length}` : ``} episode(s) ${(modifiedEpisodes.length > 0) || (removedEpisodes.length > 0) ? `from` : `to`} the Dubbed Episodes Feed.`);
-        console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`);
+        console.log(`${newEpisodes.length > 0 ? `Added ${newEpisodes.length}` : ``}${modifiedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ` and ` : ``}Modified ${modifiedEpisodes.length}` : ``}${removedEpisodes.length > 0 ? `${(newEpisodes.length > 0) || (modifiedEpisodes.length > 0) ? ` and ` : ``}Removed ${removedEpisodes.length}` : ``} episode(s) ${(modifiedEpisodes.length > 0) || (removedEpisodes.length > 0) ? `from` : `to`} the Dubbed Episodes Feed.`)
+        console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
     } else {
-        console.log(`No changes detected for the Dubbed Episodes Feed.`);
+        console.log(`No changes detected for the Dubbed Episodes Feed.`)
     }
-    return changes;
+    return changes
+}    }
+    return changes
 }
