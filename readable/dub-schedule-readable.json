@@ -2930,8 +2930,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-11-10T20:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-11-17T20:00:00Z"
             }
           ]
         }
@@ -6681,6 +6681,7 @@
     "delayedUntil": "0001-01-01T15:55:00Z",
     "episodeDate": "2025-11-13T15:55:00Z",
     "episodeNumber": 7,
+    "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -6735,6 +6736,7 @@
     "delayedUntil": "0001-01-01T15:55:00Z",
     "episodeDate": "2025-11-20T15:55:00Z",
     "episodeNumber": 8,
+    "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -6789,6 +6791,7 @@
     "delayedUntil": "0001-01-01T15:55:00Z",
     "episodeDate": "2025-11-27T15:55:00Z",
     "episodeNumber": 9,
+    "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -6843,6 +6846,7 @@
     "delayedUntil": "0001-01-01T15:55:00Z",
     "episodeDate": "2025-12-04T15:55:00Z",
     "episodeNumber": 10,
+    "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -7847,6 +7851,7 @@
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-11-12T07:00:00Z",
     "episodeNumber": 5,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -7901,6 +7906,7 @@
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-11-19T07:00:00Z",
     "episodeNumber": 6,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -7955,6 +7961,7 @@
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-11-26T07:00:00Z",
     "episodeNumber": 7,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -8009,6 +8016,7 @@
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-12-03T07:00:00Z",
     "episodeNumber": 8,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -8065,6 +8073,7 @@
     "delayedUntil": "0001-01-01T23:00:00Z",
     "episodeDate": "2025-11-14T23:00:00Z",
     "episodeNumber": 18,
+    "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -8123,6 +8132,7 @@
     "delayedUntil": "0001-01-01T23:00:00Z",
     "episodeDate": "2025-11-21T23:00:00Z",
     "episodeNumber": 19,
+    "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -8181,6 +8191,7 @@
     "delayedUntil": "0001-01-01T23:00:00Z",
     "episodeDate": "2025-11-28T23:00:00Z",
     "episodeNumber": 20,
+    "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -8239,6 +8250,7 @@
     "delayedUntil": "0001-01-01T23:00:00Z",
     "episodeDate": "2025-12-05T23:00:00Z",
     "episodeNumber": 21,
+    "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
       {
