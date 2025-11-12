@@ -1595,8 +1595,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-11-12T18:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-11-19T18:00:00Z"
             }
           ]
         }
@@ -5319,8 +5319,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-11-12T18:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-11-19T18:00:00Z"
             }
           ]
         }
@@ -8444,8 +8444,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-11-12T18:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-11-19T18:00:00Z"
             }
           ]
         }
