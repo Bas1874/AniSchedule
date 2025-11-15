@@ -2663,7 +2663,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-11-01T16:30:00Z"
   },
   {
@@ -2717,7 +2717,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-11-01T16:30:00Z"
   },
   {
@@ -2771,7 +2771,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-11-01T16:30:00Z"
   },
   {
@@ -2825,7 +2825,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-11-01T16:30:00Z"
   },
   {
@@ -5096,8 +5096,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-11-15T17:00:00Z"
+              "episode": 8,
+              "airingAt": "2025-11-22T17:00:00Z"
             }
           ]
         }
