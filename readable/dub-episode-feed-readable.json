@@ -1,5 +1,49 @@
 [
   {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2025-11-19T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
+    }
+  },
+  {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2025-11-19T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
+    }
+  },
+  {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2025-11-19T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
+    }
+  },
+  {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2025-11-19T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
+    }
+  },
+  {
     "id": 175914,
     "idMal": 58390,
     "format": "TV",
@@ -1482,6 +1526,50 @@
       "aired": 1,
       "airedAt": "2025-11-13T05:00:00Z",
       "addedAt": "2025-11-13T05:20:48Z"
+    }
+  },
+  {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-11-12T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
+    }
+  },
+  {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-11-12T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
+    }
+  },
+  {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-11-12T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
+    }
+  },
+  {
+    "id": 177271,
+    "idMal": 58772,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-11-12T20:00:00Z",
+      "addedAt": "2025-11-19T20:20:36Z"
     }
   },
   {
