@@ -2155,8 +2155,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-11-22T21:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-11-29T21:00:00Z"
             }
           ]
         }
@@ -4272,8 +4272,9 @@
     "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
     "english": "The Banished Court Magician Aims to Become the Strongest",
     "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-11-22T16:00:00Z",
+    "delayedUntil": "2025-11-29T16:00:00Z",
     "episodeDate": "2025-11-22T16:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
@@ -4313,7 +4314,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2025-11-29T16:00:00Z"
             }
           ]
@@ -4329,9 +4330,66 @@
     "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
     "english": "The Banished Court Magician Aims to Become the Strongest",
     "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedFrom": "2025-11-22T16:00:00Z",
+    "delayedUntil": "2025-11-29T16:00:00Z",
     "episodeDate": "2025-11-29T16:00:00Z",
+    "episodeNumber": 6,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188487,
+        "idMal": 61276,
+        "title": {
+          "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+          "english": "The Banished Court Magician Aims to Become the Strongest",
+          "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
+          "userPreferred": "The Banished Court Magician Aims to Become the Strongest"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188487-gewgvReLVli9.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188487-gewgvReLVli9.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
+              "airingAt": "2025-11-29T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-18T18:11:16Z"
+  },
+  {
+    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+    "route": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu",
+    "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+    "english": "The Banished Court Magician Aims to Become the Strongest",
+    "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
+    "delayedFrom": "2025-11-22T16:00:00Z",
+    "delayedUntil": "2025-11-29T16:00:00Z",
+    "episodeDate": "2025-12-06T16:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
@@ -4386,9 +4444,9 @@
     "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
     "english": "The Banished Court Magician Aims to Become the Strongest",
     "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-12-06T16:00:00Z",
+    "delayedFrom": "2025-11-22T16:00:00Z",
+    "delayedUntil": "2025-11-29T16:00:00Z",
+    "episodeDate": "2025-12-13T16:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -4428,64 +4486,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2025-12-06T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-18T18:11:16Z"
-  },
-  {
-    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
-    "route": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu",
-    "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
-    "english": "The Banished Court Magician Aims to Become the Strongest",
-    "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-12-13T16:00:00Z",
-    "episodeNumber": 9,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188487,
-        "idMal": 61276,
-        "title": {
-          "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
-          "english": "The Banished Court Magician Aims to Become the Strongest",
-          "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-          "userPreferred": "The Banished Court Magician Aims to Become the Strongest"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188487-gewgvReLVli9.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188487-gewgvReLVli9.jpg",
-          "color": null
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2025-12-13T16:00:00Z"
+              "airingAt": "2025-11-29T16:00:00Z"
             }
           ]
         }
@@ -6711,8 +6712,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-11-22T20:30:00Z"
+              "episode": 7,
+              "airingAt": "2025-11-29T20:30:00Z"
             }
           ]
         }
