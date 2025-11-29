@@ -3237,8 +3237,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-11-29T21:30:00Z"
+              "episode": 8,
+              "airingAt": "2025-12-06T21:30:00Z"
             }
           ]
         }
@@ -6111,6 +6111,118 @@
     },
     "verified": false,
     "addedAt": "2025-11-19T17:00:00Z"
+  },
+  {
+    "title": "Shuumatsu no Walküre 3",
+    "route": "shuumatsu-no-walkure-iii",
+    "romaji": "Shuumatsu no Walküre 3",
+    "english": "Record of Ragnarok 3",
+    "native": "終末のワルキューレIII",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2025-12-10T08:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 187921,
+        "idMal": 61200,
+        "title": {
+          "romaji": "Shuumatsu no Valkyrie III",
+          "english": "Record of Ragnarok III",
+          "native": "終末のワルキューレ III",
+          "userPreferred": "Record of Ragnarok III"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187921-VhGf8qgbb9z7.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187921-VhGf8qgbb9z7.png",
+          "color": "#6b28e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-12-10T08:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-12-10T08:00:00Z"
+  },
+  {
+    "title": "Shuumatsu no Walküre 3",
+    "route": "shuumatsu-no-walkure-iii",
+    "romaji": "Shuumatsu no Walküre 3",
+    "english": "Record of Ragnarok 3",
+    "native": "終末のワルキューレIII",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2025-12-17T08:00:00Z",
+    "episodeNumber": 2,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 187921,
+        "idMal": 61200,
+        "title": {
+          "romaji": "Shuumatsu no Valkyrie III",
+          "english": "Record of Ragnarok III",
+          "native": "終末のワルキューレ III",
+          "userPreferred": "Record of Ragnarok III"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187921-VhGf8qgbb9z7.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187921-VhGf8qgbb9z7.png",
+          "color": "#6b28e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-12-17T08:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-29T22:19:17Z"
   },
   {
     "title": "Sozai Saishuka no Isekai Ryokouki",
