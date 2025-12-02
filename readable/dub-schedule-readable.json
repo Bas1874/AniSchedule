@@ -2940,8 +2940,9 @@
     "romaji": "Isekai Quartet 3",
     "english": "Isekai Quartet 3",
     "native": "異世界かるてっと3",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-01T20:00:00Z",
+    "delayedUntil": "2025-12-08T20:00:00Z",
     "episodeDate": "2025-12-01T20:00:00Z",
     "episodeNumber": 6,
     "episodes": 11,
@@ -2981,7 +2982,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2025-12-08T20:00:00Z"
             }
           ]
@@ -2997,9 +2998,66 @@
     "romaji": "Isekai Quartet 3",
     "english": "Isekai Quartet 3",
     "native": "異世界かるてっと3",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedFrom": "2025-12-01T20:00:00Z",
+    "delayedUntil": "2025-12-08T20:00:00Z",
     "episodeDate": "2025-12-08T20:00:00Z",
+    "episodeNumber": 6,
+    "episodes": 11,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 194447,
+        "idMal": 61851,
+        "title": {
+          "romaji": "Isekai Quartet 3",
+          "english": "Isekai Quartet 3",
+          "native": "異世界かるてっと 3",
+          "userPreferred": "Isekai Quartet 3"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 12,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194447-sgmaOpJ0VIUI.jpg",
+          "color": "#28a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194447-Z7rcoAFZuBsS.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
+              "airingAt": "2025-12-08T20:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-28T04:11:43Z"
+  },
+  {
+    "title": "Isekai Quartet 3",
+    "route": "isekai-quartet-3rd-season",
+    "romaji": "Isekai Quartet 3",
+    "english": "Isekai Quartet 3",
+    "native": "異世界かるてっと3",
+    "delayedFrom": "2025-12-01T20:00:00Z",
+    "delayedUntil": "2025-12-08T20:00:00Z",
+    "episodeDate": "2025-12-15T20:00:00Z",
     "episodeNumber": 7,
     "episodes": 11,
     "lengthMin": 12,
@@ -3054,9 +3112,9 @@
     "romaji": "Isekai Quartet 3",
     "english": "Isekai Quartet 3",
     "native": "異世界かるてっと3",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-15T20:00:00Z",
+    "delayedFrom": "2025-12-01T20:00:00Z",
+    "delayedUntil": "2025-12-08T20:00:00Z",
+    "episodeDate": "2025-12-22T20:00:00Z",
     "episodeNumber": 8,
     "episodes": 11,
     "lengthMin": 12,
@@ -3096,64 +3154,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2025-12-15T20:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-28T04:11:43Z"
-  },
-  {
-    "title": "Isekai Quartet 3",
-    "route": "isekai-quartet-3rd-season",
-    "romaji": "Isekai Quartet 3",
-    "english": "Isekai Quartet 3",
-    "native": "異世界かるてっと3",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-22T20:00:00Z",
-    "episodeNumber": 9,
-    "episodes": 11,
-    "lengthMin": 12,
-    "mediaTypes": [
-      {
-        "name": "TV Short",
-        "route": "tv-short"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 194447,
-        "idMal": 61851,
-        "title": {
-          "romaji": "Isekai Quartet 3",
-          "english": "Isekai Quartet 3",
-          "native": "異世界かるてっと 3",
-          "userPreferred": "Isekai Quartet 3"
-        },
-        "format": "TV_SHORT",
-        "genres": [
-          "Comedy",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "duration": 12,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194447-sgmaOpJ0VIUI.jpg",
-          "color": "#28a1e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194447-Z7rcoAFZuBsS.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2025-12-22T20:00:00Z"
+              "airingAt": "2025-12-08T20:00:00Z"
             }
           ]
         }
