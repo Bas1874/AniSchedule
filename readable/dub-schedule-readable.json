@@ -3171,8 +3171,8 @@
     "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
     "native": "かくりよの宿飯 第２期",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedFrom": "2025-12-03T20:00:00Z",
+    "delayedUntil": "2025-12-10T20:00:00Z",
     "episodeDate": "2025-12-03T20:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -3214,7 +3214,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2025-12-03T20:00:00Z"
+              "airingAt": "2025-12-10T20:00:00Z"
             }
           ]
         }
@@ -3229,10 +3229,67 @@
     "romaji": "Kakuriyo no Yadomeshi 2",
     "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
     "native": "かくりよの宿飯 第２期",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedFrom": "2025-12-03T20:00:00Z",
+    "delayedUntil": "2025-12-10T20:00:00Z",
     "episodeDate": "2025-12-10T20:00:00Z",
+    "episodeNumber": 8,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177271,
+        "idMal": 58772,
+        "title": {
+          "romaji": "Kakuriyo no Yadomeshi 2nd Season",
+          "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
+          "native": "かくりよの宿飯 第２期",
+          "userPreferred": "Kakuriyo -Bed & Breakfast for Spirits- 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177271-anyazmpWyX3m.jpg",
+          "color": "#e4a15d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 8,
+              "airingAt": "2025-12-10T20:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-16T05:09:32Z"
+  },
+  {
+    "title": "Kakuriyo no Yadomeshi 2",
+    "route": "kakuriyo-no-yadomeshi-2",
+    "romaji": "Kakuriyo no Yadomeshi 2",
+    "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
+    "native": "かくりよの宿飯 第２期",
+    "delayedFrom": "2025-12-03T20:00:00Z",
+    "delayedUntil": "2025-12-10T20:00:00Z",
+    "episodeDate": "2025-12-17T20:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -3288,10 +3345,9 @@
     "romaji": "Kakuriyo no Yadomeshi 2",
     "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
     "native": "かくりよの宿飯 第２期",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-17T20:00:00Z",
+    "delayedFrom": "2025-12-03T20:00:00Z",
+    "delayedUntil": "2025-12-10T20:00:00Z",
+    "episodeDate": "2025-12-24T20:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -3332,66 +3388,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-12-17T20:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-16T05:09:32Z"
-  },
-  {
-    "title": "Kakuriyo no Yadomeshi 2",
-    "route": "kakuriyo-no-yadomeshi-2",
-    "romaji": "Kakuriyo no Yadomeshi 2",
-    "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
-    "native": "かくりよの宿飯 第２期",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-24T20:00:00Z",
-    "episodeNumber": 11,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 177271,
-        "idMal": 58772,
-        "title": {
-          "romaji": "Kakuriyo no Yadomeshi 2nd Season",
-          "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
-          "native": "かくりよの宿飯 第２期",
-          "userPreferred": "Kakuriyo -Bed & Breakfast for Spirits- 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Romance",
-          "Slice of Life",
-          "Supernatural"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177271-anyazmpWyX3m.jpg",
-          "color": "#e4a15d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 11,
-              "airingAt": "2025-12-24T20:00:00Z"
+              "airingAt": "2025-12-10T20:00:00Z"
             }
           ]
         }
@@ -3642,8 +3639,9 @@
     "romaji": "Kijin Gentoushou",
     "english": "Sword of the Demon Hunter: Kijin Gentosho",
     "native": "鬼人幻燈抄",
-    "delayedFrom": "2025-09-03T17:00:00Z",
-    "delayedUntil": "2025-10-01T17:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
     "episodeDate": "2025-12-03T17:00:00Z",
     "episodeNumber": 23,
     "episodes": 24,
@@ -3683,7 +3681,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 24,
+              "episode": 23,
               "airingAt": "2025-12-10T17:00:00Z"
             }
           ]
@@ -3699,9 +3697,66 @@
     "romaji": "Kijin Gentoushou",
     "english": "Sword of the Demon Hunter: Kijin Gentosho",
     "native": "鬼人幻燈抄",
-    "delayedFrom": "2025-09-03T17:00:00Z",
-    "delayedUntil": "2025-10-01T17:00:00Z",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
     "episodeDate": "2025-12-10T17:00:00Z",
+    "episodeNumber": 23,
+    "episodes": 24,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 143598,
+        "idMal": 49778,
+        "title": {
+          "romaji": "Kijin Gentoushou",
+          "english": "Sword of the Demon Hunter: Kijin Gentosho",
+          "native": "鬼人幻燈抄",
+          "userPreferred": "Sword of the Demon Hunter: Kijin Gentosho"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143598-FCvAhQJLllSP.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143598-FCvAhQJLllSP.png",
+          "color": "#e4865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 23,
+              "airingAt": "2025-12-10T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-09-17T21:11:33Z"
+  },
+  {
+    "title": "Kijin Gentoushou",
+    "route": "kijin-gentoushou",
+    "romaji": "Kijin Gentoushou",
+    "english": "Sword of the Demon Hunter: Kijin Gentosho",
+    "native": "鬼人幻燈抄",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
+    "episodeDate": "2025-12-17T17:00:00Z",
     "episodeNumber": 24,
     "episodes": 24,
     "lengthMin": 24,
@@ -3983,8 +4038,9 @@
     "title": "Let's Play: Quest Darake no My Life",
     "route": "lets-play",
     "native": "Let's Play クエストだらけのマイライフ",
-    "delayedFrom": "0001-01-01T17:15:00Z",
-    "delayedUntil": "0001-01-01T17:15:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-03T17:15:00Z",
+    "delayedUntil": "2025-12-10T17:15:00Z",
     "episodeDate": "2025-12-03T17:15:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -4024,7 +4080,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
+              "episode": 8,
               "airingAt": "2025-12-10T17:15:00Z"
             }
           ]
@@ -4038,9 +4094,64 @@
     "title": "Let's Play: Quest Darake no My Life",
     "route": "lets-play",
     "native": "Let's Play クエストだらけのマイライフ",
-    "delayedFrom": "0001-01-01T17:15:00Z",
-    "delayedUntil": "0001-01-01T17:15:00Z",
+    "delayedFrom": "2025-12-03T17:15:00Z",
+    "delayedUntil": "2025-12-10T17:15:00Z",
     "episodeDate": "2025-12-10T17:15:00Z",
+    "episodeNumber": 8,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 193968,
+        "idMal": 61773,
+        "title": {
+          "romaji": "Let’s Play: Quest Darake no My Life",
+          "english": "Let’s Play",
+          "native": "Let’s Play クエストだらけのマイライフ",
+          "userPreferred": "Let’s Play"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193968-tXbbqBOTuClj.jpg",
+          "color": "#e41a43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193968-o6WaB851sYMt.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 8,
+              "airingAt": "2025-12-10T17:15:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-15T18:14:11Z"
+  },
+  {
+    "title": "Let's Play: Quest Darake no My Life",
+    "route": "lets-play",
+    "native": "Let's Play クエストだらけのマイライフ",
+    "delayedFrom": "2025-12-03T17:15:00Z",
+    "delayedUntil": "2025-12-10T17:15:00Z",
+    "episodeDate": "2025-12-17T17:15:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -4093,9 +4204,9 @@
     "title": "Let's Play: Quest Darake no My Life",
     "route": "lets-play",
     "native": "Let's Play クエストだらけのマイライフ",
-    "delayedFrom": "0001-01-01T17:15:00Z",
-    "delayedUntil": "0001-01-01T17:15:00Z",
-    "episodeDate": "2025-12-17T17:15:00Z",
+    "delayedFrom": "2025-12-03T17:15:00Z",
+    "delayedUntil": "2025-12-10T17:15:00Z",
+    "episodeDate": "2025-12-24T17:15:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -4135,62 +4246,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-12-17T17:15:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-15T18:14:11Z"
-  },
-  {
-    "title": "Let's Play: Quest Darake no My Life",
-    "route": "lets-play",
-    "native": "Let's Play クエストだらけのマイライフ",
-    "delayedFrom": "0001-01-01T17:15:00Z",
-    "delayedUntil": "0001-01-01T17:15:00Z",
-    "episodeDate": "2025-12-24T17:15:00Z",
-    "episodeNumber": 11,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 193968,
-        "idMal": 61773,
-        "title": {
-          "romaji": "Let’s Play: Quest Darake no My Life",
-          "english": "Let’s Play",
-          "native": "Let’s Play クエストだらけのマイライフ",
-          "userPreferred": "Let’s Play"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193968-tXbbqBOTuClj.jpg",
-          "color": "#e41a43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193968-o6WaB851sYMt.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 11,
-              "airingAt": "2025-12-24T17:15:00Z"
+              "airingAt": "2025-12-10T17:15:00Z"
             }
           ]
         }
@@ -7026,8 +7082,9 @@
     "romaji": "Tensei Akujo no Kuro Rekishi",
     "english": "The Dark History of the Reincarnated Villainess",
     "native": "転生悪女の黒歴史",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
     "episodeDate": "2025-12-03T17:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
@@ -7067,7 +7124,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2025-12-10T17:00:00Z"
             }
           ]
@@ -7083,9 +7140,66 @@
     "romaji": "Tensei Akujo no Kuro Rekishi",
     "english": "The Dark History of the Reincarnated Villainess",
     "native": "転生悪女の黒歴史",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
     "episodeDate": "2025-12-10T17:00:00Z",
+    "episodeNumber": 7,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 174914,
+        "idMal": 58146,
+        "title": {
+          "romaji": "Tensei Akujo no Kuro Rekishi",
+          "english": "The Dark History of the Reincarnated Villainess",
+          "native": "転生悪女の黒歴史",
+          "userPreferred": "The Dark History of the Reincarnated Villainess"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174914-RfPIqbrapByY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174914-RfPIqbrapByY.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174914-a7vV1UMIg4pL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 7,
+              "airingAt": "2025-12-10T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-22T18:14:41Z"
+  },
+  {
+    "title": "Tensei Akujo no Kuro Rekishi",
+    "route": "tensei-akujo-no-kuro-rekishi",
+    "romaji": "Tensei Akujo no Kuro Rekishi",
+    "english": "The Dark History of the Reincarnated Villainess",
+    "native": "転生悪女の黒歴史",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
+    "episodeDate": "2025-12-17T17:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -7140,9 +7254,9 @@
     "romaji": "Tensei Akujo no Kuro Rekishi",
     "english": "The Dark History of the Reincarnated Villainess",
     "native": "転生悪女の黒歴史",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-17T17:00:00Z",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
+    "episodeDate": "2025-12-24T17:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -7182,64 +7296,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2025-12-17T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-22T18:14:41Z"
-  },
-  {
-    "title": "Tensei Akujo no Kuro Rekishi",
-    "route": "tensei-akujo-no-kuro-rekishi",
-    "romaji": "Tensei Akujo no Kuro Rekishi",
-    "english": "The Dark History of the Reincarnated Villainess",
-    "native": "転生悪女の黒歴史",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-24T17:00:00Z",
-    "episodeNumber": 10,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 174914,
-        "idMal": 58146,
-        "title": {
-          "romaji": "Tensei Akujo no Kuro Rekishi",
-          "english": "The Dark History of the Reincarnated Villainess",
-          "native": "転生悪女の黒歴史",
-          "userPreferred": "The Dark History of the Reincarnated Villainess"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Fantasy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174914-RfPIqbrapByY.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174914-RfPIqbrapByY.jpg",
-          "color": "#5da1e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174914-a7vV1UMIg4pL.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 10,
-              "airingAt": "2025-12-24T17:00:00Z"
+              "airingAt": "2025-12-10T17:00:00Z"
             }
           ]
         }
