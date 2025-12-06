@@ -2308,8 +2308,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-12-06T21:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-12-13T21:00:00Z"
             }
           ]
         }
@@ -2719,8 +2719,9 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedFrom": "0001-01-01T17:30:00Z",
-    "delayedUntil": "0001-01-01T17:30:00Z",
+    "delayedText": "Delayed ",
+    "delayedFrom": "2025-12-06T17:30:00Z",
+    "delayedUntil": "2025-12-13T17:30:00Z",
     "episodeDate": "2025-12-06T17:30:00Z",
     "episodeNumber": 6,
     "lengthMin": 26,
@@ -2760,7 +2761,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2025-12-13T17:30:00Z"
             }
           ]
@@ -2774,9 +2775,64 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedFrom": "0001-01-01T17:30:00Z",
-    "delayedUntil": "0001-01-01T17:30:00Z",
+    "delayedFrom": "2025-12-06T17:30:00Z",
+    "delayedUntil": "2025-12-13T17:30:00Z",
     "episodeDate": "2025-12-13T17:30:00Z",
+    "episodeNumber": 6,
+    "lengthMin": 26,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185116,
+        "idMal": 60427,
+        "title": {
+          "romaji": "Gnosia",
+          "english": "GNOSIA",
+          "native": "グノーシア",
+          "userPreferred": "GNOSIA"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
+          "color": "#43aee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
+              "airingAt": "2025-12-13T17:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-11-01T16:30:00Z"
+  },
+  {
+    "title": "Gnosia",
+    "route": "gnosia",
+    "native": "グノーシア",
+    "delayedFrom": "2025-12-06T17:30:00Z",
+    "delayedUntil": "2025-12-13T17:30:00Z",
+    "episodeDate": "2025-12-20T17:30:00Z",
     "episodeNumber": 7,
     "lengthMin": 26,
     "mediaTypes": [
@@ -2829,9 +2885,9 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedFrom": "0001-01-01T17:30:00Z",
-    "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2025-12-20T17:30:00Z",
+    "delayedFrom": "2025-12-06T17:30:00Z",
+    "delayedUntil": "2025-12-13T17:30:00Z",
+    "episodeDate": "2025-12-27T17:30:00Z",
     "episodeNumber": 8,
     "lengthMin": 26,
     "mediaTypes": [
@@ -2871,62 +2927,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2025-12-20T17:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-11-01T16:30:00Z"
-  },
-  {
-    "title": "Gnosia",
-    "route": "gnosia",
-    "native": "グノーシア",
-    "delayedFrom": "0001-01-01T17:30:00Z",
-    "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2025-12-27T17:30:00Z",
-    "episodeNumber": 9,
-    "lengthMin": 26,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185116,
-        "idMal": 60427,
-        "title": {
-          "romaji": "Gnosia",
-          "english": "GNOSIA",
-          "native": "グノーシア",
-          "userPreferred": "GNOSIA"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "duration": null,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
-          "color": "#43aee4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2025-12-27T17:30:00Z"
+              "airingAt": "2025-12-13T17:30:00Z"
             }
           ]
         }
@@ -6736,8 +6737,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-12-06T20:30:00Z"
+              "episode": 9,
+              "airingAt": "2025-12-13T20:30:00Z"
             }
           ]
         }
