@@ -1,5 +1,49 @@
 [
   {
+    "id": 153800,
+    "idMal": 52807,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-12-07T16:15:00Z",
+      "addedAt": "2025-12-07T16:23:51Z"
+    }
+  },
+  {
+    "id": 153800,
+    "idMal": 52807,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-12-07T16:15:00Z",
+      "addedAt": "2025-12-07T16:23:52Z"
+    }
+  },
+  {
+    "id": 153800,
+    "idMal": 52807,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-12-07T16:15:00Z",
+      "addedAt": "2025-12-07T16:23:52Z"
+    }
+  },
+  {
+    "id": 153800,
+    "idMal": 52807,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-12-07T16:15:00Z",
+      "addedAt": "2025-12-07T16:23:52Z"
+    }
+  },
+  {
     "id": 185801,
     "idMal": 60619,
     "format": "ONA",
