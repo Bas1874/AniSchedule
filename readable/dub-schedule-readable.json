@@ -2490,8 +2490,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-12-08T20:00:00Z"
+              "episode": 7,
+              "airingAt": "2025-12-15T20:00:00Z"
             }
           ]
         }
@@ -2548,7 +2548,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2025-12-08T20:00:00Z"
+              "airingAt": "2025-12-15T20:00:00Z"
             }
           ]
         }
@@ -2605,7 +2605,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2025-12-08T20:00:00Z"
+              "airingAt": "2025-12-22T20:00:00Z"
             }
           ]
         }
@@ -2662,7 +2662,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2025-12-08T20:00:00Z"
+              "airingAt": "2025-12-29T20:00:00Z"
             }
           ]
         }
