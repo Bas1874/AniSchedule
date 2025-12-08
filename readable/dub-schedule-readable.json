@@ -44,8 +44,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-12-08T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-12-15T17:00:00Z"
             }
           ]
         }
@@ -100,7 +100,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-12-08T17:00:00Z"
+              "airingAt": "2025-12-15T17:00:00Z"
             }
           ]
         }
@@ -155,7 +155,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2025-12-08T17:00:00Z"
+              "airingAt": "2025-12-22T17:00:00Z"
             }
           ]
         }
@@ -210,7 +210,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2025-12-08T17:00:00Z"
+              "airingAt": "2025-12-29T17:00:00Z"
             }
           ]
         }
@@ -490,8 +490,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-12-08T17:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-12-15T17:00:00Z"
             }
           ]
         }
@@ -5841,8 +5841,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-12-08T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-12-15T17:00:00Z"
             }
           ]
         }
