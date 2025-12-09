@@ -3219,7 +3219,8 @@
     "delayedFrom": "2025-12-02T16:00:00Z",
     "delayedUntil": "2025-12-09T16:00:00Z",
     "episodeDate": "2025-12-09T16:00:00Z",
-    "episodeNumber": 6,
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -3257,7 +3258,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 6,
+              "airingAt": "2025-12-09T16:00:00Z"
+            },
+            {
               "episode": 7,
+              "airingAt": "2025-12-09T16:00:00Z"
+            },
+            {
+              "episode": 8,
               "airingAt": "2025-12-16T16:00:00Z"
             }
           ]
@@ -3276,63 +3285,6 @@
     "delayedFrom": "2025-12-02T16:00:00Z",
     "delayedUntil": "2025-12-09T16:00:00Z",
     "episodeDate": "2025-12-16T16:00:00Z",
-    "episodeNumber": 7,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 186161,
-        "idMal": 60765,
-        "title": {
-          "romaji": "Kimi to Koete Koi ni Naru",
-          "english": "With You, Our Love Will Make It Through",
-          "native": "キミと越えて恋になる",
-          "userPreferred": "With You, Our Love Will Make It Through"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-rgdRQgwOJUpb.png",
-          "color": "#1aaef1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 7,
-              "airingAt": "2025-12-16T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-28T19:02:11Z"
-  },
-  {
-    "title": "Kimi to Koete Koi ni Naru",
-    "route": "kimi-to-koete-koi-ni-naru",
-    "romaji": "Kimi to Koete Koi ni Naru",
-    "english": "With You, Our Love Will Make It Through",
-    "native": "キミと越えて恋になる",
-    "delayedFrom": "2025-12-02T16:00:00Z",
-    "delayedUntil": "2025-12-09T16:00:00Z",
-    "episodeDate": "2025-12-23T16:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -3372,7 +3324,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2025-12-23T16:00:00Z"
+              "airingAt": "2025-12-16T16:00:00Z"
             }
           ]
         }
@@ -3389,7 +3341,7 @@
     "native": "キミと越えて恋になる",
     "delayedFrom": "2025-12-02T16:00:00Z",
     "delayedUntil": "2025-12-09T16:00:00Z",
-    "episodeDate": "2025-12-30T16:00:00Z",
+    "episodeDate": "2025-12-23T16:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -3429,6 +3381,63 @@
           "nodes": [
             {
               "episode": 9,
+              "airingAt": "2025-12-23T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-28T19:02:11Z"
+  },
+  {
+    "title": "Kimi to Koete Koi ni Naru",
+    "route": "kimi-to-koete-koi-ni-naru",
+    "romaji": "Kimi to Koete Koi ni Naru",
+    "english": "With You, Our Love Will Make It Through",
+    "native": "キミと越えて恋になる",
+    "delayedFrom": "2025-12-02T16:00:00Z",
+    "delayedUntil": "2025-12-09T16:00:00Z",
+    "episodeDate": "2025-12-30T16:00:00Z",
+    "episodeNumber": 10,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 186161,
+        "idMal": 60765,
+        "title": {
+          "romaji": "Kimi to Koete Koi ni Naru",
+          "english": "With You, Our Love Will Make It Through",
+          "native": "キミと越えて恋になる",
+          "userPreferred": "With You, Our Love Will Make It Through"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-rgdRQgwOJUpb.png",
+          "color": "#1aaef1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 10,
               "airingAt": "2025-12-30T16:00:00Z"
             }
           ]
@@ -4395,8 +4404,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-12-09T17:30:00Z"
+              "episode": 11,
+              "airingAt": "2025-12-16T17:30:00Z"
             }
           ]
         }
