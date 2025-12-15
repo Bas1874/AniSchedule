@@ -2103,8 +2103,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-12-15T20:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-12-22T20:00:00Z"
             }
           ]
         }
@@ -4232,6 +4232,7 @@
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-12-20T17:00:00Z",
     "episodeNumber": 12,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -4270,174 +4271,6 @@
             {
               "episode": 12,
               "airingAt": "2025-12-20T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-04T17:00:00Z"
-  },
-  {
-    "title": "Ranma ½ (2024) 2nd Season",
-    "route": "ranma-2024-2nd-season",
-    "romaji": "Ranma ½ (2024) 2nd Season",
-    "english": "Ranma ½ (2024) 2nd Season",
-    "native": "らんま1/2 (2024) 第2期",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-27T17:00:00Z",
-    "episodeNumber": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185731,
-        "idMal": 60564,
-        "title": {
-          "romaji": "Ranma 1/2 (2024) 2nd Season",
-          "english": "Ranma1/2 (2024) Season 2",
-          "native": "らんま1/2 (2024) 第2期",
-          "userPreferred": "Ranma1/2 (2024) Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Romance"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185731-PJ6WKcFDUI4B.jpg",
-          "color": "#d6351a"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185731-LUMIdwsqtTrX.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2025-12-27T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-04T17:00:00Z"
-  },
-  {
-    "title": "Ranma ½ (2024) 2nd Season",
-    "route": "ranma-2024-2nd-season",
-    "romaji": "Ranma ½ (2024) 2nd Season",
-    "english": "Ranma ½ (2024) 2nd Season",
-    "native": "らんま1/2 (2024) 第2期",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-01-03T17:00:00Z",
-    "episodeNumber": 14,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185731,
-        "idMal": 60564,
-        "title": {
-          "romaji": "Ranma 1/2 (2024) 2nd Season",
-          "english": "Ranma1/2 (2024) Season 2",
-          "native": "らんま1/2 (2024) 第2期",
-          "userPreferred": "Ranma1/2 (2024) Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Romance"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185731-PJ6WKcFDUI4B.jpg",
-          "color": "#d6351a"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185731-LUMIdwsqtTrX.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 14,
-              "airingAt": "2026-01-03T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-04T17:00:00Z"
-  },
-  {
-    "title": "Ranma ½ (2024) 2nd Season",
-    "route": "ranma-2024-2nd-season",
-    "romaji": "Ranma ½ (2024) 2nd Season",
-    "english": "Ranma ½ (2024) 2nd Season",
-    "native": "らんま1/2 (2024) 第2期",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-01-10T17:00:00Z",
-    "episodeNumber": 15,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185731,
-        "idMal": 60564,
-        "title": {
-          "romaji": "Ranma 1/2 (2024) 2nd Season",
-          "english": "Ranma1/2 (2024) Season 2",
-          "native": "らんま1/2 (2024) 第2期",
-          "userPreferred": "Ranma1/2 (2024) Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Romance"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185731-PJ6WKcFDUI4B.jpg",
-          "color": "#d6351a"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185731-LUMIdwsqtTrX.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 15,
-              "airingAt": "2026-01-10T17:00:00Z"
             }
           ]
         }
