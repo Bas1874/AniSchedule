@@ -1991,8 +1991,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-12-20T16:30:00Z"
+              "episode": 9,
+              "airingAt": "2025-12-27T16:30:00Z"
             }
           ]
         }
@@ -5622,8 +5622,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-12-20T17:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-12-27T17:00:00Z"
             }
           ]
         }
