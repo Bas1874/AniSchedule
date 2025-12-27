@@ -1,5 +1,93 @@
 [
   {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-12-27T22:00:00Z",
+      "addedAt": "2025-12-27T22:20:10Z"
+    }
+  },
+  {
     "id": 182896,
     "idMal": 60098,
     "format": "TV",
@@ -579,7 +667,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2025-12-20T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -590,7 +678,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2025-12-20T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -601,7 +689,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2025-12-20T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -1580,7 +1668,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2025-12-13T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -1591,7 +1679,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2025-12-13T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -1602,7 +1690,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2025-12-13T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -3769,7 +3857,7 @@
     "episode": {
       "aired": 2,
       "airedAt": "2025-12-06T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -3780,7 +3868,7 @@
     "episode": {
       "aired": 2,
       "airedAt": "2025-12-06T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -3791,7 +3879,7 @@
     "episode": {
       "aired": 2,
       "airedAt": "2025-12-06T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -5617,7 +5705,7 @@
     "episode": {
       "aired": 1,
       "airedAt": "2025-11-29T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -5628,7 +5716,7 @@
     "episode": {
       "aired": 1,
       "airedAt": "2025-11-29T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {
@@ -5639,7 +5727,7 @@
     "episode": {
       "aired": 1,
       "airedAt": "2025-11-29T22:00:00Z",
-      "addedAt": "2025-12-27T21:18:46Z"
+      "addedAt": "2025-12-27T22:20:10Z"
     }
   },
   {

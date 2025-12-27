@@ -1230,7 +1230,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 188388,
@@ -1277,6 +1277,26 @@
             {
               "episode": 5,
               "airingAt": "2025-12-27T22:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-01-03T22:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-01-03T22:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-01-03T22:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-01-03T22:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-01-03T22:00:00Z"
             }
           ]
         }
@@ -2645,8 +2665,9 @@
     "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
     "english": "Tales of Wedding Rings 2nd Season",
     "native": "結婚指輪物語 第2期",
-    "delayedFrom": "0001-01-01T21:30:00Z",
-    "delayedUntil": "0001-01-01T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-27T21:30:00Z",
+    "delayedUntil": "2026-01-10T21:30:00Z",
     "episodeDate": "2025-12-27T21:30:00Z",
     "episodeNumber": 11,
     "episodes": 13,
@@ -2689,7 +2710,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2025-12-27T21:30:00Z"
+              "airingAt": "2026-01-10T21:30:00Z"
             }
           ]
         }
@@ -2704,9 +2725,128 @@
     "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
     "english": "Tales of Wedding Rings 2nd Season",
     "native": "結婚指輪物語 第2期",
-    "delayedFrom": "0001-01-01T21:30:00Z",
-    "delayedUntil": "0001-01-01T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-27T21:30:00Z",
+    "delayedUntil": "2026-01-10T21:30:00Z",
     "episodeDate": "2026-01-03T21:30:00Z",
+    "episodeNumber": 11,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 176298,
+        "idMal": 58515,
+        "title": {
+          "romaji": "Kekkon Yubiwa Monogatari II",
+          "english": "Tales of Wedding Rings Season 2",
+          "native": "結婚指輪物語Ⅱ",
+          "userPreferred": "Tales of Wedding Rings Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176298-fK1c8bBA73WQ.jpg",
+          "color": "#1a5d78"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 11,
+              "airingAt": "2026-01-10T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-18T23:08:11Z"
+  },
+  {
+    "title": "Kekkon Yubiwa Monogatari 2nd Season",
+    "route": "kekkon-yubiwa-monogatari-2nd-season",
+    "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
+    "english": "Tales of Wedding Rings 2nd Season",
+    "native": "結婚指輪物語 第2期",
+    "delayedFrom": "2025-12-27T21:30:00Z",
+    "delayedUntil": "2026-01-10T21:30:00Z",
+    "episodeDate": "2026-01-10T21:30:00Z",
+    "episodeNumber": 11,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 176298,
+        "idMal": 58515,
+        "title": {
+          "romaji": "Kekkon Yubiwa Monogatari II",
+          "english": "Tales of Wedding Rings Season 2",
+          "native": "結婚指輪物語Ⅱ",
+          "userPreferred": "Tales of Wedding Rings Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176298-fK1c8bBA73WQ.jpg",
+          "color": "#1a5d78"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 11,
+              "airingAt": "2026-01-10T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-18T23:08:11Z"
+  },
+  {
+    "title": "Kekkon Yubiwa Monogatari 2nd Season",
+    "route": "kekkon-yubiwa-monogatari-2nd-season",
+    "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
+    "english": "Tales of Wedding Rings 2nd Season",
+    "native": "結婚指輪物語 第2期",
+    "delayedFrom": "2025-12-27T21:30:00Z",
+    "delayedUntil": "2026-01-10T21:30:00Z",
+    "episodeDate": "2026-01-17T21:30:00Z",
     "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 23,
@@ -2748,65 +2888,6 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-01-03T21:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-18T23:08:11Z"
-  },
-  {
-    "title": "Kekkon Yubiwa Monogatari 2nd Season",
-    "route": "kekkon-yubiwa-monogatari-2nd-season",
-    "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
-    "english": "Tales of Wedding Rings 2nd Season",
-    "native": "結婚指輪物語 第2期",
-    "delayedFrom": "0001-01-01T21:30:00Z",
-    "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2026-01-10T21:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 176298,
-        "idMal": 58515,
-        "title": {
-          "romaji": "Kekkon Yubiwa Monogatari II",
-          "english": "Tales of Wedding Rings Season 2",
-          "native": "結婚指輪物語Ⅱ",
-          "userPreferred": "Tales of Wedding Rings Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Comedy",
-          "Ecchi",
-          "Fantasy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176298-fK1c8bBA73WQ.jpg",
-          "color": "#1a5d78"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
               "airingAt": "2026-01-10T21:30:00Z"
             }
           ]
