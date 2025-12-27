@@ -5654,8 +5654,9 @@
     "romaji": "Watari-kun no xx ga Houkai Sunzen",
     "english": "Watari-kun's ****** Is about to Collapse",
     "native": "渡くんの××が崩壊寸前",
-    "delayedFrom": "2025-12-05T23:00:00Z",
-    "delayedUntil": "2025-12-12T23:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-26T23:00:00Z",
+    "delayedUntil": "2026-01-09T23:00:00Z",
     "episodeDate": "2025-12-26T23:00:00Z",
     "episodeNumber": 24,
     "episodes": 26,
@@ -5696,8 +5697,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 25,
-              "airingAt": "2026-01-02T23:00:00Z"
+              "episode": 24,
+              "airingAt": "2026-01-09T23:00:00Z"
             }
           ]
         }
@@ -5712,9 +5713,126 @@
     "romaji": "Watari-kun no xx ga Houkai Sunzen",
     "english": "Watari-kun's ****** Is about to Collapse",
     "native": "渡くんの××が崩壊寸前",
-    "delayedFrom": "2025-12-05T23:00:00Z",
-    "delayedUntil": "2025-12-12T23:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-26T23:00:00Z",
+    "delayedUntil": "2026-01-09T23:00:00Z",
     "episodeDate": "2026-01-02T23:00:00Z",
+    "episodeNumber": 24,
+    "episodes": 26,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 169420,
+        "idMal": 56693,
+        "title": {
+          "romaji": "Watari-kun no xx ga Houkai Sunzen",
+          "english": "Watari-kun's ****** Is about to Collapse",
+          "native": "渡くんの××が崩壊寸前",
+          "userPreferred": "Watari-kun's ****** Is about to Collapse"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169420-u4wDhHlTfX9P.jpg",
+          "color": "#c9e493"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 24,
+              "airingAt": "2026-01-09T23:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-07-18T22:14:31Z"
+  },
+  {
+    "title": "Watari-kun no xx ga Houkai Sunzen",
+    "route": "watari-kun-no-xx-ga-houkai-sunzen",
+    "romaji": "Watari-kun no xx ga Houkai Sunzen",
+    "english": "Watari-kun's ****** Is about to Collapse",
+    "native": "渡くんの××が崩壊寸前",
+    "delayedFrom": "2025-12-26T23:00:00Z",
+    "delayedUntil": "2026-01-09T23:00:00Z",
+    "episodeDate": "2026-01-09T23:00:00Z",
+    "episodeNumber": 24,
+    "episodes": 26,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 169420,
+        "idMal": 56693,
+        "title": {
+          "romaji": "Watari-kun no xx ga Houkai Sunzen",
+          "english": "Watari-kun's ****** Is about to Collapse",
+          "native": "渡くんの××が崩壊寸前",
+          "userPreferred": "Watari-kun's ****** Is about to Collapse"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169420-u4wDhHlTfX9P.jpg",
+          "color": "#c9e493"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 24,
+              "airingAt": "2026-01-09T23:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-07-18T22:14:31Z"
+  },
+  {
+    "title": "Watari-kun no xx ga Houkai Sunzen",
+    "route": "watari-kun-no-xx-ga-houkai-sunzen",
+    "romaji": "Watari-kun no xx ga Houkai Sunzen",
+    "english": "Watari-kun's ****** Is about to Collapse",
+    "native": "渡くんの××が崩壊寸前",
+    "delayedFrom": "2025-12-26T23:00:00Z",
+    "delayedUntil": "2026-01-09T23:00:00Z",
+    "episodeDate": "2026-01-16T23:00:00Z",
     "episodeNumber": 25,
     "episodes": 26,
     "lengthMin": 23,
@@ -5755,64 +5873,6 @@
           "nodes": [
             {
               "episode": 25,
-              "airingAt": "2026-01-02T23:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-18T22:14:31Z"
-  },
-  {
-    "title": "Watari-kun no xx ga Houkai Sunzen",
-    "route": "watari-kun-no-xx-ga-houkai-sunzen",
-    "romaji": "Watari-kun no xx ga Houkai Sunzen",
-    "english": "Watari-kun's ****** Is about to Collapse",
-    "native": "渡くんの××が崩壊寸前",
-    "delayedFrom": "2025-12-05T23:00:00Z",
-    "delayedUntil": "2025-12-12T23:00:00Z",
-    "episodeDate": "2026-01-09T23:00:00Z",
-    "episodeNumber": 26,
-    "episodes": 26,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 169420,
-        "idMal": 56693,
-        "title": {
-          "romaji": "Watari-kun no xx ga Houkai Sunzen",
-          "english": "Watari-kun's ****** Is about to Collapse",
-          "native": "渡くんの××が崩壊寸前",
-          "userPreferred": "Watari-kun's ****** Is about to Collapse"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169420-u4wDhHlTfX9P.jpg",
-          "color": "#c9e493"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 26,
               "airingAt": "2026-01-09T23:00:00Z"
             }
           ]
