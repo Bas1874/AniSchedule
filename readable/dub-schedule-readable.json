@@ -1928,8 +1928,9 @@
     "title": "Gachiakuta",
     "route": "gachiakuta",
     "native": "ガチアクタ",
-    "delayedFrom": "2025-10-12T15:30:00Z",
-    "delayedUntil": "2025-10-26T15:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-28T15:30:00Z",
+    "delayedUntil": "2026-01-11T15:30:00Z",
     "episodeDate": "2025-12-28T15:30:00Z",
     "episodeNumber": 23,
     "episodes": 24,
@@ -1969,8 +1970,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 24,
-              "airingAt": "2026-01-04T15:30:00Z"
+              "episode": 23,
+              "airingAt": "2026-01-11T15:30:00Z"
             }
           ]
         }
@@ -1983,9 +1984,120 @@
     "title": "Gachiakuta",
     "route": "gachiakuta",
     "native": "ガチアクタ",
-    "delayedFrom": "2025-10-12T15:30:00Z",
-    "delayedUntil": "2025-10-26T15:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-28T15:30:00Z",
+    "delayedUntil": "2026-01-11T15:30:00Z",
     "episodeDate": "2026-01-04T15:30:00Z",
+    "episodeNumber": 23,
+    "episodes": 24,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178025,
+        "idMal": 59062,
+        "title": {
+          "romaji": "Gachiakuta",
+          "english": "Gachiakuta",
+          "native": "ガチアクタ",
+          "userPreferred": "Gachiakuta"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178025-cWJKEsZynkil.jpg",
+          "color": "#e4a150"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178025-KH3NSrRChfGy.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 23,
+              "airingAt": "2026-01-11T15:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-07-06T15:00:00Z"
+  },
+  {
+    "title": "Gachiakuta",
+    "route": "gachiakuta",
+    "native": "ガチアクタ",
+    "delayedFrom": "2025-12-28T15:30:00Z",
+    "delayedUntil": "2026-01-11T15:30:00Z",
+    "episodeDate": "2026-01-11T15:30:00Z",
+    "episodeNumber": 23,
+    "episodes": 24,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178025,
+        "idMal": 59062,
+        "title": {
+          "romaji": "Gachiakuta",
+          "english": "Gachiakuta",
+          "native": "ガチアクタ",
+          "userPreferred": "Gachiakuta"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178025-cWJKEsZynkil.jpg",
+          "color": "#e4a150"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178025-KH3NSrRChfGy.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 23,
+              "airingAt": "2026-01-11T15:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-07-06T15:00:00Z"
+  },
+  {
+    "title": "Gachiakuta",
+    "route": "gachiakuta",
+    "native": "ガチアクタ",
+    "delayedFrom": "2025-12-28T15:30:00Z",
+    "delayedUntil": "2026-01-11T15:30:00Z",
+    "episodeDate": "2026-01-18T15:30:00Z",
     "episodeNumber": 24,
     "episodes": 24,
     "lengthMin": 24,
@@ -2025,7 +2137,7 @@
           "nodes": [
             {
               "episode": 24,
-              "airingAt": "2026-01-04T15:30:00Z"
+              "airingAt": "2026-01-11T15:30:00Z"
             }
           ]
         }
