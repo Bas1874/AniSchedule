@@ -2836,8 +2836,9 @@
     "romaji": "Isekai Quartet 3",
     "english": "Isekai Quartet 3",
     "native": "異世界かるてっと3",
+    "delayedText": "Delayed",
     "delayedFrom": "2025-12-29T20:00:00Z",
-    "delayedUntil": "2026-01-05T20:00:00Z",
+    "delayedUntil": "2026-01-12T20:00:00Z",
     "episodeDate": "2026-01-05T20:00:00Z",
     "episodeNumber": 10,
     "episodes": 11,
@@ -2878,7 +2879,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-01-05T20:00:00Z"
+              "airingAt": "2026-01-12T20:00:00Z"
             }
           ]
         }
@@ -2894,8 +2895,65 @@
     "english": "Isekai Quartet 3",
     "native": "異世界かるてっと3",
     "delayedFrom": "2025-12-29T20:00:00Z",
-    "delayedUntil": "2026-01-05T20:00:00Z",
+    "delayedUntil": "2026-01-12T20:00:00Z",
     "episodeDate": "2026-01-12T20:00:00Z",
+    "episodeNumber": 10,
+    "episodes": 11,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 194447,
+        "idMal": 61851,
+        "title": {
+          "romaji": "Isekai Quartet 3",
+          "english": "Isekai Quartet 3",
+          "native": "異世界かるてっと 3",
+          "userPreferred": "Isekai Quartet 3"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 12,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194447-sgmaOpJ0VIUI.jpg",
+          "color": "#28a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194447-Z7rcoAFZuBsS.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 10,
+              "airingAt": "2026-01-12T20:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-28T04:11:43Z"
+  },
+  {
+    "title": "Isekai Quartet 3",
+    "route": "isekai-quartet-3rd-season",
+    "romaji": "Isekai Quartet 3",
+    "english": "Isekai Quartet 3",
+    "native": "異世界かるてっと3",
+    "delayedFrom": "2025-12-29T20:00:00Z",
+    "delayedUntil": "2026-01-12T20:00:00Z",
+    "episodeDate": "2026-01-19T20:00:00Z",
     "episodeNumber": 11,
     "episodes": 11,
     "lengthMin": 12,
@@ -2935,7 +2993,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-01-05T20:00:00Z"
+              "airingAt": "2026-01-12T20:00:00Z"
             }
           ]
         }
@@ -2950,8 +3008,9 @@
     "romaji": "Isekai Quartet 3",
     "english": "Isekai Quartet 3",
     "native": "異世界かるてっと3",
+    "delayedText": "Delayed",
     "delayedFrom": "2025-12-29T20:00:00Z",
-    "delayedUntil": "2026-01-05T20:00:00Z",
+    "delayedUntil": "2026-01-12T20:00:00Z",
     "episodeDate": "2026-01-05T20:00:00Z",
     "episodeNumber": 10,
     "episodes": 11,
@@ -2992,7 +3051,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-01-05T20:00:00Z"
+              "airingAt": "2026-01-12T20:00:00Z"
             }
           ]
         }
@@ -6578,6 +6637,296 @@
     },
     "verified": true,
     "addedAt": "2025-12-17T17:00:00Z"
+  },
+  {
+    "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+    "route": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+    "english": "My Hero Academia: Vigilantes 2nd Season",
+    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-05T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195322,
+        "idMal": 61942,
+        "title": {
+          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+          "english": "My Hero Academia: Vigilantes Season 2",
+          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+          "userPreferred": "My Hero Academia: Vigilantes Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+          "color": "#e4bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-12T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-05T20:27:32Z"
+  },
+  {
+    "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+    "route": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+    "english": "My Hero Academia: Vigilantes 2nd Season",
+    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-12T14:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195322,
+        "idMal": 61942,
+        "title": {
+          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+          "english": "My Hero Academia: Vigilantes Season 2",
+          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+          "userPreferred": "My Hero Academia: Vigilantes Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+          "color": "#e4bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-12T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-05T20:27:32Z"
+  },
+  {
+    "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+    "route": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+    "english": "My Hero Academia: Vigilantes 2nd Season",
+    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-19T14:00:00Z",
+    "episodeNumber": 3,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195322,
+        "idMal": 61942,
+        "title": {
+          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+          "english": "My Hero Academia: Vigilantes Season 2",
+          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+          "userPreferred": "My Hero Academia: Vigilantes Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+          "color": "#e4bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-01-19T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-05T20:27:32Z"
+  },
+  {
+    "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+    "route": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+    "english": "My Hero Academia: Vigilantes 2nd Season",
+    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-26T14:00:00Z",
+    "episodeNumber": 4,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195322,
+        "idMal": 61942,
+        "title": {
+          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+          "english": "My Hero Academia: Vigilantes Season 2",
+          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+          "userPreferred": "My Hero Academia: Vigilantes Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+          "color": "#e4bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-01-26T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-05T20:27:32Z"
+  },
+  {
+    "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+    "route": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+    "english": "My Hero Academia: Vigilantes 2nd Season",
+    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-05T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195322,
+        "idMal": 61942,
+        "title": {
+          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+          "english": "My Hero Academia: Vigilantes Season 2",
+          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+          "userPreferred": "My Hero Academia: Vigilantes Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+          "color": "#e4bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-12T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-05T20:27:32Z"
   },
   {
     "title": "Watari-kun no xx ga Houkai Sunzen",
