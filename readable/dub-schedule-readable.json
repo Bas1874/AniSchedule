@@ -654,9 +654,9 @@
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
-    "delayedFrom": "2025-11-07T08:00:00Z",
-    "delayedUntil": "2025-12-26T08:00:00Z",
-    "episodeDate": "2026-01-09T08:00:00Z",
+    "delayedFrom": "2025-11-07T09:00:00Z",
+    "delayedUntil": "2025-12-26T09:00:00Z",
+    "episodeDate": "2026-01-09T09:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
@@ -698,7 +698,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-01-09T08:00:00Z"
+              "airingAt": "2026-01-09T09:00:00Z"
             }
           ]
         }
@@ -711,9 +711,9 @@
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
-    "delayedFrom": "2025-11-07T08:00:00Z",
-    "delayedUntil": "2025-12-26T08:00:00Z",
-    "episodeDate": "2026-01-16T08:00:00Z",
+    "delayedFrom": "2025-11-07T09:00:00Z",
+    "delayedUntil": "2025-12-26T09:00:00Z",
+    "episodeDate": "2026-01-16T09:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -755,7 +755,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-01-16T08:00:00Z"
+              "airingAt": "2026-01-16T09:00:00Z"
             }
           ]
         }
@@ -768,9 +768,9 @@
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
-    "delayedFrom": "2025-11-07T08:00:00Z",
-    "delayedUntil": "2025-12-26T08:00:00Z",
-    "episodeDate": "2026-01-23T08:00:00Z",
+    "delayedFrom": "2025-11-07T09:00:00Z",
+    "delayedUntil": "2025-12-26T09:00:00Z",
+    "episodeDate": "2026-01-23T09:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
@@ -812,7 +812,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-01-23T08:00:00Z"
+              "airingAt": "2026-01-23T09:00:00Z"
             }
           ]
         }
@@ -825,9 +825,9 @@
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
-    "delayedFrom": "2025-11-07T08:00:00Z",
-    "delayedUntil": "2025-12-26T08:00:00Z",
-    "episodeDate": "2026-01-30T08:00:00Z",
+    "delayedFrom": "2025-11-07T09:00:00Z",
+    "delayedUntil": "2025-12-26T09:00:00Z",
+    "episodeDate": "2026-01-30T09:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
@@ -869,7 +869,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-01-30T08:00:00Z"
+              "airingAt": "2026-01-30T09:00:00Z"
             }
           ]
         }
@@ -882,9 +882,9 @@
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
-    "delayedFrom": "2025-11-07T08:00:00Z",
-    "delayedUntil": "2025-12-26T08:00:00Z",
-    "episodeDate": "2026-01-09T08:00:00Z",
+    "delayedFrom": "2025-11-07T09:00:00Z",
+    "delayedUntil": "2025-12-26T09:00:00Z",
+    "episodeDate": "2026-01-09T09:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
@@ -926,7 +926,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-01-09T08:00:00Z"
+              "airingAt": "2026-01-09T09:00:00Z"
             }
           ]
         }
