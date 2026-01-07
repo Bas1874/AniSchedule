@@ -1,5 +1,49 @@
 [
   {
+    "id": 174914,
+    "idMal": 58146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-01-07T16:00:00Z",
+      "addedAt": "2026-01-07T16:32:20Z"
+    }
+  },
+  {
+    "id": 174914,
+    "idMal": 58146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-01-07T16:00:00Z",
+      "addedAt": "2026-01-07T16:32:21Z"
+    }
+  },
+  {
+    "id": 174914,
+    "idMal": 58146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-01-07T16:00:00Z",
+      "addedAt": "2026-01-07T16:32:21Z"
+    }
+  },
+  {
+    "id": 174914,
+    "idMal": 58146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-01-07T16:00:00Z",
+      "addedAt": "2026-01-07T16:32:20Z"
+    }
+  },
+  {
     "id": 180746,
     "idMal": 59711,
     "format": "TV",
@@ -326,7 +370,7 @@
     "episode": {
       "aired": 5,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-07T15:27:30Z"
+      "addedAt": "2026-01-07T16:32:21Z"
     }
   },
   {
@@ -337,7 +381,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-07T15:27:30Z"
+      "addedAt": "2026-01-07T16:32:21Z"
     }
   },
   {
@@ -348,7 +392,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-07T15:27:30Z"
+      "addedAt": "2026-01-07T16:32:21Z"
     }
   },
   {
@@ -359,7 +403,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-07T15:27:30Z"
+      "addedAt": "2026-01-07T16:32:21Z"
     }
   },
   {
@@ -370,7 +414,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-07T15:27:30Z"
+      "addedAt": "2026-01-07T16:32:21Z"
     }
   },
   {
@@ -381,7 +425,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-07T15:27:30Z"
+      "addedAt": "2026-01-07T16:32:21Z"
     }
   },
   {
