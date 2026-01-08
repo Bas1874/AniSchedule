@@ -993,6 +993,276 @@
     "addedAt": "2026-01-22T08:00:00Z"
   },
   {
+    "title": "Dark Moon: Tsuki no Saidan",
+    "route": "dark-moon-tsuki-no-saidan",
+    "romaji": "Dark Moon: Tsuki no Saidan",
+    "english": "Dark Moon: The Blood Altar",
+    "native": "DARK MOON　-黒の月: 月の祭壇-",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-01-09T16:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 181443,
+        "idMal": 59853,
+        "title": {
+          "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "native": "DARK MOON　-黒の月: 月の祭壇-",
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+        },
+        "format": "TV",
+        "genres": [
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181443-Df41Nlf7xjgI.jpg",
+          "color": "#d6281a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-09T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-09T16:30:00Z"
+  },
+  {
+    "title": "Dark Moon: Tsuki no Saidan",
+    "route": "dark-moon-tsuki-no-saidan",
+    "romaji": "Dark Moon: Tsuki no Saidan",
+    "english": "Dark Moon: The Blood Altar",
+    "native": "DARK MOON　-黒の月: 月の祭壇-",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-01-16T16:30:00Z",
+    "episodeNumber": 2,
+    "episodes": 12,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 181443,
+        "idMal": 59853,
+        "title": {
+          "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "native": "DARK MOON　-黒の月: 月の祭壇-",
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+        },
+        "format": "TV",
+        "genres": [
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181443-Df41Nlf7xjgI.jpg",
+          "color": "#d6281a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-16T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-08T18:30:46Z"
+  },
+  {
+    "title": "Dark Moon: Tsuki no Saidan",
+    "route": "dark-moon-tsuki-no-saidan",
+    "romaji": "Dark Moon: Tsuki no Saidan",
+    "english": "Dark Moon: The Blood Altar",
+    "native": "DARK MOON　-黒の月: 月の祭壇-",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-01-23T16:30:00Z",
+    "episodeNumber": 3,
+    "episodes": 12,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 181443,
+        "idMal": 59853,
+        "title": {
+          "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "native": "DARK MOON　-黒の月: 月の祭壇-",
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+        },
+        "format": "TV",
+        "genres": [
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181443-Df41Nlf7xjgI.jpg",
+          "color": "#d6281a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-01-23T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-08T18:30:46Z"
+  },
+  {
+    "title": "Dark Moon: Tsuki no Saidan",
+    "route": "dark-moon-tsuki-no-saidan",
+    "romaji": "Dark Moon: Tsuki no Saidan",
+    "english": "Dark Moon: The Blood Altar",
+    "native": "DARK MOON　-黒の月: 月の祭壇-",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-01-30T16:30:00Z",
+    "episodeNumber": 4,
+    "episodes": 12,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 181443,
+        "idMal": 59853,
+        "title": {
+          "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "native": "DARK MOON　-黒の月: 月の祭壇-",
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+        },
+        "format": "TV",
+        "genres": [
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181443-Df41Nlf7xjgI.jpg",
+          "color": "#d6281a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-01-30T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-08T18:30:46Z"
+  },
+  {
+    "title": "Dark Moon: Tsuki no Saidan",
+    "route": "dark-moon-tsuki-no-saidan",
+    "romaji": "Dark Moon: Tsuki no Saidan",
+    "english": "Dark Moon: The Blood Altar",
+    "native": "DARK MOON　-黒の月: 月の祭壇-",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-01-09T16:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 181443,
+        "idMal": 59853,
+        "title": {
+          "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "native": "DARK MOON　-黒の月: 月の祭壇-",
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+        },
+        "format": "TV",
+        "genres": [
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181443-Df41Nlf7xjgI.jpg",
+          "color": "#d6281a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-09T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-09T16:30:00Z"
+  },
+  {
     "title": "Darwin Jihen",
     "route": "darwin-jihen",
     "romaji": "Darwin Jihen",
@@ -1804,6 +2074,230 @@
     },
     "verified": true,
     "addedAt": "2025-09-20T20:17:06Z"
+  },
+  {
+    "title": "Enen no Shouboutai: San no Shou Part 2",
+    "route": "enen-no-shouboutai-san-no-shou-part-2",
+    "romaji": "Enen no Shouboutai: San no Shou Part 2",
+    "english": "Fire Force 3rd Season Part 2",
+    "native": "炎炎ノ消防隊 参ノ章",
+    "delayedFrom": "0001-01-01T17:30:00Z",
+    "delayedUntil": "0001-01-01T17:30:00Z",
+    "episodeDate": "2026-01-09T17:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 179062,
+        "idMal": 59229,
+        "title": {
+          "romaji": "Enen no Shouboutai: San no Shou Part 2",
+          "english": "Fire Force Season 3 Part 2",
+          "native": "炎炎ノ消防隊 参ノ章 第2クール",
+          "userPreferred": "Fire Force Season 3 Part 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
+          "color": "#febb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-09T17:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-09T17:30:00Z"
+  },
+  {
+    "title": "Enen no Shouboutai: San no Shou Part 2",
+    "route": "enen-no-shouboutai-san-no-shou-part-2",
+    "romaji": "Enen no Shouboutai: San no Shou Part 2",
+    "english": "Fire Force 3rd Season Part 2",
+    "native": "炎炎ノ消防隊 参ノ章",
+    "delayedFrom": "0001-01-01T17:30:00Z",
+    "delayedUntil": "0001-01-01T17:30:00Z",
+    "episodeDate": "2026-01-16T17:30:00Z",
+    "episodeNumber": 2,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179062,
+        "idMal": 59229,
+        "title": {
+          "romaji": "Enen no Shouboutai: San no Shou Part 2",
+          "english": "Fire Force Season 3 Part 2",
+          "native": "炎炎ノ消防隊 参ノ章 第2クール",
+          "userPreferred": "Fire Force Season 3 Part 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
+          "color": "#febb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-16T17:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-09T17:30:00Z"
+  },
+  {
+    "title": "Enen no Shouboutai: San no Shou Part 2",
+    "route": "enen-no-shouboutai-san-no-shou-part-2",
+    "romaji": "Enen no Shouboutai: San no Shou Part 2",
+    "english": "Fire Force 3rd Season Part 2",
+    "native": "炎炎ノ消防隊 参ノ章",
+    "delayedFrom": "0001-01-01T17:30:00Z",
+    "delayedUntil": "0001-01-01T17:30:00Z",
+    "episodeDate": "2026-01-23T17:30:00Z",
+    "episodeNumber": 3,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179062,
+        "idMal": 59229,
+        "title": {
+          "romaji": "Enen no Shouboutai: San no Shou Part 2",
+          "english": "Fire Force Season 3 Part 2",
+          "native": "炎炎ノ消防隊 参ノ章 第2クール",
+          "userPreferred": "Fire Force Season 3 Part 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
+          "color": "#febb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-01-23T17:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-09T17:30:00Z"
+  },
+  {
+    "title": "Enen no Shouboutai: San no Shou Part 2",
+    "route": "enen-no-shouboutai-san-no-shou-part-2",
+    "romaji": "Enen no Shouboutai: San no Shou Part 2",
+    "english": "Fire Force 3rd Season Part 2",
+    "native": "炎炎ノ消防隊 参ノ章",
+    "delayedFrom": "0001-01-01T17:30:00Z",
+    "delayedUntil": "0001-01-01T17:30:00Z",
+    "episodeDate": "2026-01-30T17:30:00Z",
+    "episodeNumber": 4,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179062,
+        "idMal": 59229,
+        "title": {
+          "romaji": "Enen no Shouboutai: San no Shou Part 2",
+          "english": "Fire Force Season 3 Part 2",
+          "native": "炎炎ノ消防隊 参ノ章 第2クール",
+          "userPreferred": "Fire Force Season 3 Part 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
+          "color": "#febb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-01-30T17:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-09T17:30:00Z"
   },
   {
     "title": "Enen no Shouboutai: San no Shou Part 2",
