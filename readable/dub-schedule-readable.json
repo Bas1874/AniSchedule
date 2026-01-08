@@ -5449,9 +5449,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-01-07T15:00:00Z",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-07T14:00:00Z",
     "episodeNumber": 1,
     "episodes": 11,
     "mediaTypes": [
@@ -5490,7 +5490,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-14T15:00:00Z"
+              "airingAt": "2026-01-14T14:00:00Z"
             }
           ]
         }
@@ -5505,9 +5505,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-01-14T15:00:00Z",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-14T14:00:00Z",
     "episodeNumber": 2,
     "episodes": 11,
     "mediaTypes": [
@@ -5546,7 +5546,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-14T15:00:00Z"
+              "airingAt": "2026-01-14T14:00:00Z"
             }
           ]
         }
@@ -5561,9 +5561,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-01-21T15:00:00Z",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-21T14:00:00Z",
     "episodeNumber": 3,
     "episodes": 11,
     "mediaTypes": [
@@ -5602,7 +5602,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2026-01-21T15:00:00Z"
+              "airingAt": "2026-01-21T14:00:00Z"
             }
           ]
         }
@@ -5617,9 +5617,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-01-28T15:00:00Z",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-28T14:00:00Z",
     "episodeNumber": 4,
     "episodes": 11,
     "mediaTypes": [
@@ -5658,7 +5658,7 @@
           "nodes": [
             {
               "episode": 4,
-              "airingAt": "2026-01-28T15:00:00Z"
+              "airingAt": "2026-01-28T14:00:00Z"
             }
           ]
         }
@@ -5673,9 +5673,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-01-07T15:00:00Z",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-07T14:00:00Z",
     "episodeNumber": 1,
     "episodes": 11,
     "mediaTypes": [
@@ -5714,7 +5714,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-14T15:00:00Z"
+              "airingAt": "2026-01-14T14:00:00Z"
             }
           ]
         }
@@ -8144,9 +8144,9 @@
         "idMal": 50159,
         "title": {
           "romaji": "Zombie Land Saga: Yume Ginga Paradise",
-          "english": null,
+          "english": "Zombie Land Saga: Yumeginga Paradise",
           "native": "ゾンビランドサガ ゆめぎんがパラダイス",
-          "userPreferred": "Zombie Land Saga: Yume Ginga Paradise"
+          "userPreferred": "Zombie Land Saga: Yumeginga Paradise"
         },
         "format": "MOVIE",
         "genres": [
