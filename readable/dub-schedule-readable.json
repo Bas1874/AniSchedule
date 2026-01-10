@@ -2376,6 +2376,286 @@
     "addedAt": "2026-01-09T17:30:00Z"
   },
   {
+    "title": "Fate/strange Fake",
+    "route": "fate-strange-fake",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-01-10T16:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 13,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 166617,
+        "idMal": 55830,
+        "title": {
+          "romaji": "Fate/strange Fake",
+          "english": "Fate/strange Fake",
+          "native": "Fate/strange Fake",
+          "userPreferred": "Fate/strange Fake"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
+          "color": "#1a1af1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-01-17T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-10T18:31:10Z"
+  },
+  {
+    "title": "Fate/strange Fake",
+    "route": "fate-strange-fake",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-01-17T16:00:00Z",
+    "episodeNumber": 3,
+    "episodes": 13,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 166617,
+        "idMal": 55830,
+        "title": {
+          "romaji": "Fate/strange Fake",
+          "english": "Fate/strange Fake",
+          "native": "Fate/strange Fake",
+          "userPreferred": "Fate/strange Fake"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
+          "color": "#1a1af1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-01-17T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-10T18:31:10Z"
+  },
+  {
+    "title": "Fate/strange Fake",
+    "route": "fate-strange-fake",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-01-24T16:00:00Z",
+    "episodeNumber": 4,
+    "episodes": 13,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 166617,
+        "idMal": 55830,
+        "title": {
+          "romaji": "Fate/strange Fake",
+          "english": "Fate/strange Fake",
+          "native": "Fate/strange Fake",
+          "userPreferred": "Fate/strange Fake"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
+          "color": "#1a1af1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-01-24T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-10T18:31:10Z"
+  },
+  {
+    "title": "Fate/strange Fake",
+    "route": "fate-strange-fake",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-01-31T16:00:00Z",
+    "episodeNumber": 5,
+    "episodes": 13,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 166617,
+        "idMal": 55830,
+        "title": {
+          "romaji": "Fate/strange Fake",
+          "english": "Fate/strange Fake",
+          "native": "Fate/strange Fake",
+          "userPreferred": "Fate/strange Fake"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
+          "color": "#1a1af1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 5,
+              "airingAt": "2026-01-31T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-10T18:31:10Z"
+  },
+  {
+    "title": "Fate/strange Fake",
+    "route": "fate-strange-fake",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-01-10T16:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 13,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 166617,
+        "idMal": 55830,
+        "title": {
+          "romaji": "Fate/strange Fake",
+          "english": "Fate/strange Fake",
+          "native": "Fate/strange Fake",
+          "userPreferred": "Fate/strange Fake"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
+          "color": "#1a1af1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-01-17T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-10T18:31:10Z"
+  },
+  {
     "title": "Fumetsu no Anata e 3",
     "route": "fumetsu-no-anata-e-3",
     "romaji": "Fumetsu no Anata e 3",
