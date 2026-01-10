@@ -41,7 +41,7 @@
           "color": "#e45d43"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183291-E08EXbbO7RRh.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -97,7 +97,7 @@
           "color": "#e45d43"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183291-E08EXbbO7RRh.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -153,7 +153,7 @@
           "color": "#e45d43"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183291-E08EXbbO7RRh.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1017,9 +1017,9 @@
         "idMal": 59853,
         "title": {
           "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
-          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "english": "DARK MOON: THE BLOOD ALTAR",
           "native": "DARK MOON　-黒の月: 月の祭壇-",
-          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR"
         },
         "format": "TV",
         "genres": [
@@ -1033,7 +1033,7 @@
           "color": "#d6281a"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181443-Euz60QKDzsLs.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1072,9 +1072,9 @@
         "idMal": 59853,
         "title": {
           "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
-          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "english": "DARK MOON: THE BLOOD ALTAR",
           "native": "DARK MOON　-黒の月: 月の祭壇-",
-          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR"
         },
         "format": "TV",
         "genres": [
@@ -1088,7 +1088,7 @@
           "color": "#d6281a"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181443-Euz60QKDzsLs.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1127,9 +1127,9 @@
         "idMal": 59853,
         "title": {
           "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
-          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "english": "DARK MOON: THE BLOOD ALTAR",
           "native": "DARK MOON　-黒の月: 月の祭壇-",
-          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR"
         },
         "format": "TV",
         "genres": [
@@ -1143,7 +1143,7 @@
           "color": "#d6281a"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181443-Euz60QKDzsLs.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1182,9 +1182,9 @@
         "idMal": 59853,
         "title": {
           "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
-          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "english": "DARK MOON: THE BLOOD ALTAR",
           "native": "DARK MOON　-黒の月: 月の祭壇-",
-          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR"
         },
         "format": "TV",
         "genres": [
@@ -1198,7 +1198,7 @@
           "color": "#d6281a"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181443-Euz60QKDzsLs.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1237,9 +1237,9 @@
         "idMal": 59853,
         "title": {
           "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
-          "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+          "english": "DARK MOON: THE BLOOD ALTAR",
           "native": "DARK MOON　-黒の月: 月の祭壇-",
-          "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+          "userPreferred": "DARK MOON: THE BLOOD ALTAR"
         },
         "format": "TV",
         "genres": [
@@ -1253,7 +1253,7 @@
           "color": "#d6281a"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181443-Euz60QKDzsLs.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -2075,8 +2075,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-01-10T12:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-01-17T12:00:00Z"
             }
           ]
         }
@@ -8679,8 +8679,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 32,
-              "airingAt": "2026-01-10T12:00:00Z"
+              "episode": 33,
+              "airingAt": "2026-01-17T12:00:00Z"
             }
           ]
         }
