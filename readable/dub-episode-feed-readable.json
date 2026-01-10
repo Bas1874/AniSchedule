@@ -1,5 +1,115 @@
 [
   {
+    "id": 187464,
+    "idMal": 61159,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T17:00:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 187464,
+    "idMal": 61159,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T17:00:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 187464,
+    "idMal": 61159,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T17:00:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 187464,
+    "idMal": 61159,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T17:00:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 187464,
+    "idMal": 61159,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T17:00:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 185116,
+    "idMal": 60427,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T16:30:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 185116,
+    "idMal": 60427,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T16:30:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 185116,
+    "idMal": 60427,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T16:30:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 185116,
+    "idMal": 60427,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T16:30:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
+    "id": 185116,
+    "idMal": 60427,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-01-10T16:30:00Z",
+      "addedAt": "2026-01-10T17:19:08Z"
+    }
+  },
+  {
     "id": 188487,
     "idMal": 61276,
     "format": "TV",
@@ -40,7 +150,7 @@
     "episode": {
       "aired": 32,
       "airedAt": "2026-01-10T12:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
@@ -51,7 +161,7 @@
     "episode": {
       "aired": 2,
       "airedAt": "2026-01-10T12:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
@@ -975,7 +1085,7 @@
     "episode": {
       "aired": 5,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
@@ -986,7 +1096,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
@@ -997,7 +1107,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
@@ -1008,7 +1118,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
@@ -1019,7 +1129,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
@@ -1030,7 +1140,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-01-04T14:00:00Z",
-      "addedAt": "2026-01-10T16:26:38Z"
+      "addedAt": "2026-01-10T17:19:08Z"
     }
   },
   {
