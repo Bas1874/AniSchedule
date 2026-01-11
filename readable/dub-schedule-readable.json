@@ -2995,8 +2995,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 23,
-              "airingAt": "2026-01-11T15:30:00Z"
+              "episode": 24,
+              "airingAt": "2026-01-18T15:30:00Z"
             }
           ]
         }
@@ -3051,7 +3051,7 @@
           "nodes": [
             {
               "episode": 24,
-              "airingAt": "2026-01-11T15:30:00Z"
+              "airingAt": "2026-01-18T15:30:00Z"
             }
           ]
         }
@@ -3105,8 +3105,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 23,
-              "airingAt": "2026-01-11T15:30:00Z"
+              "episode": 24,
+              "airingAt": "2026-01-18T15:30:00Z"
             }
           ]
         }
