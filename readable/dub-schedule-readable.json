@@ -3438,8 +3438,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-01-11T14:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-01-18T14:00:00Z"
             }
           ]
         }
@@ -3670,8 +3670,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-01-11T14:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-01-18T14:00:00Z"
             }
           ]
         }
