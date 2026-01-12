@@ -5748,7 +5748,8 @@
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
     "episodeDate": "2026-01-15T08:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 20,
+    "subtractedEpisodeNumber": 1,
     "episodes": 20,
     "mediaTypes": [
       {
@@ -5785,168 +5786,82 @@
             {
               "episode": 1,
               "airingAt": "2026-01-15T08:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-01-15T08:00:00Z"
-  },
-  {
-    "title": "Prism Rondo",
-    "route": "prism-rondo",
-    "romaji": "Prism Rondo",
-    "english": "Love Through a Prism",
-    "native": "プリズム輪舞曲",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-01-22T08:00:00Z",
-    "episodeNumber": 2,
-    "episodes": 20,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 202955,
-        "idMal": 63019,
-        "title": {
-          "romaji": "Prism Rondo",
-          "english": "Love Through A Prism",
-          "native": "プリズム輪舞曲",
-          "userPreferred": "Love Through A Prism"
-        },
-        "format": "ONA",
-        "genres": [
-          "Romance"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
-          "color": "#e4bb43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg",
-        "airingSchedule": {
-          "nodes": [
+            },
             {
               "episode": 2,
-              "airingAt": "2026-01-22T08:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-01-15T08:00:00Z"
-  },
-  {
-    "title": "Prism Rondo",
-    "route": "prism-rondo",
-    "romaji": "Prism Rondo",
-    "english": "Love Through a Prism",
-    "native": "プリズム輪舞曲",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-01-29T08:00:00Z",
-    "episodeNumber": 3,
-    "episodes": 20,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 202955,
-        "idMal": 63019,
-        "title": {
-          "romaji": "Prism Rondo",
-          "english": "Love Through A Prism",
-          "native": "プリズム輪舞曲",
-          "userPreferred": "Love Through A Prism"
-        },
-        "format": "ONA",
-        "genres": [
-          "Romance"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
-          "color": "#e4bb43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg",
-        "airingSchedule": {
-          "nodes": [
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
             {
               "episode": 3,
-              "airingAt": "2026-01-29T08:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-01-15T08:00:00Z"
-  },
-  {
-    "title": "Prism Rondo",
-    "route": "prism-rondo",
-    "romaji": "Prism Rondo",
-    "english": "Love Through a Prism",
-    "native": "プリズム輪舞曲",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-02-05T08:00:00Z",
-    "episodeNumber": 4,
-    "episodes": 20,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 202955,
-        "idMal": 63019,
-        "title": {
-          "romaji": "Prism Rondo",
-          "english": "Love Through A Prism",
-          "native": "プリズム輪舞曲",
-          "userPreferred": "Love Through A Prism"
-        },
-        "format": "ONA",
-        "genres": [
-          "Romance"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202955-TFyTd1zFT1v7.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202955-TFyTd1zFT1v7.jpg",
-          "color": "#e4bb43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202955-NGyGdH5wvSpB.jpg",
-        "airingSchedule": {
-          "nodes": [
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
             {
               "episode": 4,
-              "airingAt": "2026-02-05T08:00:00Z"
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 16,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 20,
+              "airingAt": "2026-01-15T08:00:00Z"
             }
           ]
         }
@@ -5964,7 +5879,8 @@
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
     "episodeDate": "2026-01-15T08:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 20,
+    "subtractedEpisodeNumber": 1,
     "episodes": 20,
     "mediaTypes": [
       {
@@ -6000,6 +5916,82 @@
           "nodes": [
             {
               "episode": 1,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 16,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 20,
               "airingAt": "2026-01-15T08:00:00Z"
             }
           ]
