@@ -1201,8 +1201,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-01-13T15:30:00Z"
+              "episode": 3,
+              "airingAt": "2026-01-20T15:30:00Z"
             }
           ]
         }
@@ -1421,8 +1421,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-01-13T15:30:00Z"
+              "episode": 3,
+              "airingAt": "2026-01-20T15:30:00Z"
             }
           ]
         }
@@ -6297,9 +6297,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-01-14T14:00:00Z",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-01-14T14:30:00Z",
     "episodeNumber": 2,
     "episodes": 11,
     "lengthMin": 25,
@@ -6340,7 +6340,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-14T14:00:00Z"
+              "airingAt": "2026-01-14T14:30:00Z"
             }
           ]
         }
@@ -6355,9 +6355,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-01-21T14:00:00Z",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-01-21T14:30:00Z",
     "episodeNumber": 3,
     "episodes": 11,
     "lengthMin": 25,
@@ -6398,7 +6398,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2026-01-21T14:00:00Z"
+              "airingAt": "2026-01-21T14:30:00Z"
             }
           ]
         }
@@ -6413,9 +6413,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-01-28T14:00:00Z",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-01-28T14:30:00Z",
     "episodeNumber": 4,
     "episodes": 11,
     "lengthMin": 25,
@@ -6456,7 +6456,7 @@
           "nodes": [
             {
               "episode": 4,
-              "airingAt": "2026-01-28T14:00:00Z"
+              "airingAt": "2026-01-28T14:30:00Z"
             }
           ]
         }
@@ -6471,9 +6471,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-02-04T14:00:00Z",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-02-04T14:30:00Z",
     "episodeNumber": 5,
     "episodes": 11,
     "lengthMin": 25,
@@ -6514,7 +6514,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-04T14:00:00Z"
+              "airingAt": "2026-02-04T14:30:00Z"
             }
           ]
         }
@@ -6529,9 +6529,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-01-14T14:00:00Z",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-01-14T14:30:00Z",
     "episodeNumber": 2,
     "episodes": 11,
     "lengthMin": 25,
@@ -6572,7 +6572,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-14T14:00:00Z"
+              "airingAt": "2026-01-14T14:30:00Z"
             }
           ]
         }
