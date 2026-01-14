@@ -4763,8 +4763,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-01-14T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-01-21T17:00:00Z"
             }
           ]
         }
@@ -4879,8 +4879,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-01-14T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-01-21T17:00:00Z"
             }
           ]
         }
@@ -6327,7 +6327,7 @@
           "Mystery",
           "Thriller"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
@@ -6385,7 +6385,7 @@
           "Mystery",
           "Thriller"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
@@ -6443,7 +6443,7 @@
           "Mystery",
           "Thriller"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
@@ -6501,7 +6501,7 @@
           "Mystery",
           "Thriller"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
@@ -6559,7 +6559,7 @@
           "Mystery",
           "Thriller"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
@@ -6628,8 +6628,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-01-14T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-01-21T17:00:00Z"
             }
           ]
         }
@@ -6856,8 +6856,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-01-14T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-01-21T17:00:00Z"
             }
           ]
         }
@@ -7530,8 +7530,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-01-14T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-01-21T17:00:00Z"
             }
           ]
         }
@@ -7762,8 +7762,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-01-14T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-01-21T17:00:00Z"
             }
           ]
         }
