@@ -7211,7 +7211,8 @@
     "delayedFrom": "2025-12-27T17:00:00Z",
     "delayedUntil": "2026-01-10T17:00:00Z",
     "episodeDate": "2026-01-17T17:00:00Z",
-    "episodeNumber": 12,
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 12,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -7248,7 +7249,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 12,
+              "airingAt": "2026-01-17T17:00:00Z"
+            },
+            {
               "episode": 13,
+              "airingAt": "2026-01-17T17:00:00Z"
+            },
+            {
+              "episode": 14,
               "airingAt": "2026-01-24T17:00:00Z"
             }
           ]
@@ -7267,62 +7276,6 @@
     "delayedFrom": "2025-12-27T17:00:00Z",
     "delayedUntil": "2026-01-10T17:00:00Z",
     "episodeDate": "2026-01-24T17:00:00Z",
-    "episodeNumber": 13,
-    "episodes": 24,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187464,
-        "idMal": 61159,
-        "title": {
-          "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-          "english": "Tojima Wants to Be a Kamen Rider",
-          "native": "東島丹三郎は仮面ライダーになりたい",
-          "userPreferred": "Tojima Wants to Be a Kamen Rider"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187464-NJtK3VC54vPm.jpg",
-          "color": "#e4bb43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-hKvfyQ2VWlYt.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-01-24T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-18T18:11:16Z"
-  },
-  {
-    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-    "route": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
-    "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-    "english": "Tojima Wants to Be a Kamen Rider",
-    "native": "東島丹三郎は仮面ライダーになりたい",
-    "delayedFrom": "2025-12-27T17:00:00Z",
-    "delayedUntil": "2026-01-10T17:00:00Z",
-    "episodeDate": "2026-01-31T17:00:00Z",
     "episodeNumber": 14,
     "episodes": 24,
     "lengthMin": 23,
@@ -7361,7 +7314,7 @@
           "nodes": [
             {
               "episode": 14,
-              "airingAt": "2026-01-31T17:00:00Z"
+              "airingAt": "2026-01-24T17:00:00Z"
             }
           ]
         }
@@ -7378,7 +7331,7 @@
     "native": "東島丹三郎は仮面ライダーになりたい",
     "delayedFrom": "2025-12-27T17:00:00Z",
     "delayedUntil": "2026-01-10T17:00:00Z",
-    "episodeDate": "2026-02-07T17:00:00Z",
+    "episodeDate": "2026-01-31T17:00:00Z",
     "episodeNumber": 15,
     "episodes": 24,
     "lengthMin": 23,
@@ -7417,7 +7370,7 @@
           "nodes": [
             {
               "episode": 15,
-              "airingAt": "2026-02-07T17:00:00Z"
+              "airingAt": "2026-01-31T17:00:00Z"
             }
           ]
         }
@@ -7434,8 +7387,8 @@
     "native": "東島丹三郎は仮面ライダーになりたい",
     "delayedFrom": "2025-12-27T17:00:00Z",
     "delayedUntil": "2026-01-10T17:00:00Z",
-    "episodeDate": "2026-01-17T17:00:00Z",
-    "episodeNumber": 12,
+    "episodeDate": "2026-02-07T17:00:00Z",
+    "episodeNumber": 16,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -7472,7 +7425,72 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 16,
+              "airingAt": "2026-02-07T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2025-10-18T18:11:16Z"
+  },
+  {
+    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "route": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
+    "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "english": "Tojima Wants to Be a Kamen Rider",
+    "native": "東島丹三郎は仮面ライダーになりたい",
+    "delayedFrom": "2025-12-27T17:00:00Z",
+    "delayedUntil": "2026-01-10T17:00:00Z",
+    "episodeDate": "2026-01-17T17:00:00Z",
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 12,
+    "episodes": 24,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 187464,
+        "idMal": 61159,
+        "title": {
+          "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+          "english": "Tojima Wants to Be a Kamen Rider",
+          "native": "東島丹三郎は仮面ライダーになりたい",
+          "userPreferred": "Tojima Wants to Be a Kamen Rider"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187464-NJtK3VC54vPm.jpg",
+          "color": "#e4bb43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-hKvfyQ2VWlYt.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2026-01-17T17:00:00Z"
+            },
+            {
               "episode": 13,
+              "airingAt": "2026-01-17T17:00:00Z"
+            },
+            {
+              "episode": 14,
               "airingAt": "2026-01-24T17:00:00Z"
             }
           ]
