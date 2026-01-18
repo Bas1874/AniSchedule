@@ -5507,8 +5507,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-01-18T15:15:00Z"
+              "episode": 9,
+              "airingAt": "2026-01-25T15:15:00Z"
             }
           ]
         }
@@ -5731,8 +5731,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-01-18T15:15:00Z"
+              "episode": 9,
+              "airingAt": "2026-01-25T15:15:00Z"
             }
           ]
         }
@@ -5753,6 +5753,7 @@
     "episodeNumber": 20,
     "subtractedEpisodeNumber": 1,
     "episodes": 20,
+    "lengthMin": 27,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -5885,6 +5886,7 @@
     "episodeNumber": 20,
     "subtractedEpisodeNumber": 1,
     "episodes": 20,
+    "lengthMin": 27,
     "mediaTypes": [
       {
         "name": "ONA",
