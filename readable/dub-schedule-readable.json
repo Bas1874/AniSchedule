@@ -6201,7 +6201,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-07T15:00:00Z"
   },
   {
@@ -6259,7 +6259,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-07T15:00:00Z"
   },
   {
@@ -6317,7 +6317,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-07T15:00:00Z"
   },
   {
@@ -6375,7 +6375,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-07T15:00:00Z"
   },
   {
@@ -6433,7 +6433,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-07T15:00:00Z"
   },
   {
@@ -8481,8 +8481,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-01-21T15:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-01-28T15:00:00Z"
             }
           ]
         }
@@ -8705,8 +8705,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-01-21T15:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-01-28T15:00:00Z"
             }
           ]
         }
