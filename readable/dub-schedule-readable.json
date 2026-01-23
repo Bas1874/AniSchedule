@@ -1046,6 +1046,8 @@
         },
         "format": "ONA",
         "genres": [
+          "Action",
+          "Comedy",
           "Fantasy",
           "Music",
           "Sci-Fi"
@@ -1103,6 +1105,8 @@
         },
         "format": "ONA",
         "genres": [
+          "Action",
+          "Comedy",
           "Fantasy",
           "Music",
           "Sci-Fi"
@@ -5487,6 +5491,271 @@
     },
     "verified": false,
     "addedAt": "2026-01-20T14:00:00Z"
+  },
+  {
+    "title": "MF Ghost 3rd Season",
+    "route": "mf-ghost-3rd-season",
+    "native": "MFゴースト 3rd Season",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2026-01-22T21:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185753,
+        "idMal": 60602,
+        "title": {
+          "romaji": "MF Ghost 3rd Season",
+          "english": "MF GHOST Season 3",
+          "native": "MFゴースト 3rd Season",
+          "userPreferred": "MF GHOST Season 3"
+        },
+        "format": "ONA",
+        "genres": [
+          "Sci-Fi",
+          "Sports"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
+          "color": "#35aee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-29T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-23T01:50:02Z"
+  },
+  {
+    "title": "MF Ghost 3rd Season",
+    "route": "mf-ghost-3rd-season",
+    "native": "MFゴースト 3rd Season",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2026-01-29T21:30:00Z",
+    "episodeNumber": 2,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185753,
+        "idMal": 60602,
+        "title": {
+          "romaji": "MF Ghost 3rd Season",
+          "english": "MF GHOST Season 3",
+          "native": "MFゴースト 3rd Season",
+          "userPreferred": "MF GHOST Season 3"
+        },
+        "format": "ONA",
+        "genres": [
+          "Sci-Fi",
+          "Sports"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
+          "color": "#35aee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-29T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-23T01:50:02Z"
+  },
+  {
+    "title": "MF Ghost 3rd Season",
+    "route": "mf-ghost-3rd-season",
+    "native": "MFゴースト 3rd Season",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2026-02-05T21:30:00Z",
+    "episodeNumber": 3,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185753,
+        "idMal": 60602,
+        "title": {
+          "romaji": "MF Ghost 3rd Season",
+          "english": "MF GHOST Season 3",
+          "native": "MFゴースト 3rd Season",
+          "userPreferred": "MF GHOST Season 3"
+        },
+        "format": "ONA",
+        "genres": [
+          "Sci-Fi",
+          "Sports"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
+          "color": "#35aee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-02-05T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-23T01:50:02Z"
+  },
+  {
+    "title": "MF Ghost 3rd Season",
+    "route": "mf-ghost-3rd-season",
+    "native": "MFゴースト 3rd Season",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2026-02-12T21:30:00Z",
+    "episodeNumber": 4,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185753,
+        "idMal": 60602,
+        "title": {
+          "romaji": "MF Ghost 3rd Season",
+          "english": "MF GHOST Season 3",
+          "native": "MFゴースト 3rd Season",
+          "userPreferred": "MF GHOST Season 3"
+        },
+        "format": "ONA",
+        "genres": [
+          "Sci-Fi",
+          "Sports"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
+          "color": "#35aee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-02-12T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-23T01:50:02Z"
+  },
+  {
+    "title": "MF Ghost 3rd Season",
+    "route": "mf-ghost-3rd-season",
+    "native": "MFゴースト 3rd Season",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2026-01-22T21:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185753,
+        "idMal": 60602,
+        "title": {
+          "romaji": "MF Ghost 3rd Season",
+          "english": "MF GHOST Season 3",
+          "native": "MFゴースト 3rd Season",
+          "userPreferred": "MF GHOST Season 3"
+        },
+        "format": "ONA",
+        "genres": [
+          "Sci-Fi",
+          "Sports"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
+          "color": "#35aee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-29T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-23T01:50:02Z"
   },
   {
     "title": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
