@@ -1999,8 +1999,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-01-25T04:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-02-01T04:00:00Z"
             }
           ]
         }
@@ -2054,7 +2054,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2026-01-25T04:00:00Z"
+              "airingAt": "2026-02-01T04:00:00Z"
             }
           ]
         }
@@ -2108,7 +2108,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2026-01-25T04:00:00Z"
+              "airingAt": "2026-02-08T04:00:00Z"
             }
           ]
         }
@@ -2162,7 +2162,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-01-25T04:00:00Z"
+              "airingAt": "2026-02-15T04:00:00Z"
             }
           ]
         }
@@ -2215,8 +2215,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-01-25T04:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-02-01T04:00:00Z"
             }
           ]
         }
@@ -4723,7 +4723,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-01-25T02:00:13Z"
+    "addedAt": "2026-01-25T15:15:00Z"
   },
   {
     "title": "Jigokuraku 2nd Season",
@@ -4781,7 +4781,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-01-25T02:00:13Z"
+    "addedAt": "2026-01-25T15:15:00Z"
   },
   {
     "title": "Jigokuraku 2nd Season",
@@ -4839,7 +4839,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-01-25T02:00:13Z"
+    "addedAt": "2026-01-25T15:15:00Z"
   },
   {
     "title": "Jigokuraku 2nd Season",
@@ -10273,7 +10273,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-01-25T02:00:13Z"
+    "addedAt": "2026-01-25T08:00:00Z"
   },
   {
     "title": "Uruwashi no Yoi no Tsuki",
@@ -10328,7 +10328,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-01-25T02:00:13Z"
+    "addedAt": "2026-01-25T08:00:00Z"
   },
   {
     "title": "Uruwashi no Yoi no Tsuki",
@@ -10383,7 +10383,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-01-25T02:00:13Z"
+    "addedAt": "2026-01-25T08:00:00Z"
   },
   {
     "title": "Uruwashi no Yoi no Tsuki",
