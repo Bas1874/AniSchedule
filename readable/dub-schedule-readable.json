@@ -3671,9 +3671,9 @@
     "romaji": "Fumetsu no Anata e 3",
     "english": "To Your Eternity 3",
     "native": "不滅のあなたへ3",
-    "delayedFrom": "2025-12-27T21:00:00Z",
-    "delayedUntil": "2026-01-10T21:00:00Z",
-    "episodeDate": "2026-01-31T21:00:00Z",
+    "delayedFrom": "2025-12-27T15:45:00Z",
+    "delayedUntil": "2026-01-10T15:45:00Z",
+    "episodeDate": "2026-01-31T15:45:00Z",
     "episodeNumber": 16,
     "episodes": 22,
     "lengthMin": 25,
@@ -3714,8 +3714,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2026-01-31T21:00:00Z"
+              "episode": 17,
+              "airingAt": "2026-02-07T15:45:00Z"
             }
           ]
         }
@@ -3730,9 +3730,9 @@
     "romaji": "Fumetsu no Anata e 3",
     "english": "To Your Eternity 3",
     "native": "不滅のあなたへ3",
-    "delayedFrom": "2025-12-27T21:00:00Z",
-    "delayedUntil": "2026-01-10T21:00:00Z",
-    "episodeDate": "2026-02-07T21:00:00Z",
+    "delayedFrom": "2025-12-27T15:45:00Z",
+    "delayedUntil": "2026-01-10T15:45:00Z",
+    "episodeDate": "2026-02-07T15:45:00Z",
     "episodeNumber": 17,
     "episodes": 22,
     "lengthMin": 25,
@@ -3774,7 +3774,7 @@
           "nodes": [
             {
               "episode": 17,
-              "airingAt": "2026-02-07T21:00:00Z"
+              "airingAt": "2026-02-07T15:45:00Z"
             }
           ]
         }
@@ -3789,9 +3789,9 @@
     "romaji": "Fumetsu no Anata e 3",
     "english": "To Your Eternity 3",
     "native": "不滅のあなたへ3",
-    "delayedFrom": "2025-12-27T21:00:00Z",
-    "delayedUntil": "2026-01-10T21:00:00Z",
-    "episodeDate": "2026-02-14T21:00:00Z",
+    "delayedFrom": "2025-12-27T15:45:00Z",
+    "delayedUntil": "2026-01-10T15:45:00Z",
+    "episodeDate": "2026-02-14T15:45:00Z",
     "episodeNumber": 18,
     "episodes": 22,
     "lengthMin": 25,
@@ -3833,7 +3833,7 @@
           "nodes": [
             {
               "episode": 18,
-              "airingAt": "2026-02-14T21:00:00Z"
+              "airingAt": "2026-02-14T15:45:00Z"
             }
           ]
         }
@@ -3848,9 +3848,9 @@
     "romaji": "Fumetsu no Anata e 3",
     "english": "To Your Eternity 3",
     "native": "不滅のあなたへ3",
-    "delayedFrom": "2025-12-27T21:00:00Z",
-    "delayedUntil": "2026-01-10T21:00:00Z",
-    "episodeDate": "2026-02-21T21:00:00Z",
+    "delayedFrom": "2025-12-27T15:45:00Z",
+    "delayedUntil": "2026-01-10T15:45:00Z",
+    "episodeDate": "2026-02-21T15:45:00Z",
     "episodeNumber": 19,
     "episodes": 22,
     "lengthMin": 25,
@@ -3892,7 +3892,7 @@
           "nodes": [
             {
               "episode": 19,
-              "airingAt": "2026-02-21T21:00:00Z"
+              "airingAt": "2026-02-21T15:45:00Z"
             }
           ]
         }
@@ -3907,9 +3907,9 @@
     "romaji": "Fumetsu no Anata e 3",
     "english": "To Your Eternity 3",
     "native": "不滅のあなたへ3",
-    "delayedFrom": "2025-12-27T21:00:00Z",
-    "delayedUntil": "2026-01-10T21:00:00Z",
-    "episodeDate": "2026-01-31T21:00:00Z",
+    "delayedFrom": "2025-12-27T15:45:00Z",
+    "delayedUntil": "2026-01-10T15:45:00Z",
+    "episodeDate": "2026-01-31T15:45:00Z",
     "episodeNumber": 16,
     "episodes": 22,
     "lengthMin": 25,
@@ -3950,8 +3950,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2026-01-31T21:00:00Z"
+              "episode": 17,
+              "airingAt": "2026-02-07T15:45:00Z"
             }
           ]
         }
