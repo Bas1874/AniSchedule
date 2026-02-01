@@ -2310,10 +2310,11 @@
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-01-04T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-02-08T04:00:00Z",
-    "episodeNumber": 6,
+    "delayedFrom": "2026-02-08T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-02-08T03:00:00Z",
+    "episodeNumber": 11,
+    "subtractedEpisodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2351,7 +2352,27 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-08T04:00:00Z"
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-02-08T03:00:00Z"
             }
           ]
         }
@@ -2365,10 +2386,11 @@
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-01-04T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-02-15T04:00:00Z",
-    "episodeNumber": 6,
+    "delayedFrom": "2026-02-08T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-02-15T03:00:00Z",
+    "episodeNumber": 11,
+    "subtractedEpisodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2406,7 +2428,27 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-15T04:00:00Z"
+              "airingAt": "2026-02-15T03:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-02-15T03:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-02-15T03:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-02-15T03:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-02-15T03:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-02-15T03:00:00Z"
             }
           ]
         }
@@ -2420,10 +2462,11 @@
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-01-04T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-02-22T04:00:00Z",
-    "episodeNumber": 6,
+    "delayedFrom": "2026-02-08T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-02-22T03:00:00Z",
+    "episodeNumber": 11,
+    "subtractedEpisodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2461,7 +2504,27 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-22T04:00:00Z"
+              "airingAt": "2026-02-22T03:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-02-22T03:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-02-22T03:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-02-22T03:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-02-22T03:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-02-22T03:00:00Z"
             }
           ]
         }
@@ -2475,10 +2538,11 @@
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-01-04T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-02-01T04:00:00Z",
-    "episodeNumber": 6,
+    "delayedFrom": "2026-02-08T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-02-01T03:00:00Z",
+    "episodeNumber": 10,
+    "subtractedEpisodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2516,7 +2580,43 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-01T04:00:00Z"
+              "airingAt": "2026-02-01T03:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-02-01T03:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-02-01T03:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-02-01T03:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-02-01T03:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2026-02-08T03:00:00Z"
             }
           ]
         }
