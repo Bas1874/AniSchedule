@@ -2254,66 +2254,10 @@
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-01-04T04:00:00Z",
-    "delayedUntil": "2032-01-01T04:00:00Z",
-    "episodeDate": "2026-01-25T04:00:00Z",
-    "episodeNumber": 6,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "delayedIndefinitely": true,
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188388,
-        "idMal": 61269,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK",
-          "english": "DIGIMON BEATBREAK",
-          "native": "DIGIMON BEATBREAK",
-          "userPreferred": "DIGIMON BEATBREAK"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
-          "color": "#fec928"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 6,
-              "airingAt": "2032-01-01T04:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-12-27T22:00:00Z"
-  },
-  {
-    "title": "Digimon BeatBreak",
-    "route": "digimon-beatbreak",
-    "native": "デジモンビートブレイク",
-    "delayedText": "Delayed",
-    "delayedFrom": "2026-02-08T03:00:00Z",
+    "delayedFrom": "0001-01-01T03:00:00Z",
     "delayedUntil": "0001-01-01T03:00:00Z",
-    "episodeDate": "2026-02-08T03:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-02-01T03:00:00Z",
+    "episodeNumber": 10,
     "subtractedEpisodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2352,26 +2296,42 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-08T03:00:00Z"
+              "airingAt": "2026-02-01T03:00:00Z"
             },
             {
               "episode": 7,
-              "airingAt": "2026-02-08T03:00:00Z"
+              "airingAt": "2026-02-01T03:00:00Z"
             },
             {
               "episode": 8,
-              "airingAt": "2026-02-08T03:00:00Z"
+              "airingAt": "2026-02-01T03:00:00Z"
             },
             {
               "episode": 9,
-              "airingAt": "2026-02-08T03:00:00Z"
+              "airingAt": "2026-02-01T03:00:00Z"
             },
             {
               "episode": 10,
-              "airingAt": "2026-02-08T03:00:00Z"
+              "airingAt": "2026-02-01T03:00:00Z"
             },
             {
               "episode": 11,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-02-08T03:00:00Z"
+            },
+            {
+              "episode": 15,
               "airingAt": "2026-02-08T03:00:00Z"
             }
           ]
@@ -2386,159 +2346,7 @@
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-02-08T03:00:00Z",
-    "delayedUntil": "0001-01-01T03:00:00Z",
-    "episodeDate": "2026-02-15T03:00:00Z",
-    "episodeNumber": 11,
-    "subtractedEpisodeNumber": 6,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188388,
-        "idMal": 61269,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK",
-          "english": "DIGIMON BEATBREAK",
-          "native": "DIGIMON BEATBREAK",
-          "userPreferred": "DIGIMON BEATBREAK"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
-          "color": "#fec928"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 6,
-              "airingAt": "2026-02-15T03:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2026-02-15T03:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2026-02-15T03:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2026-02-15T03:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2026-02-15T03:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2026-02-15T03:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-12-27T22:00:00Z"
-  },
-  {
-    "title": "Digimon BeatBreak",
-    "route": "digimon-beatbreak",
-    "native": "デジモンビートブレイク",
-    "delayedText": "Delayed",
-    "delayedFrom": "2026-02-08T03:00:00Z",
-    "delayedUntil": "0001-01-01T03:00:00Z",
-    "episodeDate": "2026-02-22T03:00:00Z",
-    "episodeNumber": 11,
-    "subtractedEpisodeNumber": 6,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188388,
-        "idMal": 61269,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK",
-          "english": "DIGIMON BEATBREAK",
-          "native": "DIGIMON BEATBREAK",
-          "userPreferred": "DIGIMON BEATBREAK"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
-          "color": "#fec928"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 6,
-              "airingAt": "2026-02-22T03:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2026-02-22T03:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2026-02-22T03:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2026-02-22T03:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2026-02-22T03:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2026-02-22T03:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-12-27T22:00:00Z"
-  },
-  {
-    "title": "Digimon BeatBreak",
-    "route": "digimon-beatbreak",
-    "native": "デジモンビートブレイク",
-    "delayedText": "Delayed",
-    "delayedFrom": "2026-02-08T03:00:00Z",
+    "delayedFrom": "0001-01-01T03:00:00Z",
     "delayedUntil": "0001-01-01T03:00:00Z",
     "episodeDate": "2026-02-01T03:00:00Z",
     "episodeNumber": 10,
@@ -8090,9 +7898,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-01-28T14:30:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-01-28T15:30:00Z",
     "episodeNumber": 4,
     "episodes": 11,
     "lengthMin": 25,
@@ -8133,7 +7941,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-04T14:30:00Z"
+              "airingAt": "2026-02-04T15:30:00Z"
             }
           ]
         }
@@ -8148,9 +7956,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-02-04T14:30:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-02-04T15:30:00Z",
     "episodeNumber": 5,
     "episodes": 11,
     "lengthMin": 25,
@@ -8191,7 +7999,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-04T14:30:00Z"
+              "airingAt": "2026-02-04T15:30:00Z"
             }
           ]
         }
@@ -8206,9 +8014,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-02-11T14:30:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-02-11T15:30:00Z",
     "episodeNumber": 6,
     "episodes": 11,
     "lengthMin": 25,
@@ -8249,7 +8057,7 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-11T14:30:00Z"
+              "airingAt": "2026-02-11T15:30:00Z"
             }
           ]
         }
@@ -8264,9 +8072,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-02-18T14:30:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-02-18T15:30:00Z",
     "episodeNumber": 7,
     "episodes": 11,
     "lengthMin": 25,
@@ -8307,7 +8115,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2026-02-18T14:30:00Z"
+              "airingAt": "2026-02-18T15:30:00Z"
             }
           ]
         }
@@ -8322,9 +8130,9 @@
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
     "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "native": "死亡遊戯で飯を食う。",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-01-28T14:30:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-01-28T15:30:00Z",
     "episodeNumber": 4,
     "episodes": 11,
     "lengthMin": 25,
@@ -8365,7 +8173,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-04T14:30:00Z"
+              "airingAt": "2026-02-04T15:30:00Z"
             }
           ]
         }
@@ -9290,8 +9098,8 @@
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
     "delayedFrom": "2026-01-31T15:00:00Z",
-    "delayedUntil": "2026-02-05T15:00:00Z",
-    "episodeDate": "2026-02-05T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-02-07T15:00:00Z",
     "episodeNumber": 3,
     "subtractedEpisodeNumber": 2,
     "episodes": 12,
@@ -9333,11 +9141,11 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-02-05T15:00:00Z"
+              "airingAt": "2026-02-07T15:00:00Z"
             },
             {
               "episode": 3,
-              "airingAt": "2026-02-05T15:00:00Z"
+              "airingAt": "2026-02-07T15:00:00Z"
             }
           ]
         }
@@ -9350,8 +9158,8 @@
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
     "delayedFrom": "2026-01-31T15:00:00Z",
-    "delayedUntil": "2026-02-05T15:00:00Z",
-    "episodeDate": "2026-02-12T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-02-14T15:00:00Z",
     "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 23,
@@ -9392,7 +9200,7 @@
           "nodes": [
             {
               "episode": 4,
-              "airingAt": "2026-02-05T15:00:00Z"
+              "airingAt": "2026-02-07T15:00:00Z"
             }
           ]
         }
@@ -9405,8 +9213,8 @@
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
     "delayedFrom": "2026-01-31T15:00:00Z",
-    "delayedUntil": "2026-02-05T15:00:00Z",
-    "episodeDate": "2026-02-19T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-02-21T15:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
@@ -9447,7 +9255,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-05T15:00:00Z"
+              "airingAt": "2026-02-07T15:00:00Z"
             }
           ]
         }
@@ -10588,9 +10396,9 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedFrom": "2026-01-08T13:30:00Z",
-    "delayedUntil": "2026-01-15T13:30:00Z",
-    "episodeDate": "2026-01-29T13:30:00Z",
+    "delayedFrom": "2026-01-08T14:00:00Z",
+    "delayedUntil": "2026-01-15T14:00:00Z",
+    "episodeDate": "2026-01-29T14:00:00Z",
     "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 25,
@@ -10631,7 +10439,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-05T13:30:00Z"
+              "airingAt": "2026-02-05T14:00:00Z"
             }
           ]
         }
@@ -10646,9 +10454,9 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedFrom": "2026-01-08T13:30:00Z",
-    "delayedUntil": "2026-01-15T13:30:00Z",
-    "episodeDate": "2026-02-05T13:30:00Z",
+    "delayedFrom": "2026-01-08T14:00:00Z",
+    "delayedUntil": "2026-01-15T14:00:00Z",
+    "episodeDate": "2026-02-05T14:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 25,
@@ -10689,7 +10497,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-05T13:30:00Z"
+              "airingAt": "2026-02-05T14:00:00Z"
             }
           ]
         }
@@ -10704,9 +10512,9 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedFrom": "2026-01-08T13:30:00Z",
-    "delayedUntil": "2026-01-15T13:30:00Z",
-    "episodeDate": "2026-02-12T13:30:00Z",
+    "delayedFrom": "2026-01-08T14:00:00Z",
+    "delayedUntil": "2026-01-15T14:00:00Z",
+    "episodeDate": "2026-02-12T14:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 25,
@@ -10747,7 +10555,7 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-12T13:30:00Z"
+              "airingAt": "2026-02-12T14:00:00Z"
             }
           ]
         }
@@ -10762,9 +10570,9 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedFrom": "2026-01-08T13:30:00Z",
-    "delayedUntil": "2026-01-15T13:30:00Z",
-    "episodeDate": "2026-02-19T13:30:00Z",
+    "delayedFrom": "2026-01-08T14:00:00Z",
+    "delayedUntil": "2026-01-15T14:00:00Z",
+    "episodeDate": "2026-02-19T14:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 25,
@@ -10805,7 +10613,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2026-02-19T13:30:00Z"
+              "airingAt": "2026-02-19T14:00:00Z"
             }
           ]
         }
@@ -10820,9 +10628,9 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedFrom": "2026-01-08T13:30:00Z",
-    "delayedUntil": "2026-01-15T13:30:00Z",
-    "episodeDate": "2026-01-29T13:30:00Z",
+    "delayedFrom": "2026-01-08T14:00:00Z",
+    "delayedUntil": "2026-01-15T14:00:00Z",
+    "episodeDate": "2026-01-29T14:00:00Z",
     "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 25,
@@ -10863,7 +10671,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-05T13:30:00Z"
+              "airingAt": "2026-02-05T14:00:00Z"
             }
           ]
         }
