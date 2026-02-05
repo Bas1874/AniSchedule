@@ -2165,12 +2165,16 @@
             {
               "episode": 3,
               "airingAt": "2026-02-05T17:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-02-12T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-22T17:00:00Z"
   },
   {
@@ -2220,13 +2224,13 @@
           "nodes": [
             {
               "episode": 4,
-              "airingAt": "2026-02-05T17:00:00Z"
+              "airingAt": "2026-02-12T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-22T17:00:00Z"
   },
   {
@@ -2276,13 +2280,13 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-05T17:00:00Z"
+              "airingAt": "2026-02-19T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-22T17:00:00Z"
   },
   {
@@ -2332,13 +2336,13 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-05T17:00:00Z"
+              "airingAt": "2026-02-26T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-22T17:00:00Z"
   },
   {
@@ -2394,12 +2398,16 @@
             {
               "episode": 3,
               "airingAt": "2026-02-05T17:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-02-12T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-22T17:00:00Z"
   },
   {
