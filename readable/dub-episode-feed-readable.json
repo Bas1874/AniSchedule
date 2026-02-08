@@ -1,5 +1,115 @@
 [
   {
+    "id": 184951,
+    "idMal": 60371,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-08T08:30:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 184951,
+    "idMal": 60371,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-08T08:30:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 184951,
+    "idMal": 60371,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-08T08:30:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 184951,
+    "idMal": 60371,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-08T08:30:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 184951,
+    "idMal": 60371,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-08T08:30:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 192507,
+    "idMal": 61663,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-02-08T08:00:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 192507,
+    "idMal": 61663,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-02-08T08:00:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 192507,
+    "idMal": 61663,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-02-08T08:00:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 192507,
+    "idMal": 61663,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-02-08T08:00:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 192507,
+    "idMal": 61663,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-02-08T08:00:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
     "id": 185801,
     "idMal": 60619,
     "format": "ONA",
@@ -425,7 +535,7 @@
     "episode": {
       "aired": 5,
       "airedAt": "2026-02-07T15:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
+      "addedAt": "2026-02-08T08:35:21Z"
     }
   },
   {
@@ -436,7 +546,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-02-07T15:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
+      "addedAt": "2026-02-08T08:35:21Z"
     }
   },
   {
@@ -447,7 +557,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-02-07T15:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
+      "addedAt": "2026-02-08T08:35:21Z"
     }
   },
   {
@@ -579,7 +689,7 @@
     "episode": {
       "aired": 32,
       "airedAt": "2026-02-07T12:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
+      "addedAt": "2026-02-08T08:35:21Z"
     }
   },
   {
@@ -590,7 +700,7 @@
     "episode": {
       "aired": 2,
       "airedAt": "2026-02-07T12:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
+      "addedAt": "2026-02-08T08:35:21Z"
     }
   },
   {
@@ -766,18 +876,7 @@
     "episode": {
       "aired": 5,
       "airedAt": "2026-02-05T17:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
-    }
-  },
-  {
-    "id": 189137,
-    "idMal": 61325,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 4,
-      "airedAt": "2026-02-05T17:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
+      "addedAt": "2026-02-08T08:35:21Z"
     }
   },
   {
@@ -788,7 +887,18 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-02-05T17:00:00Z",
-      "addedAt": "2026-02-08T07:39:46Z"
+      "addedAt": "2026-02-08T08:35:21Z"
+    }
+  },
+  {
+    "id": 189137,
+    "idMal": 61325,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-02-05T17:00:00Z",
+      "addedAt": "2026-02-08T08:35:21Z"
     }
   },
   {
