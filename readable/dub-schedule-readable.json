@@ -8,7 +8,8 @@
     "delayedFrom": "2026-01-29T16:00:00Z",
     "delayedUntil": "2026-02-05T16:00:00Z",
     "episodeDate": "2026-02-12T16:00:00Z",
-    "episodeNumber": 3,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -50,6 +51,10 @@
             {
               "episode": 3,
               "airingAt": "2026-02-12T16:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-02-12T16:00:00Z"
             }
           ]
         }
@@ -67,65 +72,6 @@
     "delayedFrom": "2026-01-29T16:00:00Z",
     "delayedUntil": "2026-02-05T16:00:00Z",
     "episodeDate": "2026-02-19T16:00:00Z",
-    "episodeNumber": 4,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 191718,
-        "idMal": 61587,
-        "title": {
-          "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
-          "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
-          "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-          "userPreferred": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy",
-          "Horror"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191718-FeR6bnlkqF0J.png",
-          "color": "#28bbe4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-02-19T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-22T16:00:00Z"
-  },
-  {
-    "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
-    "route": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
-    "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
-    "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
-    "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-    "delayedFrom": "2026-01-29T16:00:00Z",
-    "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-02-26T16:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
@@ -167,7 +113,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-26T16:00:00Z"
+              "airingAt": "2026-02-19T16:00:00Z"
             }
           ]
         }
@@ -184,7 +130,7 @@
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
     "delayedFrom": "2026-01-29T16:00:00Z",
     "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-03-05T16:00:00Z",
+    "episodeDate": "2026-02-26T16:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
@@ -226,6 +172,65 @@
           "nodes": [
             {
               "episode": 6,
+              "airingAt": "2026-02-26T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-01-22T16:00:00Z"
+  },
+  {
+    "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+    "route": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
+    "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+    "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+    "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+    "delayedFrom": "2026-01-29T16:00:00Z",
+    "delayedUntil": "2026-02-05T16:00:00Z",
+    "episodeDate": "2026-03-05T16:00:00Z",
+    "episodeNumber": 7,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 191718,
+        "idMal": 61587,
+        "title": {
+          "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+          "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+          "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+          "userPreferred": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191718-FeR6bnlkqF0J.png",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 7,
               "airingAt": "2026-03-05T16:00:00Z"
             }
           ]
@@ -244,7 +249,8 @@
     "delayedFrom": "2026-01-29T16:00:00Z",
     "delayedUntil": "2026-02-05T16:00:00Z",
     "episodeDate": "2026-02-12T16:00:00Z",
-    "episodeNumber": 3,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -286,6 +292,10 @@
             {
               "episode": 3,
               "airingAt": "2026-02-12T16:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-02-12T16:00:00Z"
             }
           ]
         }
@@ -303,7 +313,8 @@
     "delayedFrom": "2026-01-28T13:00:00Z",
     "delayedUntil": "2026-02-04T13:00:00Z",
     "episodeDate": "2026-02-11T13:00:00Z",
-    "episodeNumber": 3,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -343,6 +354,10 @@
             {
               "episode": 3,
               "airingAt": "2026-02-11T13:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-02-11T13:00:00Z"
             }
           ]
         }
@@ -360,63 +375,6 @@
     "delayedFrom": "2026-01-28T13:00:00Z",
     "delayedUntil": "2026-02-04T13:00:00Z",
     "episodeDate": "2026-02-18T13:00:00Z",
-    "episodeNumber": 4,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 192261,
-        "idMal": 61637,
-        "title": {
-          "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-          "english": "An Adventurer’s Daily Grind at Age 29",
-          "native": "29歳独身中堅冒険者の日常",
-          "userPreferred": "An Adventurer’s Daily Grind at Age 29"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
-          "color": "#bbe4f1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-02-18T13:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-21T13:00:00Z"
-  },
-  {
-    "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-    "route": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
-    "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-    "english": "An Adventurer's Daily Grind at Age 29",
-    "native": "29歳独身中堅冒険者の日常",
-    "delayedFrom": "2026-01-28T13:00:00Z",
-    "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-02-25T13:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
@@ -456,7 +414,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-25T13:00:00Z"
+              "airingAt": "2026-02-18T13:00:00Z"
             }
           ]
         }
@@ -473,7 +431,7 @@
     "native": "29歳独身中堅冒険者の日常",
     "delayedFrom": "2026-01-28T13:00:00Z",
     "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-03-04T13:00:00Z",
+    "episodeDate": "2026-02-25T13:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
@@ -513,6 +471,63 @@
           "nodes": [
             {
               "episode": 6,
+              "airingAt": "2026-02-25T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-01-21T13:00:00Z"
+  },
+  {
+    "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "route": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
+    "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "english": "An Adventurer's Daily Grind at Age 29",
+    "native": "29歳独身中堅冒険者の日常",
+    "delayedFrom": "2026-01-28T13:00:00Z",
+    "delayedUntil": "2026-02-04T13:00:00Z",
+    "episodeDate": "2026-03-04T13:00:00Z",
+    "episodeNumber": 7,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192261,
+        "idMal": 61637,
+        "title": {
+          "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+          "english": "An Adventurer’s Daily Grind at Age 29",
+          "native": "29歳独身中堅冒険者の日常",
+          "userPreferred": "An Adventurer’s Daily Grind at Age 29"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
+          "color": "#bbe4f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 7,
               "airingAt": "2026-03-04T13:00:00Z"
             }
           ]
@@ -531,7 +546,8 @@
     "delayedFrom": "2026-01-28T13:00:00Z",
     "delayedUntil": "2026-02-04T13:00:00Z",
     "episodeDate": "2026-02-11T13:00:00Z",
-    "episodeNumber": 3,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -570,6 +586,10 @@
           "nodes": [
             {
               "episode": 3,
+              "airingAt": "2026-02-11T13:00:00Z"
+            },
+            {
+              "episode": 4,
               "airingAt": "2026-02-11T13:00:00Z"
             }
           ]
@@ -4672,7 +4692,8 @@
     "delayedFrom": "2026-01-31T15:30:00Z",
     "delayedUntil": "2026-02-07T15:30:00Z",
     "episodeDate": "2026-02-14T15:30:00Z",
-    "episodeNumber": 3,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 3,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -4714,6 +4735,10 @@
             {
               "episode": 3,
               "airingAt": "2026-02-14T15:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-02-14T15:30:00Z"
             }
           ]
         }
@@ -4731,65 +4756,6 @@
     "delayedFrom": "2026-01-31T15:30:00Z",
     "delayedUntil": "2026-02-07T15:30:00Z",
     "episodeDate": "2026-02-21T15:30:00Z",
-    "episodeNumber": 4,
-    "episodes": 13,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 198374,
-        "idMal": 62432,
-        "title": {
-          "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-          "english": "A Misanthrope Teaches a Class for Demi-Humans",
-          "native": "人外教室の人間嫌い教師",
-          "userPreferred": "A Misanthrope Teaches a Class for Demi-Humans"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Fantasy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-ROZU3qJGX4uS.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198374-ROZU3qJGX4uS.jpg",
-          "color": "#4386ff"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-02-21T15:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-24T15:30:00Z"
-  },
-  {
-    "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-    "route": "jingai-kyoushitsu-no-ningengirai-kyoushi",
-    "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-    "english": "A Misanthrope Teaches a Class for Demi-Humans",
-    "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T15:30:00Z",
-    "delayedUntil": "2026-02-07T15:30:00Z",
-    "episodeDate": "2026-02-28T15:30:00Z",
     "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
@@ -4831,7 +4797,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-02-28T15:30:00Z"
+              "airingAt": "2026-02-21T15:30:00Z"
             }
           ]
         }
@@ -4848,7 +4814,7 @@
     "native": "人外教室の人間嫌い教師",
     "delayedFrom": "2026-01-31T15:30:00Z",
     "delayedUntil": "2026-02-07T15:30:00Z",
-    "episodeDate": "2026-03-07T15:30:00Z",
+    "episodeDate": "2026-02-28T15:30:00Z",
     "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 24,
@@ -4890,6 +4856,65 @@
           "nodes": [
             {
               "episode": 6,
+              "airingAt": "2026-02-28T15:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-01-24T15:30:00Z"
+  },
+  {
+    "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+    "route": "jingai-kyoushitsu-no-ningengirai-kyoushi",
+    "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+    "english": "A Misanthrope Teaches a Class for Demi-Humans",
+    "native": "人外教室の人間嫌い教師",
+    "delayedFrom": "2026-01-31T15:30:00Z",
+    "delayedUntil": "2026-02-07T15:30:00Z",
+    "episodeDate": "2026-03-07T15:30:00Z",
+    "episodeNumber": 7,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198374,
+        "idMal": 62432,
+        "title": {
+          "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+          "english": "A Misanthrope Teaches a Class for Demi-Humans",
+          "native": "人外教室の人間嫌い教師",
+          "userPreferred": "A Misanthrope Teaches a Class for Demi-Humans"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-ROZU3qJGX4uS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198374-ROZU3qJGX4uS.jpg",
+          "color": "#4386ff"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 7,
               "airingAt": "2026-03-07T15:30:00Z"
             }
           ]
@@ -4908,7 +4933,8 @@
     "delayedFrom": "2026-01-31T15:30:00Z",
     "delayedUntil": "2026-02-07T15:30:00Z",
     "episodeDate": "2026-02-14T15:30:00Z",
-    "episodeNumber": 3,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 3,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -4949,6 +4975,10 @@
           "nodes": [
             {
               "episode": 3,
+              "airingAt": "2026-02-14T15:30:00Z"
+            },
+            {
+              "episode": 4,
               "airingAt": "2026-02-14T15:30:00Z"
             }
           ]
@@ -7671,7 +7701,8 @@
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
     "episodeDate": "2026-02-13T15:00:00Z",
-    "episodeNumber": 2,
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 2,
     "episodes": 10,
     "lengthMin": 24,
     "mediaTypes": [
@@ -7711,6 +7742,10 @@
             {
               "episode": 2,
               "airingAt": "2026-02-13T15:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-02-13T15:00:00Z"
             }
           ]
         }
@@ -7728,63 +7763,6 @@
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
     "episodeDate": "2026-02-20T15:00:00Z",
-    "episodeNumber": 3,
-    "episodes": 10,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 182255,
-        "idMal": 59978,
-        "title": {
-          "romaji": "Sousou no Frieren 2nd Season",
-          "english": "Frieren: Beyond Journey’s End Season 2",
-          "native": "葬送のフリーレン 第2期",
-          "userPreferred": "Frieren: Beyond Journey’s End Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Drama",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182255-butzrqd4I0aC.jpg",
-          "color": "#5dc9f1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 3,
-              "airingAt": "2026-02-20T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-02-06T15:00:00Z"
-  },
-  {
-    "title": "Sousou no Frieren 2nd Season",
-    "route": "sousou-no-frieren-2nd-season",
-    "romaji": "Sousou no Frieren 2nd Season",
-    "english": "Frieren: Beyond Journey's End 2nd Season",
-    "native": "葬送のフリーレン 第2期",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-02-27T15:00:00Z",
     "episodeNumber": 4,
     "episodes": 10,
     "lengthMin": 24,
@@ -7824,7 +7802,7 @@
           "nodes": [
             {
               "episode": 4,
-              "airingAt": "2026-02-27T15:00:00Z"
+              "airingAt": "2026-02-20T15:00:00Z"
             }
           ]
         }
@@ -7841,7 +7819,7 @@
     "native": "葬送のフリーレン 第2期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-03-06T15:00:00Z",
+    "episodeDate": "2026-02-27T15:00:00Z",
     "episodeNumber": 5,
     "episodes": 10,
     "lengthMin": 24,
@@ -7881,6 +7859,63 @@
           "nodes": [
             {
               "episode": 5,
+              "airingAt": "2026-02-27T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-02-06T15:00:00Z"
+  },
+  {
+    "title": "Sousou no Frieren 2nd Season",
+    "route": "sousou-no-frieren-2nd-season",
+    "romaji": "Sousou no Frieren 2nd Season",
+    "english": "Frieren: Beyond Journey's End 2nd Season",
+    "native": "葬送のフリーレン 第2期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-03-06T15:00:00Z",
+    "episodeNumber": 6,
+    "episodes": 10,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182255,
+        "idMal": 59978,
+        "title": {
+          "romaji": "Sousou no Frieren 2nd Season",
+          "english": "Frieren: Beyond Journey’s End Season 2",
+          "native": "葬送のフリーレン 第2期",
+          "userPreferred": "Frieren: Beyond Journey’s End Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182255-butzrqd4I0aC.jpg",
+          "color": "#5dc9f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
               "airingAt": "2026-03-06T15:00:00Z"
             }
           ]
@@ -7899,7 +7934,8 @@
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
     "episodeDate": "2026-02-13T15:00:00Z",
-    "episodeNumber": 2,
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 2,
     "episodes": 10,
     "lengthMin": 24,
     "mediaTypes": [
@@ -7938,6 +7974,10 @@
           "nodes": [
             {
               "episode": 2,
+              "airingAt": "2026-02-13T15:00:00Z"
+            },
+            {
+              "episode": 3,
               "airingAt": "2026-02-13T15:00:00Z"
             }
           ]
@@ -10217,7 +10257,8 @@
     "delayedFrom": "2026-01-28T15:00:00Z",
     "delayedUntil": "2026-02-04T15:00:00Z",
     "episodeDate": "2026-02-11T15:00:00Z",
-    "episodeNumber": 4,
+    "episodeNumber": 5,
+    "subtractedEpisodeNumber": 4,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -10256,6 +10297,10 @@
             {
               "episode": 4,
               "airingAt": "2026-02-11T15:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-02-11T15:00:00Z"
             }
           ]
         }
@@ -10273,62 +10318,6 @@
     "delayedFrom": "2026-01-28T15:00:00Z",
     "delayedUntil": "2026-02-04T15:00:00Z",
     "episodeDate": "2026-02-18T15:00:00Z",
-    "episodeNumber": 5,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187264,
-        "idMal": 61128,
-        "title": {
-          "romaji": "Yuusha Party wo Oidasareta Kiyou Binbou",
-          "english": "Jack-of-All-Trades, Party of None",
-          "native": "勇者パーティを追い出された器用貧乏",
-          "userPreferred": "Jack-of-All-Trades, Party of None"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-aOUNQvTriPkX.jpg",
-          "color": "#e49350"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 5,
-              "airingAt": "2026-02-18T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-14T15:00:00Z"
-  },
-  {
-    "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
-    "route": "yuusha-party-wo-oidasareta-kiyoubinbou",
-    "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
-    "english": "Jack-of-All-Trades, Party of None",
-    "native": "勇者パーティを追い出された器用貧乏",
-    "delayedFrom": "2026-01-28T15:00:00Z",
-    "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-02-25T15:00:00Z",
     "episodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
@@ -10367,7 +10356,7 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-02-25T15:00:00Z"
+              "airingAt": "2026-02-18T15:00:00Z"
             }
           ]
         }
@@ -10384,7 +10373,7 @@
     "native": "勇者パーティを追い出された器用貧乏",
     "delayedFrom": "2026-01-28T15:00:00Z",
     "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-03-04T15:00:00Z",
+    "episodeDate": "2026-02-25T15:00:00Z",
     "episodeNumber": 7,
     "lengthMin": 23,
     "mediaTypes": [
@@ -10423,6 +10412,62 @@
           "nodes": [
             {
               "episode": 7,
+              "airingAt": "2026-02-25T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-01-14T15:00:00Z"
+  },
+  {
+    "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+    "route": "yuusha-party-wo-oidasareta-kiyoubinbou",
+    "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
+    "english": "Jack-of-All-Trades, Party of None",
+    "native": "勇者パーティを追い出された器用貧乏",
+    "delayedFrom": "2026-01-28T15:00:00Z",
+    "delayedUntil": "2026-02-04T15:00:00Z",
+    "episodeDate": "2026-03-04T15:00:00Z",
+    "episodeNumber": 8,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 187264,
+        "idMal": 61128,
+        "title": {
+          "romaji": "Yuusha Party wo Oidasareta Kiyou Binbou",
+          "english": "Jack-of-All-Trades, Party of None",
+          "native": "勇者パーティを追い出された器用貧乏",
+          "userPreferred": "Jack-of-All-Trades, Party of None"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-aOUNQvTriPkX.jpg",
+          "color": "#e49350"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 8,
               "airingAt": "2026-03-04T15:00:00Z"
             }
           ]
@@ -10441,7 +10486,8 @@
     "delayedFrom": "2026-01-28T15:00:00Z",
     "delayedUntil": "2026-02-04T15:00:00Z",
     "episodeDate": "2026-02-11T15:00:00Z",
-    "episodeNumber": 4,
+    "episodeNumber": 5,
+    "subtractedEpisodeNumber": 4,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -10479,6 +10525,10 @@
           "nodes": [
             {
               "episode": 4,
+              "airingAt": "2026-02-11T15:00:00Z"
+            },
+            {
+              "episode": 5,
               "airingAt": "2026-02-11T15:00:00Z"
             }
           ]
