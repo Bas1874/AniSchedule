@@ -10259,6 +10259,7 @@
     "episodeDate": "2026-02-11T15:00:00Z",
     "episodeNumber": 5,
     "subtractedEpisodeNumber": 4,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -10319,6 +10320,7 @@
     "delayedUntil": "2026-02-04T15:00:00Z",
     "episodeDate": "2026-02-18T15:00:00Z",
     "episodeNumber": 6,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -10375,6 +10377,7 @@
     "delayedUntil": "2026-02-04T15:00:00Z",
     "episodeDate": "2026-02-25T15:00:00Z",
     "episodeNumber": 7,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -10431,6 +10434,7 @@
     "delayedUntil": "2026-02-04T15:00:00Z",
     "episodeDate": "2026-03-04T15:00:00Z",
     "episodeNumber": 8,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -10488,6 +10492,7 @@
     "episodeDate": "2026-02-11T15:00:00Z",
     "episodeNumber": 5,
     "subtractedEpisodeNumber": 4,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
