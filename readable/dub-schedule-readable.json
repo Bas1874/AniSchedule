@@ -4463,6 +4463,124 @@
     "addedAt": "2026-01-04T18:30:56Z"
   },
   {
+    "title": "Hateshinaki Scarlet",
+    "route": "hateshinaki-scarlet",
+    "romaji": "Hateshinaki Scarlet",
+    "english": "Scarlet",
+    "native": "果てしなきスカーレット",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2026-02-13T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 111,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185773,
+        "idMal": 60610,
+        "title": {
+          "romaji": "Hateshinaki Scarlet",
+          "english": "Scarlet",
+          "native": "果てしなきスカーレット",
+          "userPreferred": "Scarlet"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Psychological"
+        ],
+        "duration": 113,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185773-N7dLeWyB14VA.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185773-N7dLeWyB14VA.png",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185773-oshTxFDv12LH.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-02-13T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-02-14T06:47:16Z"
+  },
+  {
+    "title": "Hateshinaki Scarlet",
+    "route": "hateshinaki-scarlet",
+    "romaji": "Hateshinaki Scarlet",
+    "english": "Scarlet",
+    "native": "果てしなきスカーレット",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2026-02-13T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 111,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185773,
+        "idMal": 60610,
+        "title": {
+          "romaji": "Hateshinaki Scarlet",
+          "english": "Scarlet",
+          "native": "果てしなきスカーレット",
+          "userPreferred": "Scarlet"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Psychological"
+        ],
+        "duration": 113,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185773-N7dLeWyB14VA.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185773-N7dLeWyB14VA.png",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185773-oshTxFDv12LH.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-02-13T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-02-14T06:47:16Z"
+  },
+  {
     "title": "Jigokuraku 2nd Season",
     "route": "jigokuraku-2nd-season",
     "romaji": "Jigokuraku 2nd Season",
