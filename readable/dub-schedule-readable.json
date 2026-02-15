@@ -661,8 +661,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-02-15T14:30:00Z"
+              "episode": 5,
+              "airingAt": "2026-02-22T14:30:00Z"
             }
           ]
         }
@@ -885,8 +885,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-02-15T14:30:00Z"
+              "episode": 5,
+              "airingAt": "2026-02-22T14:30:00Z"
             }
           ]
         }
@@ -3620,6 +3620,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-02-14T16:30:00Z",
     "episodeNumber": 15,
+    "episodes": 21,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -3675,6 +3676,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-02-21T16:30:00Z",
     "episodeNumber": 16,
+    "episodes": 21,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -3730,6 +3732,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-02-28T16:30:00Z",
     "episodeNumber": 17,
+    "episodes": 21,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -3785,6 +3788,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-03-07T16:30:00Z",
     "episodeNumber": 18,
+    "episodes": 21,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -3840,6 +3844,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-02-14T16:30:00Z",
     "episodeNumber": 15,
+    "episodes": 21,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -4628,8 +4633,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-02-15T15:15:00Z"
+              "episode": 5,
+              "airingAt": "2026-02-22T15:15:00Z"
             }
           ]
         }
@@ -4860,8 +4865,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-02-15T15:15:00Z"
+              "episode": 5,
+              "airingAt": "2026-02-22T15:15:00Z"
             }
           ]
         }
