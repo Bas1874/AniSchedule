@@ -3693,7 +3693,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-02-21T16:30:00Z",
     "episodeNumber": 16,
-    "episodes": 21,
+    "episodes": 18,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -3749,7 +3749,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-02-28T16:30:00Z",
     "episodeNumber": 17,
-    "episodes": 21,
+    "episodes": 18,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -3805,7 +3805,7 @@
     "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-03-07T16:30:00Z",
     "episodeNumber": 18,
-    "episodes": 21,
+    "episodes": 18,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -3859,65 +3859,9 @@
     "native": "グノーシア",
     "delayedFrom": "2026-01-24T16:30:00Z",
     "delayedUntil": "2026-01-31T16:30:00Z",
-    "episodeDate": "2026-03-14T16:30:00Z",
-    "episodeNumber": 19,
-    "episodes": 21,
-    "lengthMin": 25,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185116,
-        "idMal": 60427,
-        "title": {
-          "romaji": "Gnosia",
-          "english": "GNOSIA",
-          "native": "グノーシア",
-          "userPreferred": "GNOSIA"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "duration": 25,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
-          "color": "#43aee4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 19,
-              "airingAt": "2026-03-14T16:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-11-01T16:30:00Z"
-  },
-  {
-    "title": "Gnosia",
-    "route": "gnosia",
-    "native": "グノーシア",
-    "delayedFrom": "2026-01-24T16:30:00Z",
-    "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-02-21T16:30:00Z",
     "episodeNumber": 16,
-    "episodes": 21,
+    "episodes": 18,
     "lengthMin": 25,
     "mediaTypes": [
       {
