@@ -869,6 +869,7 @@
     "episodeNumber": 13,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
+    "lengthMin": 25,
     "unaired": false,
     "media": {
       "media": {
@@ -965,6 +966,7 @@
     "episodeNumber": 13,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
+    "lengthMin": 25,
     "unaired": false,
     "media": {
       "media": {
