@@ -869,7 +869,7 @@
     "episodeNumber": 13,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 176509,
@@ -965,7 +965,7 @@
     "episodeNumber": 13,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 176509,
