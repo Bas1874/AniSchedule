@@ -1,5 +1,60 @@
 [
   {
+    "id": 182255,
+    "idMal": 59978,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-27T15:00:00Z",
+      "addedAt": "2026-02-27T15:38:11Z"
+    }
+  },
+  {
+    "id": 182255,
+    "idMal": 59978,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-27T15:00:00Z",
+      "addedAt": "2026-02-27T15:38:12Z"
+    }
+  },
+  {
+    "id": 182255,
+    "idMal": 59978,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-27T15:00:00Z",
+      "addedAt": "2026-02-27T15:38:12Z"
+    }
+  },
+  {
+    "id": 182255,
+    "idMal": 59978,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-27T15:00:00Z",
+      "addedAt": "2026-02-27T15:38:12Z"
+    }
+  },
+  {
+    "id": 182255,
+    "idMal": 59978,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-02-27T15:00:00Z",
+      "addedAt": "2026-02-27T15:38:11Z"
+    }
+  },
+  {
     "id": 189137,
     "idMal": 61325,
     "format": "TV",
@@ -909,7 +964,7 @@
     "episode": {
       "aired": 8,
       "airedAt": "2026-02-23T15:30:00Z",
-      "addedAt": "2026-02-27T14:39:30Z"
+      "addedAt": "2026-02-27T15:38:12Z"
     }
   },
   {
@@ -920,7 +975,7 @@
     "episode": {
       "aired": 7,
       "airedAt": "2026-02-23T15:30:00Z",
-      "addedAt": "2026-02-27T14:39:30Z"
+      "addedAt": "2026-02-27T15:38:12Z"
     }
   },
   {
@@ -931,7 +986,7 @@
     "episode": {
       "aired": 7,
       "airedAt": "2026-02-23T15:30:00Z",
-      "addedAt": "2026-02-27T14:39:30Z"
+      "addedAt": "2026-02-27T15:38:12Z"
     }
   },
   {
@@ -964,7 +1019,7 @@
     "episode": {
       "aired": 8,
       "airedAt": "2026-02-23T14:30:00Z",
-      "addedAt": "2026-02-27T14:39:30Z"
+      "addedAt": "2026-02-27T15:38:12Z"
     }
   },
   {
@@ -975,7 +1030,7 @@
     "episode": {
       "aired": 7,
       "airedAt": "2026-02-23T14:30:00Z",
-      "addedAt": "2026-02-27T14:39:30Z"
+      "addedAt": "2026-02-27T15:38:12Z"
     }
   },
   {
@@ -986,7 +1041,7 @@
     "episode": {
       "aired": 7,
       "airedAt": "2026-02-23T14:30:00Z",
-      "addedAt": "2026-02-27T14:39:30Z"
+      "addedAt": "2026-02-27T15:38:12Z"
     }
   },
   {
