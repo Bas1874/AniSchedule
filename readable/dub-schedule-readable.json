@@ -4389,7 +4389,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 185262,
@@ -4418,8 +4418,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-03-04T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-03-11T17:00:00Z"
             }
           ]
         }
@@ -4617,7 +4617,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 185262,
@@ -4646,8 +4646,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-03-04T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-03-11T17:00:00Z"
             }
           ]
         }
@@ -8700,8 +8700,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-03-04T17:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-03-11T17:00:00Z"
             }
           ]
         }
@@ -8816,8 +8816,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-03-04T17:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-03-11T17:00:00Z"
             }
           ]
         }
