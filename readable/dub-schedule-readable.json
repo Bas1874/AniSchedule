@@ -5361,8 +5361,9 @@
     "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
     "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
     "native": "呪術廻戦 死滅回游 前編",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-05T16:30:00Z",
+    "delayedUntil": "2026-03-12T16:30:00Z",
     "episodeDate": "2026-03-05T16:30:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -5402,7 +5403,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
+              "episode": 8,
               "airingAt": "2026-03-12T16:30:00Z"
             }
           ]
@@ -5418,9 +5419,66 @@
     "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
     "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
     "native": "呪術廻戦 死滅回游 前編",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
+    "delayedFrom": "2026-03-05T16:30:00Z",
+    "delayedUntil": "2026-03-12T16:30:00Z",
     "episodeDate": "2026-03-12T16:30:00Z",
+    "episodeNumber": 8,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 172463,
+        "idMal": 57658,
+        "title": {
+          "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+          "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+          "native": "呪術廻戦 死滅回游 前編",
+          "userPreferred": "JUJUTSU KAISEN Season 3: The Culling Game Part 1"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172463-LnXqHzt74SJL.jpg",
+          "color": "#5093d6"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 8,
+              "airingAt": "2026-03-12T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-01-22T16:30:00Z"
+  },
+  {
+    "title": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
+    "route": "jujutsu-kaisen-shimetsu-kaiyuu",
+    "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
+    "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+    "native": "呪術廻戦 死滅回游 前編",
+    "delayedFrom": "2026-03-05T16:30:00Z",
+    "delayedUntil": "2026-03-12T16:30:00Z",
+    "episodeDate": "2026-03-19T16:30:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -5475,9 +5533,9 @@
     "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
     "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
     "native": "呪術廻戦 死滅回游 前編",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-03-19T16:30:00Z",
+    "delayedFrom": "2026-03-05T16:30:00Z",
+    "delayedUntil": "2026-03-12T16:30:00Z",
+    "episodeDate": "2026-03-26T16:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -5517,7 +5575,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-03-19T16:30:00Z"
+              "airingAt": "2026-03-12T16:30:00Z"
             }
           ]
         }
@@ -5532,65 +5590,9 @@
     "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
     "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
     "native": "呪術廻戦 死滅回游 前編",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-03-26T16:30:00Z",
-    "episodeNumber": 11,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 172463,
-        "idMal": 57658,
-        "title": {
-          "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
-          "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-          "native": "呪術廻戦 死滅回游 前編",
-          "userPreferred": "JUJUTSU KAISEN Season 3: The Culling Game Part 1"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Drama",
-          "Supernatural"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172463-LnXqHzt74SJL.jpg",
-          "color": "#5093d6"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 11,
-              "airingAt": "2026-03-26T16:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-22T16:30:00Z"
-  },
-  {
-    "title": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
-    "route": "jujutsu-kaisen-shimetsu-kaiyuu",
-    "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
-    "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-    "native": "呪術廻戦 死滅回游 前編",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-05T16:30:00Z",
+    "delayedUntil": "2026-03-12T16:30:00Z",
     "episodeDate": "2026-03-05T16:30:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -5630,7 +5632,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
+              "episode": 8,
               "airingAt": "2026-03-12T16:30:00Z"
             }
           ]
