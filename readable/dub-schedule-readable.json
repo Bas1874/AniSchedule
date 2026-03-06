@@ -7987,8 +7987,9 @@
     "romaji": "Sousou no Frieren 2nd Season",
     "english": "Frieren: Beyond Journey's End 2nd Season",
     "native": "葬送のフリーレン 第2期",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-06T15:00:00Z",
+    "delayedUntil": "2026-03-13T15:00:00Z",
     "episodeDate": "2026-03-06T15:00:00Z",
     "episodeNumber": 6,
     "episodes": 10,
@@ -8028,7 +8029,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2026-03-13T15:00:00Z"
             }
           ]
@@ -8044,9 +8045,66 @@
     "romaji": "Sousou no Frieren 2nd Season",
     "english": "Frieren: Beyond Journey's End 2nd Season",
     "native": "葬送のフリーレン 第2期",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedFrom": "2026-03-06T15:00:00Z",
+    "delayedUntil": "2026-03-13T15:00:00Z",
     "episodeDate": "2026-03-13T15:00:00Z",
+    "episodeNumber": 6,
+    "episodes": 10,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182255,
+        "idMal": 59978,
+        "title": {
+          "romaji": "Sousou no Frieren 2nd Season",
+          "english": "Frieren: Beyond Journey’s End Season 2",
+          "native": "葬送のフリーレン 第2期",
+          "userPreferred": "Frieren: Beyond Journey’s End Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182255-butzrqd4I0aC.jpg",
+          "color": "#5dc9f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
+              "airingAt": "2026-03-13T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-02-06T15:00:00Z"
+  },
+  {
+    "title": "Sousou no Frieren 2nd Season",
+    "route": "sousou-no-frieren-2nd-season",
+    "romaji": "Sousou no Frieren 2nd Season",
+    "english": "Frieren: Beyond Journey's End 2nd Season",
+    "native": "葬送のフリーレン 第2期",
+    "delayedFrom": "2026-03-06T15:00:00Z",
+    "delayedUntil": "2026-03-13T15:00:00Z",
+    "episodeDate": "2026-03-20T15:00:00Z",
     "episodeNumber": 7,
     "episodes": 10,
     "lengthMin": 24,
@@ -8101,9 +8159,9 @@
     "romaji": "Sousou no Frieren 2nd Season",
     "english": "Frieren: Beyond Journey's End 2nd Season",
     "native": "葬送のフリーレン 第2期",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-03-20T15:00:00Z",
+    "delayedFrom": "2026-03-06T15:00:00Z",
+    "delayedUntil": "2026-03-13T15:00:00Z",
+    "episodeDate": "2026-03-27T15:00:00Z",
     "episodeNumber": 8,
     "episodes": 10,
     "lengthMin": 24,
@@ -8143,7 +8201,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2026-03-20T15:00:00Z"
+              "airingAt": "2026-03-13T15:00:00Z"
             }
           ]
         }
@@ -8158,65 +8216,9 @@
     "romaji": "Sousou no Frieren 2nd Season",
     "english": "Frieren: Beyond Journey's End 2nd Season",
     "native": "葬送のフリーレン 第2期",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-03-27T15:00:00Z",
-    "episodeNumber": 9,
-    "episodes": 10,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 182255,
-        "idMal": 59978,
-        "title": {
-          "romaji": "Sousou no Frieren 2nd Season",
-          "english": "Frieren: Beyond Journey’s End Season 2",
-          "native": "葬送のフリーレン 第2期",
-          "userPreferred": "Frieren: Beyond Journey’s End Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Drama",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182255-butzrqd4I0aC.jpg",
-          "color": "#5dc9f1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2026-03-27T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-02-06T15:00:00Z"
-  },
-  {
-    "title": "Sousou no Frieren 2nd Season",
-    "route": "sousou-no-frieren-2nd-season",
-    "romaji": "Sousou no Frieren 2nd Season",
-    "english": "Frieren: Beyond Journey's End 2nd Season",
-    "native": "葬送のフリーレン 第2期",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-06T15:00:00Z",
+    "delayedUntil": "2026-03-13T15:00:00Z",
     "episodeDate": "2026-03-06T15:00:00Z",
     "episodeNumber": 6,
     "episodes": 10,
@@ -8256,7 +8258,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2026-03-13T15:00:00Z"
             }
           ]
