@@ -865,7 +865,10 @@
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
     "episodeDate": "2026-03-07T08:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -890,7 +893,7 @@
           "Psychological",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
@@ -902,167 +905,52 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-03-14T08:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-03-07T08:00:00Z"
-  },
-  {
-    "title": "BEASTARS FINAL SEASON Part 2",
-    "route": "beastars-final-season-part-2",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-03-14T08:00:00Z",
-    "episodeNumber": 2,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187267,
-        "idMal": 61114,
-        "title": {
-          "romaji": "BEASTARS FINAL SEASON Part 2",
-          "english": "BEASTARS Final Season Part 2",
-          "native": "BEASTARS FINAL SEASON Part 2",
-          "userPreferred": "BEASTARS Final Season Part 2"
-        },
-        "format": "ONA",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Psychological",
-          "Slice of Life"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-39FEmVe4zkZC.png",
-          "color": "#e48650"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
+              "episode": 1,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
             {
               "episode": 2,
-              "airingAt": "2026-03-14T08:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-03-07T08:00:00Z"
-  },
-  {
-    "title": "BEASTARS FINAL SEASON Part 2",
-    "route": "beastars-final-season-part-2",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-03-21T08:00:00Z",
-    "episodeNumber": 3,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187267,
-        "idMal": 61114,
-        "title": {
-          "romaji": "BEASTARS FINAL SEASON Part 2",
-          "english": "BEASTARS Final Season Part 2",
-          "native": "BEASTARS FINAL SEASON Part 2",
-          "userPreferred": "BEASTARS Final Season Part 2"
-        },
-        "format": "ONA",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Psychological",
-          "Slice of Life"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-39FEmVe4zkZC.png",
-          "color": "#e48650"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
             {
               "episode": 3,
-              "airingAt": "2026-03-21T08:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-03-07T08:00:00Z"
-  },
-  {
-    "title": "BEASTARS FINAL SEASON Part 2",
-    "route": "beastars-final-season-part-2",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-03-28T08:00:00Z",
-    "episodeNumber": 4,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187267,
-        "idMal": 61114,
-        "title": {
-          "romaji": "BEASTARS FINAL SEASON Part 2",
-          "english": "BEASTARS Final Season Part 2",
-          "native": "BEASTARS FINAL SEASON Part 2",
-          "userPreferred": "BEASTARS Final Season Part 2"
-        },
-        "format": "ONA",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Psychological",
-          "Slice of Life"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-39FEmVe4zkZC.png",
-          "color": "#e48650"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
             {
               "episode": 4,
-              "airingAt": "2026-03-28T08:00:00Z"
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-03-07T08:00:00Z"
             }
           ]
         }
@@ -1077,7 +965,10 @@
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
     "episodeDate": "2026-03-07T08:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -1102,7 +993,7 @@
           "Psychological",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
@@ -1114,8 +1005,52 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
               "episode": 2,
-              "airingAt": "2026-03-14T08:00:00Z"
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-03-07T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-03-07T08:00:00Z"
             }
           ]
         }
