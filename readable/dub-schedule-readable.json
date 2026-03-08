@@ -7586,8 +7586,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "0001-01-01T08:30:00Z",
-    "delayedUntil": "0001-01-01T08:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-08T08:30:00Z",
+    "delayedUntil": "2026-03-15T08:30:00Z",
     "episodeDate": "2026-03-08T08:30:00Z",
     "episodeNumber": 9,
     "episodes": 12,
@@ -7628,7 +7629,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 9,
               "airingAt": "2026-03-15T08:30:00Z"
             }
           ]
@@ -7644,9 +7645,67 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "0001-01-01T08:30:00Z",
-    "delayedUntil": "0001-01-01T08:30:00Z",
+    "delayedFrom": "2026-03-08T08:30:00Z",
+    "delayedUntil": "2026-03-15T08:30:00Z",
     "episodeDate": "2026-03-15T08:30:00Z",
+    "episodeNumber": 9,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 184951,
+        "idMal": 60371,
+        "title": {
+          "romaji": "Seihantai na Kimi to Boku",
+          "english": "You and I Are Polar Opposites",
+          "native": "正反対な君と僕",
+          "userPreferred": "You and I Are Polar Opposites"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184951-s8Lg2muPBhdX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
+          "color": "#f1ae28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 9,
+              "airingAt": "2026-03-15T08:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-01-11T08:30:00Z"
+  },
+  {
+    "title": "Seihantai na Kimi to Boku",
+    "route": "seihantai-na-kimi-to-boku",
+    "romaji": "Seihantai na Kimi to Boku",
+    "english": "You and I Are Polar Opposites",
+    "native": "正反対な君と僕",
+    "delayedFrom": "2026-03-08T08:30:00Z",
+    "delayedUntil": "2026-03-15T08:30:00Z",
+    "episodeDate": "2026-03-22T08:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -7702,9 +7761,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "0001-01-01T08:30:00Z",
-    "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2026-03-22T08:30:00Z",
+    "delayedFrom": "2026-03-08T08:30:00Z",
+    "delayedUntil": "2026-03-15T08:30:00Z",
+    "episodeDate": "2026-03-29T08:30:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
@@ -7745,7 +7804,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-03-22T08:30:00Z"
+              "airingAt": "2026-03-15T08:30:00Z"
             }
           ]
         }
@@ -7760,66 +7819,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "0001-01-01T08:30:00Z",
-    "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2026-03-29T08:30:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 184951,
-        "idMal": 60371,
-        "title": {
-          "romaji": "Seihantai na Kimi to Boku",
-          "english": "You and I Are Polar Opposites",
-          "native": "正反対な君と僕",
-          "userPreferred": "You and I Are Polar Opposites"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184951-s8Lg2muPBhdX.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
-          "color": "#f1ae28"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-03-29T08:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-11T08:30:00Z"
-  },
-  {
-    "title": "Seihantai na Kimi to Boku",
-    "route": "seihantai-na-kimi-to-boku",
-    "romaji": "Seihantai na Kimi to Boku",
-    "english": "You and I Are Polar Opposites",
-    "native": "正反対な君と僕",
-    "delayedFrom": "0001-01-01T08:30:00Z",
-    "delayedUntil": "0001-01-01T08:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-08T08:30:00Z",
+    "delayedUntil": "2026-03-15T08:30:00Z",
     "episodeDate": "2026-03-08T08:30:00Z",
     "episodeNumber": 9,
     "episodes": 12,
@@ -7860,7 +7862,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 9,
               "airingAt": "2026-03-15T08:30:00Z"
             }
           ]
