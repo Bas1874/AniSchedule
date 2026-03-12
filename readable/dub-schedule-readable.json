@@ -300,9 +300,9 @@
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "english": "An Adventurer's Daily Grind at Age 29",
     "native": "29歳独身中堅冒険者の日常",
-    "delayedFrom": "2026-01-28T13:00:00Z",
-    "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-03-11T13:00:00Z",
+    "delayedFrom": "2026-01-28T12:00:00Z",
+    "delayedUntil": "2026-02-04T12:00:00Z",
+    "episodeDate": "2026-03-11T12:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -342,7 +342,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-18T13:00:00Z"
+              "airingAt": "2026-03-18T12:00:00Z"
             }
           ]
         }
@@ -357,9 +357,9 @@
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "english": "An Adventurer's Daily Grind at Age 29",
     "native": "29歳独身中堅冒険者の日常",
-    "delayedFrom": "2026-01-28T13:00:00Z",
-    "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-03-18T13:00:00Z",
+    "delayedFrom": "2026-01-28T12:00:00Z",
+    "delayedUntil": "2026-02-04T12:00:00Z",
+    "episodeDate": "2026-03-18T12:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -399,7 +399,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-18T13:00:00Z"
+              "airingAt": "2026-03-18T12:00:00Z"
             }
           ]
         }
@@ -414,9 +414,9 @@
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "english": "An Adventurer's Daily Grind at Age 29",
     "native": "29歳独身中堅冒険者の日常",
-    "delayedFrom": "2026-01-28T13:00:00Z",
-    "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-03-25T13:00:00Z",
+    "delayedFrom": "2026-01-28T12:00:00Z",
+    "delayedUntil": "2026-02-04T12:00:00Z",
+    "episodeDate": "2026-03-25T12:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -456,7 +456,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-03-25T13:00:00Z"
+              "airingAt": "2026-03-25T12:00:00Z"
             }
           ]
         }
@@ -471,9 +471,9 @@
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "english": "An Adventurer's Daily Grind at Age 29",
     "native": "29歳独身中堅冒険者の日常",
-    "delayedFrom": "2026-01-28T13:00:00Z",
-    "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-04-01T13:00:00Z",
+    "delayedFrom": "2026-01-28T12:00:00Z",
+    "delayedUntil": "2026-02-04T12:00:00Z",
+    "episodeDate": "2026-04-01T12:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -513,7 +513,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-01T13:00:00Z"
+              "airingAt": "2026-04-01T12:00:00Z"
             }
           ]
         }
@@ -528,9 +528,9 @@
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "english": "An Adventurer's Daily Grind at Age 29",
     "native": "29歳独身中堅冒険者の日常",
-    "delayedFrom": "2026-01-28T13:00:00Z",
-    "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-03-11T13:00:00Z",
+    "delayedFrom": "2026-01-28T12:00:00Z",
+    "delayedUntil": "2026-02-04T12:00:00Z",
+    "episodeDate": "2026-03-11T12:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -570,7 +570,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-18T13:00:00Z"
+              "airingAt": "2026-03-18T12:00:00Z"
             }
           ]
         }
@@ -3769,7 +3769,7 @@
     "title": "Hanazakari no Kimitachi e",
     "route": "hanazakari-no-kimitachi-e",
     "romaji": "Hanazakari no Kimitachi e",
-    "english": "Hana-Kimi: For You in Full Blossom",
+    "english": "Hana-Kimi",
     "native": "花ざかりの君たちへ",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
@@ -3827,7 +3827,7 @@
     "title": "Hanazakari no Kimitachi e",
     "route": "hanazakari-no-kimitachi-e",
     "romaji": "Hanazakari no Kimitachi e",
-    "english": "Hana-Kimi: For You in Full Blossom",
+    "english": "Hana-Kimi",
     "native": "花ざかりの君たちへ",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
@@ -5796,9 +5796,9 @@
     "romaji": "Mayonaka Heart Tune",
     "english": "Tune In to the Midnight Heart",
     "native": "真夜中ハートチューン",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-03-10T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-03-10T13:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -5837,7 +5837,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-17T14:00:00Z"
+              "airingAt": "2026-03-17T13:00:00Z"
             }
           ]
         }
@@ -5852,9 +5852,9 @@
     "romaji": "Mayonaka Heart Tune",
     "english": "Tune In to the Midnight Heart",
     "native": "真夜中ハートチューン",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-03-17T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-03-17T13:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -5893,7 +5893,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-17T14:00:00Z"
+              "airingAt": "2026-03-17T13:00:00Z"
             }
           ]
         }
@@ -5908,9 +5908,9 @@
     "romaji": "Mayonaka Heart Tune",
     "english": "Tune In to the Midnight Heart",
     "native": "真夜中ハートチューン",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-03-24T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-03-24T13:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -5949,7 +5949,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-03-24T14:00:00Z"
+              "airingAt": "2026-03-24T13:00:00Z"
             }
           ]
         }
@@ -5964,9 +5964,9 @@
     "romaji": "Mayonaka Heart Tune",
     "english": "Tune In to the Midnight Heart",
     "native": "真夜中ハートチューン",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-03-31T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-03-31T13:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -6005,7 +6005,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-03-31T14:00:00Z"
+              "airingAt": "2026-03-31T13:00:00Z"
             }
           ]
         }
@@ -6020,9 +6020,9 @@
     "romaji": "Mayonaka Heart Tune",
     "english": "Tune In to the Midnight Heart",
     "native": "真夜中ハートチューン",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-03-10T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-03-10T13:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -6061,7 +6061,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-17T14:00:00Z"
+              "airingAt": "2026-03-17T13:00:00Z"
             }
           ]
         }
