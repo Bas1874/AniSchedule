@@ -1,5 +1,104 @@
 [
   {
+    "id": 185753,
+    "idMal": 60602,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-03-12T14:30:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 185753,
+    "idMal": 60602,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-03-12T14:30:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 185753,
+    "idMal": 60602,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-03-12T14:30:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 185753,
+    "idMal": 60602,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-03-12T14:30:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 185753,
+    "idMal": 60602,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-03-12T14:30:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 167152,
+    "idMal": 56009,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-03-12T14:00:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 167152,
+    "idMal": 56009,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-03-12T14:00:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 167152,
+    "idMal": 56009,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-03-12T14:00:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
+    "id": 167152,
+    "idMal": 56009,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-03-12T14:00:00Z",
+      "addedAt": "2026-03-12T14:50:33Z"
+    }
+  },
+  {
     "id": 176276,
     "idMal": 58505,
     "format": "TV",
