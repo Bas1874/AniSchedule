@@ -5383,9 +5383,9 @@
     "romaji": "Kaya-chan wa Kowakunai",
     "english": "Kaya-chan Isn't Scary",
     "native": "カヤちゃんはコワくない",
-    "delayedFrom": "0001-01-01T09:00:00Z",
-    "delayedUntil": "0001-01-01T09:00:00Z",
-    "episodeDate": "2026-03-15T09:00:00Z",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-03-15T08:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -5424,8 +5424,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-03-15T09:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-03-22T08:00:00Z"
             }
           ]
         }
@@ -5440,9 +5440,9 @@
     "romaji": "Kaya-chan wa Kowakunai",
     "english": "Kaya-chan Isn't Scary",
     "native": "カヤちゃんはコワくない",
-    "delayedFrom": "0001-01-01T09:00:00Z",
-    "delayedUntil": "0001-01-01T09:00:00Z",
-    "episodeDate": "2026-03-22T09:00:00Z",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-03-22T08:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -5482,7 +5482,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-03-22T09:00:00Z"
+              "airingAt": "2026-03-22T08:00:00Z"
             }
           ]
         }
@@ -5497,9 +5497,9 @@
     "romaji": "Kaya-chan wa Kowakunai",
     "english": "Kaya-chan Isn't Scary",
     "native": "カヤちゃんはコワくない",
-    "delayedFrom": "0001-01-01T09:00:00Z",
-    "delayedUntil": "0001-01-01T09:00:00Z",
-    "episodeDate": "2026-03-29T09:00:00Z",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-03-29T08:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -5539,7 +5539,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-03-29T09:00:00Z"
+              "airingAt": "2026-03-29T08:00:00Z"
             }
           ]
         }
@@ -5554,9 +5554,9 @@
     "romaji": "Kaya-chan wa Kowakunai",
     "english": "Kaya-chan Isn't Scary",
     "native": "カヤちゃんはコワくない",
-    "delayedFrom": "0001-01-01T09:00:00Z",
-    "delayedUntil": "0001-01-01T09:00:00Z",
-    "episodeDate": "2026-03-15T09:00:00Z",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-03-15T08:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -5595,8 +5595,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-03-15T09:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-03-22T08:00:00Z"
             }
           ]
         }
