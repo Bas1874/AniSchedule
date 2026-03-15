@@ -7220,9 +7220,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "2026-03-08T08:30:00Z",
-    "delayedUntil": "2026-03-15T08:30:00Z",
-    "episodeDate": "2026-03-15T08:30:00Z",
+    "delayedFrom": "2026-03-08T07:30:00Z",
+    "delayedUntil": "2026-03-15T07:30:00Z",
+    "episodeDate": "2026-03-15T07:30:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
@@ -7262,8 +7262,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-03-15T08:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-03-22T07:30:00Z"
             }
           ]
         }
@@ -7278,9 +7278,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "2026-03-08T08:30:00Z",
-    "delayedUntil": "2026-03-15T08:30:00Z",
-    "episodeDate": "2026-03-22T08:30:00Z",
+    "delayedFrom": "2026-03-08T07:30:00Z",
+    "delayedUntil": "2026-03-15T07:30:00Z",
+    "episodeDate": "2026-03-22T07:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -7321,7 +7321,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-03-15T08:30:00Z"
+              "airingAt": "2026-03-22T07:30:00Z"
             }
           ]
         }
@@ -7336,9 +7336,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "2026-03-08T08:30:00Z",
-    "delayedUntil": "2026-03-15T08:30:00Z",
-    "episodeDate": "2026-03-29T08:30:00Z",
+    "delayedFrom": "2026-03-08T07:30:00Z",
+    "delayedUntil": "2026-03-15T07:30:00Z",
+    "episodeDate": "2026-03-29T07:30:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
@@ -7379,7 +7379,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-03-15T08:30:00Z"
+              "airingAt": "2026-03-29T07:30:00Z"
             }
           ]
         }
@@ -7394,9 +7394,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "2026-03-08T08:30:00Z",
-    "delayedUntil": "2026-03-15T08:30:00Z",
-    "episodeDate": "2026-04-05T08:30:00Z",
+    "delayedFrom": "2026-03-08T07:30:00Z",
+    "delayedUntil": "2026-03-15T07:30:00Z",
+    "episodeDate": "2026-04-05T07:30:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
@@ -7437,7 +7437,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-03-15T08:30:00Z"
+              "airingAt": "2026-04-05T07:30:00Z"
             }
           ]
         }
@@ -7452,9 +7452,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "2026-03-08T08:30:00Z",
-    "delayedUntil": "2026-03-15T08:30:00Z",
-    "episodeDate": "2026-03-15T08:30:00Z",
+    "delayedFrom": "2026-03-08T07:30:00Z",
+    "delayedUntil": "2026-03-15T07:30:00Z",
+    "episodeDate": "2026-03-15T07:30:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
@@ -7494,8 +7494,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-03-15T08:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-03-22T07:30:00Z"
             }
           ]
         }
@@ -8811,9 +8811,9 @@
     "romaji": "Uruwashi no Yoi no Tsuki",
     "english": "In the Clear Moonlit Dusk",
     "native": "うるわしの宵の月",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-03-15T08:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-15T07:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -8851,8 +8851,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-03-15T08:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-03-22T07:00:00Z"
             }
           ]
         }
@@ -8867,9 +8867,9 @@
     "romaji": "Uruwashi no Yoi no Tsuki",
     "english": "In the Clear Moonlit Dusk",
     "native": "うるわしの宵の月",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-03-22T08:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-22T07:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -8908,7 +8908,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-22T08:00:00Z"
+              "airingAt": "2026-03-22T07:00:00Z"
             }
           ]
         }
@@ -8923,9 +8923,9 @@
     "romaji": "Uruwashi no Yoi no Tsuki",
     "english": "In the Clear Moonlit Dusk",
     "native": "うるわしの宵の月",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-03-29T08:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-29T07:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -8964,7 +8964,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-03-29T08:00:00Z"
+              "airingAt": "2026-03-29T07:00:00Z"
             }
           ]
         }
@@ -8979,9 +8979,9 @@
     "romaji": "Uruwashi no Yoi no Tsuki",
     "english": "In the Clear Moonlit Dusk",
     "native": "うるわしの宵の月",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-04-05T08:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-04-05T07:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -9020,7 +9020,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-05T08:00:00Z"
+              "airingAt": "2026-04-05T07:00:00Z"
             }
           ]
         }
@@ -9035,9 +9035,9 @@
     "romaji": "Uruwashi no Yoi no Tsuki",
     "english": "In the Clear Moonlit Dusk",
     "native": "うるわしの宵の月",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-03-15T08:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-15T07:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -9075,8 +9075,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-03-15T08:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-03-22T07:00:00Z"
             }
           ]
         }
