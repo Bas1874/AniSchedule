@@ -3243,8 +3243,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-03-16T14:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-03-23T14:30:00Z"
             }
           ]
         }
@@ -3471,8 +3471,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-03-16T14:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-03-23T14:30:00Z"
             }
           ]
         }
@@ -6216,6 +6216,7 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-03-22T04:00:00Z",
     "episodeNumber": 2,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -6272,6 +6273,7 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-03-29T04:00:00Z",
     "episodeNumber": 3,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -6328,6 +6330,7 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-04-05T04:00:00Z",
     "episodeNumber": 4,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -6384,6 +6387,7 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-04-12T04:00:00Z",
     "episodeNumber": 5,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -6440,6 +6444,7 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-03-22T04:00:00Z",
     "episodeNumber": 2,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -6633,8 +6638,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-03-16T15:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-03-23T15:30:00Z"
             }
           ]
         }
@@ -6857,8 +6862,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-03-16T15:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-03-23T15:30:00Z"
             }
           ]
         }
