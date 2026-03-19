@@ -3482,6 +3482,124 @@
     "addedAt": "2026-01-19T14:30:00Z"
   },
   {
+    "title": "Hateshinaki Scarlet",
+    "route": "hateshinaki-scarlet",
+    "romaji": "Hateshinaki Scarlet",
+    "english": "Scarlet",
+    "native": "果てしなきスカーレット",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-16T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 111,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185773,
+        "idMal": 60610,
+        "title": {
+          "romaji": "Hateshinaki Scarlet",
+          "english": "Scarlet",
+          "native": "果てしなきスカーレット",
+          "userPreferred": "Scarlet"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Psychological"
+        ],
+        "duration": 113,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185773-N7dLeWyB14VA.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185773-N7dLeWyB14VA.png",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185773-oshTxFDv12LH.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-03-16T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-19T07:10:29Z"
+  },
+  {
+    "title": "Hateshinaki Scarlet",
+    "route": "hateshinaki-scarlet",
+    "romaji": "Hateshinaki Scarlet",
+    "english": "Scarlet",
+    "native": "果てしなきスカーレット",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-16T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 111,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185773,
+        "idMal": 60610,
+        "title": {
+          "romaji": "Hateshinaki Scarlet",
+          "english": "Scarlet",
+          "native": "果てしなきスカーレット",
+          "userPreferred": "Scarlet"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Psychological"
+        ],
+        "duration": 113,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185773-N7dLeWyB14VA.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185773-N7dLeWyB14VA.png",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185773-oshTxFDv12LH.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-03-16T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-19T07:10:29Z"
+  },
+  {
     "title": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
     "route": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
     "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
@@ -4425,7 +4543,7 @@
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 190327,
@@ -4456,8 +4574,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-03-19T07:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-03-26T07:00:00Z"
             }
           ]
         }
@@ -4653,7 +4771,7 @@
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 190327,
@@ -4684,8 +4802,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-03-19T07:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-03-26T07:00:00Z"
             }
           ]
         }
@@ -9608,9 +9726,9 @@
     "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
     "english": "Jack-of-All-Trades, Party of None",
     "native": "勇者パーティを追い出された器用貧乏",
-    "delayedFrom": "2026-01-28T15:00:00Z",
-    "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-03-18T15:00:00Z",
+    "delayedFrom": "2026-01-28T14:00:00Z",
+    "delayedUntil": "2026-02-04T14:00:00Z",
+    "episodeDate": "2026-03-18T14:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -9650,7 +9768,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-03-25T15:00:00Z"
+              "airingAt": "2026-03-25T14:00:00Z"
             }
           ]
         }
@@ -9665,9 +9783,9 @@
     "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
     "english": "Jack-of-All-Trades, Party of None",
     "native": "勇者パーティを追い出された器用貧乏",
-    "delayedFrom": "2026-01-28T15:00:00Z",
-    "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-03-25T15:00:00Z",
+    "delayedFrom": "2026-01-28T14:00:00Z",
+    "delayedUntil": "2026-02-04T14:00:00Z",
+    "episodeDate": "2026-03-25T14:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -9707,7 +9825,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-03-25T15:00:00Z"
+              "airingAt": "2026-03-25T14:00:00Z"
             }
           ]
         }
@@ -9722,9 +9840,9 @@
     "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
     "english": "Jack-of-All-Trades, Party of None",
     "native": "勇者パーティを追い出された器用貧乏",
-    "delayedFrom": "2026-01-28T15:00:00Z",
-    "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-04-01T15:00:00Z",
+    "delayedFrom": "2026-01-28T14:00:00Z",
+    "delayedUntil": "2026-02-04T14:00:00Z",
+    "episodeDate": "2026-04-01T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -9764,7 +9882,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-01T15:00:00Z"
+              "airingAt": "2026-04-01T14:00:00Z"
             }
           ]
         }
@@ -9779,9 +9897,9 @@
     "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
     "english": "Jack-of-All-Trades, Party of None",
     "native": "勇者パーティを追い出された器用貧乏",
-    "delayedFrom": "2026-01-28T15:00:00Z",
-    "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-03-18T15:00:00Z",
+    "delayedFrom": "2026-01-28T14:00:00Z",
+    "delayedUntil": "2026-02-04T14:00:00Z",
+    "episodeDate": "2026-03-18T14:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -9821,7 +9939,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-03-25T15:00:00Z"
+              "airingAt": "2026-03-25T14:00:00Z"
             }
           ]
         }
