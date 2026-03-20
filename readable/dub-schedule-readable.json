@@ -862,10 +862,11 @@
   {
     "title": "Beyblade X",
     "route": "beyblade-x",
-    "delayedFrom": "0001-01-01T22:45:00Z",
-    "delayedUntil": "0001-01-01T22:45:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-03-14T22:45:00Z",
+    "delayedUntil": "2032-01-01T22:45:00Z",
     "episodeDate": "2026-03-21T22:45:00Z",
-    "episodeNumber": 85,
+    "episodeNumber": 101,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -873,6 +874,7 @@
         "route": "tv"
       }
     ],
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -902,8 +904,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 85,
-              "airingAt": "2026-03-21T22:45:00Z"
+              "episode": 101,
+              "airingAt": "2032-01-01T22:45:00Z"
             }
           ]
         }
@@ -915,10 +917,11 @@
   {
     "title": "Beyblade X",
     "route": "beyblade-x",
-    "delayedFrom": "0001-01-01T22:45:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-03-14T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
     "episodeDate": "2026-03-28T22:45:00Z",
-    "episodeNumber": 86,
+    "episodeNumber": 101,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -955,7 +958,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 86,
+              "episode": 101,
               "airingAt": "2026-03-28T22:45:00Z"
             }
           ]
@@ -968,10 +971,11 @@
   {
     "title": "Beyblade X",
     "route": "beyblade-x",
-    "delayedFrom": "0001-01-01T22:45:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-03-14T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
     "episodeDate": "2026-04-04T22:45:00Z",
-    "episodeNumber": 87,
+    "episodeNumber": 101,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1008,7 +1012,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 87,
+              "episode": 101,
               "airingAt": "2026-04-04T22:45:00Z"
             }
           ]
@@ -1021,10 +1025,11 @@
   {
     "title": "Beyblade X",
     "route": "beyblade-x",
-    "delayedFrom": "0001-01-01T22:45:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-03-14T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
     "episodeDate": "2026-04-11T22:45:00Z",
-    "episodeNumber": 88,
+    "episodeNumber": 101,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1061,7 +1066,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 88,
+              "episode": 101,
               "airingAt": "2026-04-11T22:45:00Z"
             }
           ]
@@ -1074,10 +1079,11 @@
   {
     "title": "Beyblade X",
     "route": "beyblade-x",
-    "delayedFrom": "0001-01-01T22:45:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-03-14T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
     "episodeDate": "2026-03-21T22:45:00Z",
-    "episodeNumber": 85,
+    "episodeNumber": 101,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1114,7 +1120,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 85,
+              "episode": 101,
               "airingAt": "2026-03-21T22:45:00Z"
             }
           ]
@@ -1782,6 +1788,79 @@
     },
     "verified": true,
     "addedAt": "2026-01-24T19:18:09Z"
+  },
+  {
+    "title": "Digimon BeatBreak",
+    "route": "digimon-beatbreak",
+    "native": "デジモンビートブレイク",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-04-12T03:00:00Z",
+    "episodeNumber": 20,
+    "subtractedEpisodeNumber": 16,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188388,
+        "idMal": 61269,
+        "title": {
+          "romaji": "DIGIMON BEATBREAK",
+          "english": "DIGIMON BEATBREAK",
+          "native": "DIGIMON BEATBREAK",
+          "userPreferred": "DIGIMON BEATBREAK"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
+          "color": "#fec928"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 16,
+              "airingAt": "2026-04-12T03:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2026-04-12T03:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2026-04-12T03:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-04-12T03:00:00Z"
+            },
+            {
+              "episode": 20,
+              "airingAt": "2026-04-12T03:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-20T02:10:24Z"
   },
   {
     "title": "Douse, Koishite Shimaunda. 2nd Season",
@@ -5957,6 +6036,118 @@
     },
     "verified": true,
     "addedAt": "2026-01-20T14:00:00Z"
+  },
+  {
+    "title": "Medalist 2nd Season",
+    "route": "medalist-2nd-season",
+    "native": "メダリスト 第2期",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-17T07:00:00Z",
+    "episodeNumber": 6,
+    "episodes": 9,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189275,
+        "idMal": 61335,
+        "title": {
+          "romaji": "Medalist 2nd Season",
+          "english": "Medalist Season 2",
+          "native": "メダリスト 第2期",
+          "userPreferred": "Medalist Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sports"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 7,
+              "airingAt": "2026-03-24T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-20T02:10:24Z"
+  },
+  {
+    "title": "Medalist 2nd Season",
+    "route": "medalist-2nd-season",
+    "native": "メダリスト 第2期",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-17T07:00:00Z",
+    "episodeNumber": 6,
+    "episodes": 9,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189275,
+        "idMal": 61335,
+        "title": {
+          "romaji": "Medalist 2nd Season",
+          "english": "Medalist Season 2",
+          "native": "メダリスト 第2期",
+          "userPreferred": "Medalist Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sports"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 7,
+              "airingAt": "2026-03-24T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-20T02:10:24Z"
   },
   {
     "title": "MF Ghost 3rd Season",
