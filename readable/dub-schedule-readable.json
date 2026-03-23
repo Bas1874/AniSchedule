@@ -2317,7 +2317,8 @@
     "delayedFrom": "2026-02-07T15:45:00Z",
     "delayedUntil": "2026-02-28T15:45:00Z",
     "episodeDate": "2026-03-28T15:45:00Z",
-    "episodeNumber": 21,
+    "episodeNumber": 22,
+    "subtractedEpisodeNumber": 21,
     "episodes": 22,
     "lengthMin": 25,
     "mediaTypes": [
@@ -2359,65 +2360,10 @@
             {
               "episode": 21,
               "airingAt": "2026-03-28T15:45:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-04T21:46:37Z"
-  },
-  {
-    "title": "Fumetsu no Anata e 3",
-    "route": "fumetsu-no-anata-e-3",
-    "romaji": "Fumetsu no Anata e 3",
-    "english": "To Your Eternity 3",
-    "native": "不滅のあなたへ3",
-    "delayedFrom": "2026-02-07T15:45:00Z",
-    "delayedUntil": "2026-02-28T15:45:00Z",
-    "episodeDate": "2026-04-04T15:45:00Z",
-    "episodeNumber": 22,
-    "episodes": 22,
-    "lengthMin": 25,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 162669,
-        "idMal": 54703,
-        "title": {
-          "romaji": "Fumetsu no Anata e Season 3",
-          "english": "To Your Eternity Season 3",
-          "native": "不滅のあなたへ Season 3",
-          "userPreferred": "To Your Eternity Season 3"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Drama",
-          "Fantasy",
-          "Psychological",
-          "Supernatural"
-        ],
-        "duration": 25,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162669-FLYUTftoXgMh.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162669-FLYUTftoXgMh.jpg",
-          "color": "#f1a150"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
-        "airingSchedule": {
-          "nodes": [
+            },
             {
               "episode": 22,
-              "airingAt": "2026-04-04T15:45:00Z"
+              "airingAt": "2026-03-28T15:45:00Z"
             }
           ]
         }
@@ -2435,7 +2381,8 @@
     "delayedFrom": "2026-02-07T15:45:00Z",
     "delayedUntil": "2026-02-28T15:45:00Z",
     "episodeDate": "2026-03-28T15:45:00Z",
-    "episodeNumber": 21,
+    "episodeNumber": 22,
+    "subtractedEpisodeNumber": 21,
     "episodes": 22,
     "lengthMin": 25,
     "mediaTypes": [
@@ -2476,6 +2423,10 @@
           "nodes": [
             {
               "episode": 21,
+              "airingAt": "2026-03-28T15:45:00Z"
+            },
+            {
+              "episode": 22,
               "airingAt": "2026-03-28T15:45:00Z"
             }
           ]
