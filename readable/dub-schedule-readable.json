@@ -5,9 +5,9 @@
     "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
     "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-    "delayedFrom": "2026-01-29T15:00:00Z",
-    "delayedUntil": "2026-02-05T15:00:00Z",
-    "episodeDate": "2026-03-26T15:00:00Z",
+    "delayedFrom": "2026-01-29T16:00:00Z",
+    "delayedUntil": "2026-02-05T16:00:00Z",
+    "episodeDate": "2026-03-26T16:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -49,7 +49,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-02T15:00:00Z"
+              "airingAt": "2026-04-02T16:00:00Z"
             }
           ]
         }
@@ -64,9 +64,9 @@
     "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
     "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-    "delayedFrom": "2026-01-29T15:00:00Z",
-    "delayedUntil": "2026-02-05T15:00:00Z",
-    "episodeDate": "2026-04-02T15:00:00Z",
+    "delayedFrom": "2026-01-29T16:00:00Z",
+    "delayedUntil": "2026-02-05T16:00:00Z",
+    "episodeDate": "2026-04-02T16:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -108,7 +108,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-02T15:00:00Z"
+              "airingAt": "2026-04-02T16:00:00Z"
             }
           ]
         }
@@ -123,9 +123,9 @@
     "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
     "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-    "delayedFrom": "2026-01-29T15:00:00Z",
-    "delayedUntil": "2026-02-05T15:00:00Z",
-    "episodeDate": "2026-04-09T15:00:00Z",
+    "delayedFrom": "2026-01-29T16:00:00Z",
+    "delayedUntil": "2026-02-05T16:00:00Z",
+    "episodeDate": "2026-04-09T16:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -167,7 +167,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-09T15:00:00Z"
+              "airingAt": "2026-04-09T16:00:00Z"
             }
           ]
         }
@@ -182,9 +182,9 @@
     "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
     "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-    "delayedFrom": "2026-01-29T15:00:00Z",
-    "delayedUntil": "2026-02-05T15:00:00Z",
-    "episodeDate": "2026-03-26T15:00:00Z",
+    "delayedFrom": "2026-01-29T16:00:00Z",
+    "delayedUntil": "2026-02-05T16:00:00Z",
+    "episodeDate": "2026-03-26T16:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -226,7 +226,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-02T15:00:00Z"
+              "airingAt": "2026-04-02T16:00:00Z"
             }
           ]
         }
@@ -959,6 +959,60 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
+    "title": "Dandelion",
+    "route": "dandelion",
+    "native": "だんでらいおん",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-04-16T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 7,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 208352,
+        "idMal": 63572,
+        "title": {
+          "romaji": "Dandelion",
+          "english": "Dandelion",
+          "native": "ダンデライオン",
+          "userPreferred": "Dandelion"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208352-UtmE6YUlJHtI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208352-UtmE6YUlJHtI.jpg",
+          "color": "#f1e428"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-16T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-16T07:00:00Z"
+  },
+  {
     "title": "Dark Moon: Tsuki no Saidan",
     "route": "dark-moon-tsuki-no-saidan",
     "romaji": "Dark Moon: Tsuki no Saidan",
@@ -1531,9 +1585,9 @@
     "romaji": "Douse, Koishite Shimaunda. 2nd Season",
     "english": "Anyway, I'm Falling in Love with You. 2nd Season",
     "native": "どうせ、恋してしまうんだ。2nd Season",
-    "delayedFrom": "2026-01-29T16:00:00Z",
-    "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-03-26T16:00:00Z",
+    "delayedFrom": "2026-01-29T17:00:00Z",
+    "delayedUntil": "2026-02-05T17:00:00Z",
+    "episodeDate": "2026-03-26T17:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -1572,7 +1626,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-02T16:00:00Z"
+              "airingAt": "2026-04-02T17:00:00Z"
             }
           ]
         }
@@ -1587,9 +1641,9 @@
     "romaji": "Douse, Koishite Shimaunda. 2nd Season",
     "english": "Anyway, I'm Falling in Love with You. 2nd Season",
     "native": "どうせ、恋してしまうんだ。2nd Season",
-    "delayedFrom": "2026-01-29T16:00:00Z",
-    "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-04-02T16:00:00Z",
+    "delayedFrom": "2026-01-29T17:00:00Z",
+    "delayedUntil": "2026-02-05T17:00:00Z",
+    "episodeDate": "2026-04-02T17:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
@@ -1628,7 +1682,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-02T16:00:00Z"
+              "airingAt": "2026-04-02T17:00:00Z"
             }
           ]
         }
@@ -1643,9 +1697,9 @@
     "romaji": "Douse, Koishite Shimaunda. 2nd Season",
     "english": "Anyway, I'm Falling in Love with You. 2nd Season",
     "native": "どうせ、恋してしまうんだ。2nd Season",
-    "delayedFrom": "2026-01-29T16:00:00Z",
-    "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-04-09T16:00:00Z",
+    "delayedFrom": "2026-01-29T17:00:00Z",
+    "delayedUntil": "2026-02-05T17:00:00Z",
+    "episodeDate": "2026-04-09T17:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
@@ -1684,7 +1738,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-09T16:00:00Z"
+              "airingAt": "2026-04-09T17:00:00Z"
             }
           ]
         }
@@ -1699,9 +1753,9 @@
     "romaji": "Douse, Koishite Shimaunda. 2nd Season",
     "english": "Anyway, I'm Falling in Love with You. 2nd Season",
     "native": "どうせ、恋してしまうんだ。2nd Season",
-    "delayedFrom": "2026-01-29T16:00:00Z",
-    "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-03-26T16:00:00Z",
+    "delayedFrom": "2026-01-29T17:00:00Z",
+    "delayedUntil": "2026-02-05T17:00:00Z",
+    "episodeDate": "2026-03-26T17:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -1740,7 +1794,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-02T16:00:00Z"
+              "airingAt": "2026-04-02T17:00:00Z"
             }
           ]
         }
@@ -6666,6 +6720,121 @@
     "addedAt": "2026-03-18T16:00:00Z"
   },
   {
+    "title": "Tongari Boushi no Atelier",
+    "route": "tongari-boushi-no-atelier",
+    "romaji": "Tongari Boushi no Atelier",
+    "english": "Witch Hat Atelier",
+    "native": "とんがり帽子のアトリエ",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-04-06T14:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 147105,
+        "idMal": 51553,
+        "title": {
+          "romaji": "Tongari Boushi no Atelier",
+          "english": "Witch Hat Atelier",
+          "native": "とんがり帽子のアトリエ",
+          "userPreferred": "Witch Hat Atelier"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-QrKDkM4yqp7f.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-QrKDkM4yqp7f.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-06T14:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-04-06T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-06T14:00:00Z"
+  },
+  {
+    "title": "Tongari Boushi no Atelier",
+    "route": "tongari-boushi-no-atelier",
+    "romaji": "Tongari Boushi no Atelier",
+    "english": "Witch Hat Atelier",
+    "native": "とんがり帽子のアトリエ",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-04-13T14:00:00Z",
+    "episodeNumber": 3,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 147105,
+        "idMal": 51553,
+        "title": {
+          "romaji": "Tongari Boushi no Atelier",
+          "english": "Witch Hat Atelier",
+          "native": "とんがり帽子のアトリエ",
+          "userPreferred": "Witch Hat Atelier"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-QrKDkM4yqp7f.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-QrKDkM4yqp7f.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-04-13T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-26T20:37:44Z"
+  },
+  {
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "route": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
     "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
@@ -8084,8 +8253,9 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedFrom": "2026-01-08T14:00:00Z",
-    "delayedUntil": "2026-01-15T14:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-26T14:00:00Z",
+    "delayedUntil": "2026-04-02T14:00:00Z",
     "episodeDate": "2026-03-26T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -8127,7 +8297,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-03-26T14:00:00Z"
+              "airingAt": "2026-04-02T14:00:00Z"
             }
           ]
         }
@@ -8142,8 +8312,67 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedFrom": "2026-01-08T14:00:00Z",
-    "delayedUntil": "2026-01-15T14:00:00Z",
+    "delayedFrom": "2026-03-26T14:00:00Z",
+    "delayedUntil": "2026-04-02T14:00:00Z",
+    "episodeDate": "2026-04-02T14:00:00Z",
+    "episodeNumber": 12,
+    "episodes": 12,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 167152,
+        "idMal": 56009,
+        "title": {
+          "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+          "english": "Sentenced to Be a Hero",
+          "native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
+          "userPreferred": "Sentenced to Be a Hero"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167152-u0cBZkqDowHP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167152-u0cBZkqDowHP.jpg",
+          "color": "#f1935d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167152-6QxZG8Dmf1EL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2026-04-02T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-01-03T15:20:45Z"
+  },
+  {
+    "title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "route": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
+    "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "english": "Sentenced to Be a Hero",
+    "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-26T14:00:00Z",
+    "delayedUntil": "2026-04-02T14:00:00Z",
     "episodeDate": "2026-03-26T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -8185,7 +8414,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-03-26T14:00:00Z"
+              "airingAt": "2026-04-02T14:00:00Z"
             }
           ]
         }
