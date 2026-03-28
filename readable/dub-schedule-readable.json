@@ -1294,9 +1294,9 @@
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-03-28T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-03-28T15:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -1335,7 +1335,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:00:00Z"
+              "airingAt": "2026-04-04T15:00:00Z"
             }
           ]
         }
@@ -1348,9 +1348,9 @@
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-04-04T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-04-04T15:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -1389,7 +1389,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:00:00Z"
+              "airingAt": "2026-04-04T15:00:00Z"
             }
           ]
         }
@@ -1402,9 +1402,9 @@
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-04-11T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-04-11T15:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -1443,7 +1443,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-11T14:00:00Z"
+              "airingAt": "2026-04-11T15:00:00Z"
             }
           ]
         }
@@ -1456,9 +1456,9 @@
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-03-28T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-03-28T15:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -1497,7 +1497,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:00:00Z"
+              "airingAt": "2026-04-04T15:00:00Z"
             }
           ]
         }
@@ -3577,9 +3577,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T14:30:00Z",
-    "delayedUntil": "2026-02-07T14:30:00Z",
-    "episodeDate": "2026-03-28T14:30:00Z",
+    "delayedFrom": "2026-01-31T15:30:00Z",
+    "delayedUntil": "2026-02-07T15:30:00Z",
+    "episodeDate": "2026-03-28T15:30:00Z",
     "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 24,
@@ -3621,7 +3621,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:30:00Z"
+              "airingAt": "2026-04-04T15:30:00Z"
             }
           ]
         }
@@ -3636,9 +3636,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T14:30:00Z",
-    "delayedUntil": "2026-02-07T14:30:00Z",
-    "episodeDate": "2026-04-04T14:30:00Z",
+    "delayedFrom": "2026-01-31T15:30:00Z",
+    "delayedUntil": "2026-02-07T15:30:00Z",
+    "episodeDate": "2026-04-04T15:30:00Z",
     "episodeNumber": 11,
     "episodes": 13,
     "lengthMin": 24,
@@ -3680,7 +3680,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:30:00Z"
+              "airingAt": "2026-04-04T15:30:00Z"
             }
           ]
         }
@@ -3695,9 +3695,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T14:30:00Z",
-    "delayedUntil": "2026-02-07T14:30:00Z",
-    "episodeDate": "2026-04-11T14:30:00Z",
+    "delayedFrom": "2026-01-31T15:30:00Z",
+    "delayedUntil": "2026-02-07T15:30:00Z",
+    "episodeDate": "2026-04-11T15:30:00Z",
     "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
@@ -3739,7 +3739,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-11T14:30:00Z"
+              "airingAt": "2026-04-11T15:30:00Z"
             }
           ]
         }
@@ -3754,9 +3754,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T14:30:00Z",
-    "delayedUntil": "2026-02-07T14:30:00Z",
-    "episodeDate": "2026-04-18T14:30:00Z",
+    "delayedFrom": "2026-01-31T15:30:00Z",
+    "delayedUntil": "2026-02-07T15:30:00Z",
+    "episodeDate": "2026-04-18T15:30:00Z",
     "episodeNumber": 13,
     "episodes": 13,
     "lengthMin": 24,
@@ -3798,7 +3798,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2026-04-18T14:30:00Z"
+              "airingAt": "2026-04-18T15:30:00Z"
             }
           ]
         }
@@ -3813,9 +3813,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T14:30:00Z",
-    "delayedUntil": "2026-02-07T14:30:00Z",
-    "episodeDate": "2026-03-28T14:30:00Z",
+    "delayedFrom": "2026-01-31T15:30:00Z",
+    "delayedUntil": "2026-02-07T15:30:00Z",
+    "episodeDate": "2026-03-28T15:30:00Z",
     "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 24,
@@ -3857,7 +3857,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:30:00Z"
+              "airingAt": "2026-04-04T15:30:00Z"
             }
           ]
         }
@@ -7005,9 +7005,9 @@
   {
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-03-28T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-03-28T15:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -7048,7 +7048,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:00:00Z"
+              "airingAt": "2026-04-04T15:00:00Z"
             }
           ]
         }
@@ -7060,9 +7060,9 @@
   {
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-04-04T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-04-04T15:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -7103,7 +7103,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:00:00Z"
+              "airingAt": "2026-04-04T15:00:00Z"
             }
           ]
         }
@@ -7115,9 +7115,9 @@
   {
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-04-11T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-04-11T15:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -7158,7 +7158,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-11T14:00:00Z"
+              "airingAt": "2026-04-11T15:00:00Z"
             }
           ]
         }
@@ -7170,9 +7170,9 @@
   {
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
-    "delayedFrom": "2026-01-31T14:00:00Z",
-    "delayedUntil": "2026-02-07T14:00:00Z",
-    "episodeDate": "2026-03-28T14:00:00Z",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
+    "episodeDate": "2026-03-28T15:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -7213,7 +7213,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-04-04T14:00:00Z"
+              "airingAt": "2026-04-04T15:00:00Z"
             }
           ]
         }
