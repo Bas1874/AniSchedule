@@ -1957,8 +1957,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-03-30T14:30:00Z"
+              "episode": 12,
+              "airingAt": "2026-04-06T14:30:00Z"
             }
           ]
         }
@@ -2128,8 +2128,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-03-30T14:30:00Z"
+              "episode": 12,
+              "airingAt": "2026-04-06T14:30:00Z"
             }
           ]
         }
@@ -4126,6 +4126,8 @@
   {
     "title": "Nippon Sangoku",
     "route": "nippon-sangoku",
+    "romaji": "Nippon Sangoku",
+    "english": "Nippon Sangoku: The Three Nations of the Crimson Sun",
     "native": "日本三國",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
@@ -4157,9 +4159,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-45avCPrNz1co.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-45avCPrNz1co.jpg",
-          "color": "#fec90d"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-SHKX08LarRzB.jpg",
+          "color": "#35c9e4"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
@@ -4179,6 +4181,8 @@
   {
     "title": "Nippon Sangoku",
     "route": "nippon-sangoku",
+    "romaji": "Nippon Sangoku",
+    "english": "Nippon Sangoku: The Three Nations of the Crimson Sun",
     "native": "日本三國",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
@@ -4210,9 +4214,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-45avCPrNz1co.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-45avCPrNz1co.jpg",
-          "color": "#fec90d"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-SHKX08LarRzB.jpg",
+          "color": "#35c9e4"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
@@ -4232,6 +4236,8 @@
   {
     "title": "Nippon Sangoku",
     "route": "nippon-sangoku",
+    "romaji": "Nippon Sangoku",
+    "english": "Nippon Sangoku: The Three Nations of the Crimson Sun",
     "native": "日本三國",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
@@ -4263,9 +4269,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-45avCPrNz1co.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-45avCPrNz1co.jpg",
-          "color": "#fec90d"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-SHKX08LarRzB.jpg",
+          "color": "#35c9e4"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
@@ -4285,6 +4291,8 @@
   {
     "title": "Nippon Sangoku",
     "route": "nippon-sangoku",
+    "romaji": "Nippon Sangoku",
+    "english": "Nippon Sangoku: The Three Nations of the Crimson Sun",
     "native": "日本三國",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
@@ -4316,9 +4324,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-45avCPrNz1co.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-45avCPrNz1co.jpg",
-          "color": "#fec90d"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-SHKX08LarRzB.jpg",
+          "color": "#35c9e4"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
@@ -4338,6 +4346,8 @@
   {
     "title": "Nippon Sangoku",
     "route": "nippon-sangoku",
+    "romaji": "Nippon Sangoku",
+    "english": "Nippon Sangoku: The Three Nations of the Crimson Sun",
     "native": "日本三國",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
@@ -4369,9 +4379,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-45avCPrNz1co.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-45avCPrNz1co.jpg",
-          "color": "#fec90d"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-SHKX08LarRzB.jpg",
+          "color": "#35c9e4"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
@@ -6134,8 +6144,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-03-30T14:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-04-06T14:00:00Z"
             }
           ]
         }
@@ -6193,7 +6203,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-03-30T14:00:00Z"
+              "airingAt": "2026-04-06T14:00:00Z"
             }
           ]
         }
@@ -6251,7 +6261,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2026-03-30T14:00:00Z"
+              "airingAt": "2026-04-13T14:00:00Z"
             }
           ]
         }
@@ -6308,8 +6318,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-03-30T14:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-04-06T14:00:00Z"
             }
           ]
         }
