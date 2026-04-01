@@ -2418,7 +2418,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 180228,
@@ -2453,6 +2453,10 @@
             {
               "episode": 2,
               "airingAt": "2026-04-01T17:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
@@ -2515,7 +2519,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-04-01T16:57:04Z"
+    "addedAt": "2026-04-01T17:00:00Z"
   },
   {
     "title": "Ganbare! Nakamura-kun!!",
@@ -2571,7 +2575,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-04-01T16:57:04Z"
+    "addedAt": "2026-04-01T17:00:00Z"
   },
   {
     "title": "Ganbare! Nakamura-kun!!",
@@ -2627,7 +2631,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-04-01T16:57:04Z"
+    "addedAt": "2026-04-01T17:00:00Z"
   },
   {
     "title": "Ganbare! Nakamura-kun!!",
@@ -2647,7 +2651,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 180228,
@@ -2682,6 +2686,10 @@
             {
               "episode": 2,
               "airingAt": "2026-04-01T17:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
@@ -3077,8 +3085,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-04-01T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
@@ -3305,8 +3313,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-04-01T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
@@ -4385,8 +4393,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-04-01T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
@@ -4625,8 +4633,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-04-01T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
@@ -6247,8 +6255,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-04-01T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
@@ -6475,8 +6483,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-04-01T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-04-08T17:00:00Z"
             }
           ]
         }
