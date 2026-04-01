@@ -2412,6 +2412,7 @@
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2435,7 +2436,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-vNwpaK5X7osA.png",
@@ -2476,6 +2477,7 @@
     "episodeDate": "2026-04-08T17:00:00Z",
     "episodeNumber": 3,
     "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2499,7 +2501,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-vNwpaK5X7osA.png",
@@ -2532,6 +2534,7 @@
     "episodeDate": "2026-04-15T17:00:00Z",
     "episodeNumber": 4,
     "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2555,7 +2558,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-vNwpaK5X7osA.png",
@@ -2588,6 +2591,7 @@
     "episodeDate": "2026-04-22T17:00:00Z",
     "episodeNumber": 5,
     "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2611,7 +2615,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-vNwpaK5X7osA.png",
@@ -2645,6 +2649,7 @@
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2668,7 +2673,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-vNwpaK5X7osA.png",
@@ -4848,9 +4853,9 @@
         "duration": 23,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
-          "color": "#50a1e4"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-uTbrRBhwCaSb.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-uTbrRBhwCaSb.jpg",
+          "color": "#4378e4"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
@@ -4904,9 +4909,9 @@
         "duration": 23,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
-          "color": "#50a1e4"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-uTbrRBhwCaSb.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-uTbrRBhwCaSb.jpg",
+          "color": "#4378e4"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
