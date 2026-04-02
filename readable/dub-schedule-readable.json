@@ -6333,6 +6333,271 @@
     "addedAt": "2026-01-11T08:30:00Z"
   },
   {
+    "title": "Snowball Earth",
+    "route": "snowball-earth",
+    "native": "スノウボールアース",
+    "delayedFrom": "0001-01-01T14:40:00Z",
+    "delayedUntil": "0001-01-01T14:40:00Z",
+    "episodeDate": "2026-04-03T14:40:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 196144,
+        "idMal": 62068,
+        "title": {
+          "romaji": "Snowball Earth",
+          "english": "SNOWBALL EARTH",
+          "native": "スノウボールアース",
+          "userPreferred": "SNOWBALL EARTH"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Mecha",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-UqVOcMjThkqa.jpg",
+          "color": "#f1c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-03T14:40:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-03T14:40:00Z"
+  },
+  {
+    "title": "Snowball Earth",
+    "route": "snowball-earth",
+    "native": "スノウボールアース",
+    "delayedFrom": "0001-01-01T14:40:00Z",
+    "delayedUntil": "0001-01-01T14:40:00Z",
+    "episodeDate": "2026-04-10T14:40:00Z",
+    "episodeNumber": 2,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 196144,
+        "idMal": 62068,
+        "title": {
+          "romaji": "Snowball Earth",
+          "english": "SNOWBALL EARTH",
+          "native": "スノウボールアース",
+          "userPreferred": "SNOWBALL EARTH"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Mecha",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-UqVOcMjThkqa.jpg",
+          "color": "#f1c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-10T14:40:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-02T23:36:17Z"
+  },
+  {
+    "title": "Snowball Earth",
+    "route": "snowball-earth",
+    "native": "スノウボールアース",
+    "delayedFrom": "0001-01-01T14:40:00Z",
+    "delayedUntil": "0001-01-01T14:40:00Z",
+    "episodeDate": "2026-04-17T14:40:00Z",
+    "episodeNumber": 3,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 196144,
+        "idMal": 62068,
+        "title": {
+          "romaji": "Snowball Earth",
+          "english": "SNOWBALL EARTH",
+          "native": "スノウボールアース",
+          "userPreferred": "SNOWBALL EARTH"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Mecha",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-UqVOcMjThkqa.jpg",
+          "color": "#f1c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-04-17T14:40:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-02T23:36:17Z"
+  },
+  {
+    "title": "Snowball Earth",
+    "route": "snowball-earth",
+    "native": "スノウボールアース",
+    "delayedFrom": "0001-01-01T14:40:00Z",
+    "delayedUntil": "0001-01-01T14:40:00Z",
+    "episodeDate": "2026-04-24T14:40:00Z",
+    "episodeNumber": 4,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 196144,
+        "idMal": 62068,
+        "title": {
+          "romaji": "Snowball Earth",
+          "english": "SNOWBALL EARTH",
+          "native": "スノウボールアース",
+          "userPreferred": "SNOWBALL EARTH"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Mecha",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-UqVOcMjThkqa.jpg",
+          "color": "#f1c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-04-24T14:40:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-02T23:36:17Z"
+  },
+  {
+    "title": "Snowball Earth",
+    "route": "snowball-earth",
+    "native": "スノウボールアース",
+    "delayedFrom": "0001-01-01T14:40:00Z",
+    "delayedUntil": "0001-01-01T14:40:00Z",
+    "episodeDate": "2026-04-03T14:40:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 196144,
+        "idMal": 62068,
+        "title": {
+          "romaji": "Snowball Earth",
+          "english": "SNOWBALL EARTH",
+          "native": "スノウボールアース",
+          "userPreferred": "SNOWBALL EARTH"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Mecha",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-UqVOcMjThkqa.jpg",
+          "color": "#f1c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-03T14:40:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-03T14:40:00Z"
+  },
+  {
     "title": "Sousou no Frieren 2nd Season",
     "route": "sousou-no-frieren-2nd-season",
     "romaji": "Sousou no Frieren 2nd Season",
@@ -6825,9 +7090,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-QrKDkM4yqp7f.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-QrKDkM4yqp7f.jpg",
-          "color": null
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-rwOX8qyUy8gV.jpg",
+          "color": "#0d8693"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
@@ -6884,9 +7149,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-QrKDkM4yqp7f.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-QrKDkM4yqp7f.jpg",
-          "color": null
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-rwOX8qyUy8gV.jpg",
+          "color": "#0d8693"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
@@ -6939,9 +7204,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-QrKDkM4yqp7f.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-QrKDkM4yqp7f.jpg",
-          "color": null
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-rwOX8qyUy8gV.jpg",
+          "color": "#0d8693"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
