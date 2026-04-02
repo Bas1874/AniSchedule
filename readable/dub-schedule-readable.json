@@ -1530,6 +1530,8 @@
     "episodeDate": "2026-04-01T14:00:00Z",
     "episodeNumber": 3,
     "subtractedEpisodeNumber": 1,
+    "episodes": 11,
+    "lengthMin": 26,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -1606,6 +1608,8 @@
     "delayedUntil": "0001-01-01T14:00:00Z",
     "episodeDate": "2026-04-08T14:00:00Z",
     "episodeNumber": 4,
+    "episodes": 11,
+    "lengthMin": 26,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -1662,6 +1666,8 @@
     "delayedUntil": "0001-01-01T14:00:00Z",
     "episodeDate": "2026-04-15T14:00:00Z",
     "episodeNumber": 5,
+    "episodes": 11,
+    "lengthMin": 26,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -1718,6 +1724,8 @@
     "delayedUntil": "0001-01-01T14:00:00Z",
     "episodeDate": "2026-04-22T14:00:00Z",
     "episodeNumber": 6,
+    "episodes": 11,
+    "lengthMin": 26,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -1775,6 +1783,8 @@
     "episodeDate": "2026-04-01T14:00:00Z",
     "episodeNumber": 3,
     "subtractedEpisodeNumber": 1,
+    "episodes": 11,
+    "lengthMin": 26,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -4358,6 +4368,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-04-02T15:30:00Z",
     "episodeNumber": 1,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -4413,6 +4424,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-04-09T15:30:00Z",
     "episodeNumber": 2,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -4468,6 +4480,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-04-16T15:30:00Z",
     "episodeNumber": 3,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -4523,6 +4536,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-04-23T15:30:00Z",
     "episodeNumber": 4,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -4578,6 +4592,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-04-02T15:30:00Z",
     "episodeNumber": 1,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
