@@ -1518,7 +1518,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-03-20T02:10:24Z"
   },
   {
@@ -2054,7 +2054,7 @@
           "Comedy",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
@@ -2109,7 +2109,7 @@
           "Comedy",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
@@ -2164,7 +2164,7 @@
           "Comedy",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
@@ -2219,7 +2219,7 @@
           "Comedy",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
@@ -2274,7 +2274,7 @@
           "Comedy",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
@@ -2697,7 +2697,7 @@
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2762,7 +2762,7 @@
     "episodeDate": "2026-04-08T17:00:00Z",
     "episodeNumber": 3,
     "episodes": 13,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2819,7 +2819,7 @@
     "episodeDate": "2026-04-15T17:00:00Z",
     "episodeNumber": 4,
     "episodes": 13,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2876,7 +2876,7 @@
     "episodeDate": "2026-04-22T17:00:00Z",
     "episodeNumber": 5,
     "episodes": 13,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2934,7 +2934,7 @@
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -4392,7 +4392,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 26,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
@@ -4448,7 +4448,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 26,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
@@ -4504,7 +4504,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 26,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
@@ -4560,7 +4560,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 26,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
@@ -4616,7 +4616,7 @@
           "Romance",
           "Slice of Life"
         ],
-        "duration": null,
+        "duration": 26,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
@@ -6436,7 +6436,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-04-02T23:36:17Z"
+    "addedAt": "2026-04-03T14:40:00Z"
   },
   {
     "title": "Snowball Earth",
@@ -6489,7 +6489,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-04-02T23:36:17Z"
+    "addedAt": "2026-04-03T14:40:00Z"
   },
   {
     "title": "Snowball Earth",
@@ -6542,7 +6542,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-04-02T23:36:17Z"
+    "addedAt": "2026-04-03T14:40:00Z"
   },
   {
     "title": "Snowball Earth",
@@ -7064,6 +7064,7 @@
     "episodeDate": "2026-04-06T14:00:00Z",
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -7123,6 +7124,7 @@
     "delayedUntil": "0001-01-01T14:00:00Z",
     "episodeDate": "2026-04-13T14:00:00Z",
     "episodeNumber": 3,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -7178,6 +7180,7 @@
     "delayedUntil": "0001-01-01T14:00:00Z",
     "episodeDate": "2026-04-20T14:00:00Z",
     "episodeNumber": 4,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
