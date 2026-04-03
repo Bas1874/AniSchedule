@@ -6346,7 +6346,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 196144,
@@ -6375,8 +6375,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-03T14:40:00Z"
+              "episode": 2,
+              "airingAt": "2026-04-10T14:40:00Z"
             }
           ]
         }
@@ -6558,7 +6558,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 196144,
@@ -6587,8 +6587,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-03T14:40:00Z"
+              "episode": 2,
+              "airingAt": "2026-04-10T14:40:00Z"
             }
           ]
         }
