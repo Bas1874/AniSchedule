@@ -3729,8 +3729,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-09T15:30:00Z"
+              "episode": 3,
+              "airingAt": "2026-04-16T15:30:00Z"
             }
           ]
         }
@@ -3953,8 +3953,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-09T15:30:00Z"
+              "episode": 3,
+              "airingAt": "2026-04-16T15:30:00Z"
             }
           ]
         }
@@ -4703,8 +4703,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-04-09T14:30:00Z"
+              "episode": 13,
+              "airingAt": "2026-04-16T14:30:00Z"
             }
           ]
         }
@@ -4809,8 +4809,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-04-09T14:30:00Z"
+              "episode": 13,
+              "airingAt": "2026-04-16T14:30:00Z"
             }
           ]
         }
@@ -8584,9 +8584,8 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-03-26T14:00:00Z",
-    "delayedUntil": "2026-04-16T14:00:00Z",
+    "delayedUntil": "2026-04-09T14:00:00Z",
     "episodeDate": "2026-04-09T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -8627,7 +8626,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-16T14:00:00Z"
+              "airingAt": "2026-04-09T14:00:00Z"
             }
           ]
         }
@@ -8643,65 +8642,7 @@
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
     "delayedFrom": "2026-03-26T14:00:00Z",
-    "delayedUntil": "2026-04-16T14:00:00Z",
-    "episodeDate": "2026-04-16T14:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 25,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 167152,
-        "idMal": 56009,
-        "title": {
-          "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-          "english": "Sentenced to Be a Hero",
-          "native": "勇者刑に処す 懲罰勇者9004隊刑務記録",
-          "userPreferred": "Sentenced to Be a Hero"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Drama",
-          "Fantasy"
-        ],
-        "duration": 25,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167152-O1pm6DWwifBD.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167152-O1pm6DWwifBD.jpg",
-          "color": "#f1a15d"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167152-6QxZG8Dmf1EL.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-04-16T14:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-03T15:20:45Z"
-  },
-  {
-    "title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-    "route": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
-    "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-    "english": "Sentenced to Be a Hero",
-    "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedText": "Delayed",
-    "delayedFrom": "2026-03-26T14:00:00Z",
-    "delayedUntil": "2026-04-16T14:00:00Z",
+    "delayedUntil": "2026-04-09T14:00:00Z",
     "episodeDate": "2026-04-09T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -8742,7 +8683,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-16T14:00:00Z"
+              "airingAt": "2026-04-09T14:00:00Z"
             }
           ]
         }
