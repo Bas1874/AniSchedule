@@ -3697,6 +3697,286 @@
     "addedAt": "2026-01-22T16:30:00Z"
   },
   {
+    "title": "Kill Ao",
+    "route": "kill-ao",
+    "romaji": "Kill Ao",
+    "english": "Kill Blue",
+    "native": "キルアオ",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-04-11T14:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198113,
+        "idMal": 62391,
+        "title": {
+          "romaji": "Kill Ao",
+          "english": "KILL BLUE",
+          "native": "キルアオ",
+          "userPreferred": "KILL BLUE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+          "color": "#50aefe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-18T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T17:32:28Z"
+  },
+  {
+    "title": "Kill Ao",
+    "route": "kill-ao",
+    "romaji": "Kill Ao",
+    "english": "Kill Blue",
+    "native": "キルアオ",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-04-18T14:30:00Z",
+    "episodeNumber": 2,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198113,
+        "idMal": 62391,
+        "title": {
+          "romaji": "Kill Ao",
+          "english": "KILL BLUE",
+          "native": "キルアオ",
+          "userPreferred": "KILL BLUE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+          "color": "#50aefe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-18T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T17:32:28Z"
+  },
+  {
+    "title": "Kill Ao",
+    "route": "kill-ao",
+    "romaji": "Kill Ao",
+    "english": "Kill Blue",
+    "native": "キルアオ",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-04-25T14:30:00Z",
+    "episodeNumber": 3,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198113,
+        "idMal": 62391,
+        "title": {
+          "romaji": "Kill Ao",
+          "english": "KILL BLUE",
+          "native": "キルアオ",
+          "userPreferred": "KILL BLUE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+          "color": "#50aefe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-04-25T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T17:32:28Z"
+  },
+  {
+    "title": "Kill Ao",
+    "route": "kill-ao",
+    "romaji": "Kill Ao",
+    "english": "Kill Blue",
+    "native": "キルアオ",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-05-02T14:30:00Z",
+    "episodeNumber": 4,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198113,
+        "idMal": 62391,
+        "title": {
+          "romaji": "Kill Ao",
+          "english": "KILL BLUE",
+          "native": "キルアオ",
+          "userPreferred": "KILL BLUE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+          "color": "#50aefe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-05-02T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T17:32:28Z"
+  },
+  {
+    "title": "Kill Ao",
+    "route": "kill-ao",
+    "romaji": "Kill Ao",
+    "english": "Kill Blue",
+    "native": "キルアオ",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-04-11T14:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198113,
+        "idMal": 62391,
+        "title": {
+          "romaji": "Kill Ao",
+          "english": "KILL BLUE",
+          "native": "キルアオ",
+          "userPreferred": "KILL BLUE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+          "color": "#50aefe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-18T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T17:32:28Z"
+  },
+  {
     "title": "Koori no Jouheki",
     "route": "koori-no-jouheki",
     "romaji": "Koori no Jouheki",
