@@ -6137,8 +6137,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-11T01:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-04-18T01:00:00Z"
             }
           ]
         }
@@ -6349,8 +6349,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-11T01:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-04-18T01:00:00Z"
             }
           ]
         }
@@ -6474,6 +6474,291 @@
     },
     "verified": true,
     "addedAt": "2026-01-11T08:30:00Z"
+  },
+  {
+    "title": "Shunkashuutou Daikousha: Haru no Mai",
+    "route": "shunkashuutou-daikousha-haru-no-mai",
+    "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+    "english": "Agents of the Four Seasons: Dance of Spring",
+    "native": "春夏秋冬代行者 春の舞",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-04-11T16:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 190143,
+        "idMal": 61443,
+        "title": {
+          "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+          "english": "Agents of the Four Seasons: Dance of Spring",
+          "native": "春夏秋冬代行者 春の舞",
+          "userPreferred": "Agents of the Four Seasons: Dance of Spring"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
+          "color": "#e4865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-11T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T16:30:00Z"
+  },
+  {
+    "title": "Shunkashuutou Daikousha: Haru no Mai",
+    "route": "shunkashuutou-daikousha-haru-no-mai",
+    "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+    "english": "Agents of the Four Seasons: Dance of Spring",
+    "native": "春夏秋冬代行者 春の舞",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-04-18T16:30:00Z",
+    "episodeNumber": 2,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 190143,
+        "idMal": 61443,
+        "title": {
+          "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+          "english": "Agents of the Four Seasons: Dance of Spring",
+          "native": "春夏秋冬代行者 春の舞",
+          "userPreferred": "Agents of the Four Seasons: Dance of Spring"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
+          "color": "#e4865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-18T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T02:23:52Z"
+  },
+  {
+    "title": "Shunkashuutou Daikousha: Haru no Mai",
+    "route": "shunkashuutou-daikousha-haru-no-mai",
+    "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+    "english": "Agents of the Four Seasons: Dance of Spring",
+    "native": "春夏秋冬代行者 春の舞",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-04-25T16:30:00Z",
+    "episodeNumber": 3,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 190143,
+        "idMal": 61443,
+        "title": {
+          "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+          "english": "Agents of the Four Seasons: Dance of Spring",
+          "native": "春夏秋冬代行者 春の舞",
+          "userPreferred": "Agents of the Four Seasons: Dance of Spring"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
+          "color": "#e4865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-04-25T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T02:23:52Z"
+  },
+  {
+    "title": "Shunkashuutou Daikousha: Haru no Mai",
+    "route": "shunkashuutou-daikousha-haru-no-mai",
+    "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+    "english": "Agents of the Four Seasons: Dance of Spring",
+    "native": "春夏秋冬代行者 春の舞",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-05-02T16:30:00Z",
+    "episodeNumber": 4,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 190143,
+        "idMal": 61443,
+        "title": {
+          "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+          "english": "Agents of the Four Seasons: Dance of Spring",
+          "native": "春夏秋冬代行者 春の舞",
+          "userPreferred": "Agents of the Four Seasons: Dance of Spring"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
+          "color": "#e4865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-05-02T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T02:23:52Z"
+  },
+  {
+    "title": "Shunkashuutou Daikousha: Haru no Mai",
+    "route": "shunkashuutou-daikousha-haru-no-mai",
+    "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+    "english": "Agents of the Four Seasons: Dance of Spring",
+    "native": "春夏秋冬代行者 春の舞",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-04-11T16:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 190143,
+        "idMal": 61443,
+        "title": {
+          "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+          "english": "Agents of the Four Seasons: Dance of Spring",
+          "native": "春夏秋冬代行者 春の舞",
+          "userPreferred": "Agents of the Four Seasons: Dance of Spring"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
+          "color": "#e4865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-11T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-11T16:30:00Z"
   },
   {
     "title": "Snowball Earth",
