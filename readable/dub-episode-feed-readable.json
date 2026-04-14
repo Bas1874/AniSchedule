@@ -29,7 +29,7 @@
     "episode": {
       "aired": 5,
       "airedAt": "2026-04-13T14:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -40,7 +40,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-04-13T14:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -51,7 +51,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-04-13T14:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -843,7 +843,7 @@
     "episode": {
       "aired": 5,
       "airedAt": "2026-04-10T16:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -854,7 +854,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-04-10T16:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -865,7 +865,7 @@
     "episode": {
       "aired": 4,
       "airedAt": "2026-04-10T16:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -876,7 +876,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-04-10T16:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -887,7 +887,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-04-10T16:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -898,7 +898,7 @@
     "episode": {
       "aired": 3,
       "airedAt": "2026-04-10T16:00:00Z",
-      "addedAt": "2026-04-14T19:17:20Z"
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -1625,6 +1625,39 @@
       "aired": 12,
       "airedAt": "2026-04-08T13:00:00Z",
       "addedAt": "2026-04-09T14:06:09Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-08T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-08T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-08T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
@@ -3146,6 +3179,39 @@
     }
   },
   {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-01T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-01T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-01T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
+    }
+  },
+  {
     "id": 177679,
     "idMal": 58886,
     "format": "TV",
@@ -4397,6 +4463,39 @@
       "aired": 10,
       "airedAt": "2026-03-25T13:00:00Z",
       "addedAt": "2026-03-26T07:10:35Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-03-25T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-03-25T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-03-25T12:30:00Z",
+      "addedAt": "2026-04-14T20:55:44Z"
     }
   },
   {
