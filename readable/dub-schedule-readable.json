@@ -557,15 +557,17 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2026-04-16T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 1,
     "episodes": 7,
+    "lengthMin": 30,
     "mediaTypes": [
       {
         "name": "ONA",
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 208352,
@@ -596,168 +598,30 @@
             {
               "episode": 1,
               "airingAt": "2026-04-16T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-04-16T07:00:00Z"
-  },
-  {
-    "title": "Dandelion",
-    "route": "dandelion",
-    "native": "だんでらいおん",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-04-23T07:00:00Z",
-    "episodeNumber": 2,
-    "episodes": 7,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 208352,
-        "idMal": 63572,
-        "title": {
-          "romaji": "Dandelion",
-          "english": "Dandelion",
-          "native": "だんでらいおん",
-          "userPreferred": "Dandelion"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Supernatural"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208352-KUuXI4sVbtYV.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208352-KUuXI4sVbtYV.jpg",
-          "color": "#e4d65d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
+            },
             {
               "episode": 2,
-              "airingAt": "2026-04-23T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-04-16T07:00:00Z"
-  },
-  {
-    "title": "Dandelion",
-    "route": "dandelion",
-    "native": "だんでらいおん",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-04-30T07:00:00Z",
-    "episodeNumber": 3,
-    "episodes": 7,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 208352,
-        "idMal": 63572,
-        "title": {
-          "romaji": "Dandelion",
-          "english": "Dandelion",
-          "native": "だんでらいおん",
-          "userPreferred": "Dandelion"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Supernatural"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208352-KUuXI4sVbtYV.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208352-KUuXI4sVbtYV.jpg",
-          "color": "#e4d65d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
             {
               "episode": 3,
-              "airingAt": "2026-04-30T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-04-16T07:00:00Z"
-  },
-  {
-    "title": "Dandelion",
-    "route": "dandelion",
-    "native": "だんでらいおん",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-05-07T07:00:00Z",
-    "episodeNumber": 4,
-    "episodes": 7,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 208352,
-        "idMal": 63572,
-        "title": {
-          "romaji": "Dandelion",
-          "english": "Dandelion",
-          "native": "だんでらいおん",
-          "userPreferred": "Dandelion"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Supernatural"
-        ],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208352-KUuXI4sVbtYV.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208352-KUuXI4sVbtYV.jpg",
-          "color": "#e4d65d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
             {
               "episode": 4,
-              "airingAt": "2026-05-07T07:00:00Z"
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-04-16T07:00:00Z"
             }
           ]
         }
@@ -773,15 +637,17 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2026-04-16T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 1,
     "episodes": 7,
+    "lengthMin": 30,
     "mediaTypes": [
       {
         "name": "ONA",
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 208352,
@@ -811,6 +677,30 @@
           "nodes": [
             {
               "episode": 1,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 7,
               "airingAt": "2026-04-16T07:00:00Z"
             }
           ]
