@@ -2906,6 +2906,296 @@
     "addedAt": "2026-01-24T15:30:00Z"
   },
   {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-04-17T13:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 192808,
+        "idMal": 61687,
+        "title": {
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+          "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+          "native": "自称悪役令嬢な婚約者の観察記録。",
+          "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-17T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-04-24T13:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192808,
+        "idMal": 61687,
+        "title": {
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+          "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+          "native": "自称悪役令嬢な婚約者の観察記録。",
+          "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-24T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-17T02:39:21Z"
+  },
+  {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-05-01T13:00:00Z",
+    "episodeNumber": 3,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192808,
+        "idMal": 61687,
+        "title": {
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+          "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+          "native": "自称悪役令嬢な婚約者の観察記録。",
+          "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-05-01T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-17T02:39:21Z"
+  },
+  {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-05-08T13:00:00Z",
+    "episodeNumber": 4,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192808,
+        "idMal": 61687,
+        "title": {
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+          "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+          "native": "自称悪役令嬢な婚約者の観察記録。",
+          "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-05-08T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-17T02:39:21Z"
+  },
+  {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-04-17T13:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 192808,
+        "idMal": 61687,
+        "title": {
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+          "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+          "native": "自称悪役令嬢な婚約者の観察記録。",
+          "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-17T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
     "title": "Kill Ao",
     "route": "kill-ao",
     "romaji": "Kill Ao",
