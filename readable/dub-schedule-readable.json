@@ -7016,7 +7016,7 @@
         "route": "movie"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 195384,
@@ -7072,7 +7072,7 @@
         "route": "movie"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 195384,
@@ -7717,8 +7717,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-10T04:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-05-17T04:00:00Z"
             }
           ]
         }
@@ -7945,8 +7945,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-10T04:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-05-17T04:00:00Z"
             }
           ]
         }
