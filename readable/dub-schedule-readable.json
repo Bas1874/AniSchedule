@@ -1958,8 +1958,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-05-23T12:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-05-30T12:00:00Z"
             }
           ]
         }
@@ -12663,8 +12663,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 32,
-              "airingAt": "2026-05-23T12:00:00Z"
+              "episode": 33,
+              "airingAt": "2026-05-30T12:00:00Z"
             }
           ]
         }
