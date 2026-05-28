@@ -3,9 +3,9 @@
     "title": "[Oshi no Ko] 3rd Season",
     "route": "oshi-no-ko-3rd-season",
     "native": "【推しの子】第3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-05-27T14:00:00Z",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-05-27T15:00:00Z",
     "episodeNumber": 9,
     "episodes": 11,
     "lengthMin": 24,
@@ -45,8 +45,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-27T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-03T15:00:00Z"
             }
           ]
         }
@@ -59,9 +59,9 @@
     "title": "[Oshi no Ko] 3rd Season",
     "route": "oshi-no-ko-3rd-season",
     "native": "【推しの子】第3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-06-03T14:00:00Z",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-06-03T15:00:00Z",
     "episodeNumber": 10,
     "episodes": 11,
     "lengthMin": 24,
@@ -102,7 +102,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-06-03T14:00:00Z"
+              "airingAt": "2026-06-03T15:00:00Z"
             }
           ]
         }
@@ -115,9 +115,9 @@
     "title": "[Oshi no Ko] 3rd Season",
     "route": "oshi-no-ko-3rd-season",
     "native": "【推しの子】第3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-06-10T14:00:00Z",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-06-10T15:00:00Z",
     "episodeNumber": 11,
     "episodes": 11,
     "lengthMin": 24,
@@ -158,7 +158,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-06-10T14:00:00Z"
+              "airingAt": "2026-06-10T15:00:00Z"
             }
           ]
         }
@@ -171,9 +171,9 @@
     "title": "[Oshi no Ko] 3rd Season",
     "route": "oshi-no-ko-3rd-season",
     "native": "【推しの子】第3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-05-27T14:00:00Z",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-05-27T15:00:00Z",
     "episodeNumber": 9,
     "episodes": 11,
     "lengthMin": 24,
@@ -213,8 +213,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-27T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-03T15:00:00Z"
             }
           ]
         }
@@ -269,8 +269,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-26T14:30:00Z"
+              "episode": 6,
+              "airingAt": "2026-06-02T14:30:00Z"
             }
           ]
         }
@@ -493,8 +493,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-26T14:30:00Z"
+              "episode": 6,
+              "airingAt": "2026-06-02T14:30:00Z"
             }
           ]
         }
@@ -767,6 +767,180 @@
     },
     "verified": false,
     "addedAt": "2026-05-16T16:00:00Z"
+  },
+  {
+    "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+    "route": "android-wa-keiken-ninzuu-ni-hairimasu-ka",
+    "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+    "english": "Does It Count If You Lose Your Innocence to an Android?",
+    "native": "アンドロイドは経験人数に入りますか??",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "episodeDate": "2026-06-03T01:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 8,
+    "lengthMin": 5,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 192867,
+        "idMal": 61694,
+        "title": {
+          "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+          "english": "Does it Count if You Lose Your Innocence to an Android?",
+          "native": "アンドロイドは経験人数に入りますか？？",
+          "userPreferred": "Does it Count if You Lose Your Innocence to an Android?"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "duration": 4,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192867-AXAu2LP7YA7Y.jpg",
+          "color": "#f1d6bb"
+        },
+        "isAdult": true,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192867-r3UitttEQv8C.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-03T01:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-03T01:00:00Z"
+  },
+  {
+    "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+    "route": "android-wa-keiken-ninzuu-ni-hairimasu-ka",
+    "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+    "english": "Does It Count If You Lose Your Innocence to an Android?",
+    "native": "アンドロイドは経験人数に入りますか??",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "episodeDate": "2026-06-10T01:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 8,
+    "lengthMin": 5,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192867,
+        "idMal": 61694,
+        "title": {
+          "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+          "english": "Does it Count if You Lose Your Innocence to an Android?",
+          "native": "アンドロイドは経験人数に入りますか？？",
+          "userPreferred": "Does it Count if You Lose Your Innocence to an Android?"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "duration": 4,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192867-AXAu2LP7YA7Y.jpg",
+          "color": "#f1d6bb"
+        },
+        "isAdult": true,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192867-r3UitttEQv8C.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-06-10T01:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-28T18:39:42Z"
+  },
+  {
+    "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+    "route": "android-wa-keiken-ninzuu-ni-hairimasu-ka",
+    "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+    "english": "Does It Count If You Lose Your Innocence to an Android?",
+    "native": "アンドロイドは経験人数に入りますか??",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "episodeDate": "2026-06-17T01:00:00Z",
+    "episodeNumber": 3,
+    "episodes": 8,
+    "lengthMin": 5,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192867,
+        "idMal": 61694,
+        "title": {
+          "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+          "english": "Does it Count if You Lose Your Innocence to an Android?",
+          "native": "アンドロイドは経験人数に入りますか？？",
+          "userPreferred": "Does it Count if You Lose Your Innocence to an Android?"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "duration": 4,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192867-AXAu2LP7YA7Y.jpg",
+          "color": "#f1d6bb"
+        },
+        "isAdult": true,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192867-r3UitttEQv8C.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-06-17T01:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-28T18:39:42Z"
   },
   {
     "title": "Beyblade X",
@@ -1201,8 +1375,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-28T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-04T14:00:00Z"
             }
           ]
         }
@@ -1425,8 +1599,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-28T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-04T14:00:00Z"
             }
           ]
         }
@@ -1755,8 +1929,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -1983,8 +2157,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -2098,8 +2272,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -2326,8 +2500,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -2384,8 +2558,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-28T12:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-04T12:30:00Z"
             }
           ]
         }
@@ -2616,8 +2790,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-28T12:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-04T12:30:00Z"
             }
           ]
         }
@@ -2906,6 +3080,7 @@
     "delayedUntil": "2026-05-23T09:30:00Z",
     "episodeDate": "2026-05-30T09:30:00Z",
     "episodeNumber": 6,
+    "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2962,6 +3137,7 @@
     "delayedUntil": "2026-05-23T09:30:00Z",
     "episodeDate": "2026-06-06T09:30:00Z",
     "episodeNumber": 7,
+    "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -3018,6 +3194,7 @@
     "delayedUntil": "2026-05-23T09:30:00Z",
     "episodeDate": "2026-06-13T09:30:00Z",
     "episodeNumber": 8,
+    "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -3074,6 +3251,7 @@
     "delayedUntil": "2026-05-23T09:30:00Z",
     "episodeDate": "2026-06-20T09:30:00Z",
     "episodeNumber": 9,
+    "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -3130,6 +3308,7 @@
     "delayedUntil": "2026-05-23T09:30:00Z",
     "episodeDate": "2026-05-30T09:30:00Z",
     "episodeNumber": 6,
+    "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -3280,8 +3459,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-26T13:30:00Z"
+              "episode": 6,
+              "airingAt": "2026-06-02T13:30:00Z"
             }
           ]
         }
@@ -3512,8 +3691,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-26T13:30:00Z"
+              "episode": 6,
+              "airingAt": "2026-06-02T13:30:00Z"
             }
           ]
         }
@@ -3568,8 +3747,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -3792,8 +3971,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -3849,8 +4028,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-05-27T14:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-06-03T14:00:00Z"
             }
           ]
         }
@@ -4077,8 +4256,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-05-27T14:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-06-03T14:00:00Z"
             }
           ]
         }
@@ -4998,8 +5177,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-27T13:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-03T13:00:00Z"
             }
           ]
         }
@@ -5222,8 +5401,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-27T13:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-03T13:00:00Z"
             }
           ]
         }
@@ -5641,7 +5820,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-05-28T15:30:00Z",
     "episodeNumber": 9,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -5677,8 +5856,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-28T15:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-04T15:30:00Z"
             }
           ]
         }
@@ -5697,7 +5876,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-06-04T15:30:00Z",
     "episodeNumber": 10,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -5753,7 +5932,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-06-11T15:30:00Z",
     "episodeNumber": 11,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -5809,7 +5988,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-06-18T15:30:00Z",
     "episodeNumber": 12,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -5865,7 +6044,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-05-28T15:30:00Z",
     "episodeNumber": 9,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -5901,8 +6080,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-28T15:30:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-04T15:30:00Z"
             }
           ]
         }
@@ -5954,8 +6133,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-25T16:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-01T16:00:00Z"
             }
           ]
         }
@@ -6166,8 +6345,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-25T16:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-01T16:00:00Z"
             }
           ]
         }
@@ -6469,6 +6648,7 @@
     "delayedUntil": "0001-01-01T14:30:00Z",
     "episodeDate": "2026-05-26T14:30:00Z",
     "episodeNumber": 6,
+    "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -6506,8 +6686,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-26T14:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-02T14:30:00Z"
             }
           ]
         }
@@ -6524,6 +6704,7 @@
     "delayedUntil": "0001-01-01T14:30:00Z",
     "episodeDate": "2026-06-02T14:30:00Z",
     "episodeNumber": 7,
+    "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -6579,6 +6760,7 @@
     "delayedUntil": "0001-01-01T14:30:00Z",
     "episodeDate": "2026-06-09T14:30:00Z",
     "episodeNumber": 8,
+    "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -6634,6 +6816,7 @@
     "delayedUntil": "0001-01-01T14:30:00Z",
     "episodeDate": "2026-06-16T14:30:00Z",
     "episodeNumber": 9,
+    "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -6689,6 +6872,7 @@
     "delayedUntil": "0001-01-01T14:30:00Z",
     "episodeDate": "2026-05-26T14:30:00Z",
     "episodeNumber": 6,
+    "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -6726,8 +6910,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-26T14:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-02T14:30:00Z"
             }
           ]
         }
@@ -7426,6 +7610,7 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-05-31T04:00:00Z",
     "episodeNumber": 12,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -7481,179 +7666,9 @@
     "native": "ニワトリ・ファイター",
     "delayedFrom": "0001-01-01T04:00:00Z",
     "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-06-07T04:00:00Z",
-    "episodeNumber": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179813,
-        "idMal": 59393,
-        "title": {
-          "romaji": "Niwatori Fighter",
-          "english": "Rooster Fighter",
-          "native": "ニワトリ・ファイター",
-          "userPreferred": "Rooster Fighter"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Supernatural"
-        ],
-        "duration": 23,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-cLHpUPV1IiEm.jpg",
-          "color": "#e45d43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-06-07T04:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-03-15T04:00:00Z"
-  },
-  {
-    "title": "Niwatori Fighter",
-    "route": "niwatori-fighter",
-    "romaji": "Niwatori Fighter",
-    "english": "Rooster Fighter",
-    "native": "ニワトリ・ファイター",
-    "delayedFrom": "0001-01-01T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-06-14T04:00:00Z",
-    "episodeNumber": 14,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179813,
-        "idMal": 59393,
-        "title": {
-          "romaji": "Niwatori Fighter",
-          "english": "Rooster Fighter",
-          "native": "ニワトリ・ファイター",
-          "userPreferred": "Rooster Fighter"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Supernatural"
-        ],
-        "duration": 23,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-cLHpUPV1IiEm.jpg",
-          "color": "#e45d43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 14,
-              "airingAt": "2026-06-14T04:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-03-15T04:00:00Z"
-  },
-  {
-    "title": "Niwatori Fighter",
-    "route": "niwatori-fighter",
-    "romaji": "Niwatori Fighter",
-    "english": "Rooster Fighter",
-    "native": "ニワトリ・ファイター",
-    "delayedFrom": "0001-01-01T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-06-21T04:00:00Z",
-    "episodeNumber": 15,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179813,
-        "idMal": 59393,
-        "title": {
-          "romaji": "Niwatori Fighter",
-          "english": "Rooster Fighter",
-          "native": "ニワトリ・ファイター",
-          "userPreferred": "Rooster Fighter"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Supernatural"
-        ],
-        "duration": 23,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-cLHpUPV1IiEm.jpg",
-          "color": "#e45d43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 15,
-              "airingAt": "2026-06-21T04:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-03-15T04:00:00Z"
-  },
-  {
-    "title": "Niwatori Fighter",
-    "route": "niwatori-fighter",
-    "romaji": "Niwatori Fighter",
-    "english": "Rooster Fighter",
-    "native": "ニワトリ・ファイター",
-    "delayedFrom": "0001-01-01T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-05-31T04:00:00Z",
     "episodeNumber": 12,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -7987,6 +8002,174 @@
     "addedAt": "2026-04-09T14:06:09Z"
   },
   {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-05-25T04:00:00Z",
+    "episodeNumber": 123,
+    "subtractedEpisodeNumber": 116,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 527,
+        "idMal": 527,
+        "title": {
+          "romaji": "Pocket Monsters",
+          "english": "Pokémon",
+          "native": "ポケットモンスター",
+          "userPreferred": "Pokémon"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1997,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b527-t6dBVJ5OVcXK.png",
+          "color": "#ffae00"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 116,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 117,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 118,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 119,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 120,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 121,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 122,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 123,
+              "airingAt": "2026-05-25T04:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-28T18:39:42Z"
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-05-25T04:00:00Z",
+    "episodeNumber": 123,
+    "subtractedEpisodeNumber": 116,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 527,
+        "idMal": 527,
+        "title": {
+          "romaji": "Pocket Monsters",
+          "english": "Pokémon",
+          "native": "ポケットモンスター",
+          "userPreferred": "Pokémon"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1997,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b527-t6dBVJ5OVcXK.png",
+          "color": "#ffae00"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 116,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 117,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 118,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 119,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 120,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 121,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 122,
+              "airingAt": "2026-05-25T04:00:00Z"
+            },
+            {
+              "episode": 123,
+              "airingAt": "2026-05-25T04:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-28T18:39:42Z"
+  },
+  {
     "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
     "route": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
     "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
@@ -8033,8 +8216,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-25T15:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-01T15:00:00Z"
             }
           ]
         }
@@ -8261,8 +8444,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-25T15:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-01T15:00:00Z"
             }
           ]
         }
@@ -8321,8 +8504,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-05-27T14:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-06-03T14:00:00Z"
             }
           ]
         }
@@ -8561,8 +8744,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-05-27T14:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-06-03T14:00:00Z"
             }
           ]
         }
@@ -8617,14 +8800,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-05-13T17:00:00Z"
   },
   {
@@ -8680,7 +8863,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-05-13T17:00:00Z"
   },
   {
@@ -8736,7 +8919,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-05-13T17:00:00Z"
   },
   {
@@ -8792,7 +8975,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-05-13T17:00:00Z"
   },
   {
@@ -8841,14 +9024,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-05-13T17:00:00Z"
   },
   {
@@ -9163,8 +9346,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-05-27T16:15:00Z"
+              "episode": 8,
+              "airingAt": "2026-06-03T16:15:00Z"
             }
           ]
         }
@@ -9391,8 +9574,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-05-27T16:15:00Z"
+              "episode": 8,
+              "airingAt": "2026-06-03T16:15:00Z"
             }
           ]
         }
@@ -10007,8 +10190,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-05-28T15:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-06-04T15:00:00Z"
             }
           ]
         }
@@ -10231,8 +10414,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-05-28T15:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-06-04T15:00:00Z"
             }
           ]
         }
@@ -10288,8 +10471,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -10402,8 +10585,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-05-27T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-06-03T17:00:00Z"
             }
           ]
         }
@@ -10744,8 +10927,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-25T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-01T14:00:00Z"
             }
           ]
         }
@@ -10972,8 +11155,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-25T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-01T14:00:00Z"
             }
           ]
         }
@@ -11608,8 +11791,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-05-27T12:30:00Z"
+              "episode": 11,
+              "airingAt": "2026-06-03T12:30:00Z"
             }
           ]
         }
@@ -11832,8 +12015,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-05-27T12:30:00Z"
+              "episode": 11,
+              "airingAt": "2026-06-03T12:30:00Z"
             }
           ]
         }

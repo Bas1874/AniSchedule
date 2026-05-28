@@ -1,5 +1,1347 @@
 [
   {
+    "id": 186497,
+    "idMal": 60852,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T15:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 186497,
+    "idMal": 60852,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T15:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 186497,
+    "idMal": 60852,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T15:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 186497,
+    "idMal": 60852,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T15:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 186497,
+    "idMal": 60852,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T15:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 178005,
+    "idMal": 59047,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-05-28T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 178005,
+    "idMal": 59047,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-05-28T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 178005,
+    "idMal": 59047,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-05-28T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 178005,
+    "idMal": 59047,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-05-28T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 178005,
+    "idMal": 59047,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-05-28T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199221,
+    "idMal": 62568,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199221,
+    "idMal": 62568,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199221,
+    "idMal": 62568,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199221,
+    "idMal": 62568,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199221,
+    "idMal": 62568,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-28T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182483,
+    "idMal": 60028,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-28T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182483,
+    "idMal": 60028,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-28T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182483,
+    "idMal": 60028,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-28T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182483,
+    "idMal": 60028,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-28T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182483,
+    "idMal": 60028,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-28T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 176276,
+    "idMal": 58505,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 12,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 176276,
+    "idMal": 58505,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 12,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 187941,
+    "idMal": 61207,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 187941,
+    "idMal": 61207,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 187941,
+    "idMal": 61207,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180228,
+    "idMal": 59551,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180228,
+    "idMal": 59551,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180228,
+    "idMal": 59551,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180228,
+    "idMal": 59551,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180228,
+    "idMal": 59551,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197824,
+    "idMal": 62146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197824,
+    "idMal": 62146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197824,
+    "idMal": 62146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197824,
+    "idMal": 62146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197824,
+    "idMal": 62146,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 179950,
+    "idMal": 59443,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 179950,
+    "idMal": 59443,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 179950,
+    "idMal": 59443,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 179950,
+    "idMal": 59443,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 179950,
+    "idMal": 59443,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 195268,
+    "idMal": 61931,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 195268,
+    "idMal": 61931,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 195268,
+    "idMal": 61931,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 195268,
+    "idMal": 61931,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 195268,
+    "idMal": 61931,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-05-27T17:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194317,
+    "idMal": 61831,
+    "format": "TV",
+    "duration": 23,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T16:15:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194317,
+    "idMal": 61831,
+    "format": "TV",
+    "duration": 23,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T16:15:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194317,
+    "idMal": 61831,
+    "format": "TV",
+    "duration": 23,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T16:15:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194317,
+    "idMal": 61831,
+    "format": "TV",
+    "duration": 23,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T16:15:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194317,
+    "idMal": 61831,
+    "format": "TV",
+    "duration": 23,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T16:15:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-27T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-27T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-27T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-27T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 173172,
+    "idMal": 57779,
+    "format": "ONA",
+    "duration": 25,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 173172,
+    "idMal": 57779,
+    "format": "ONA",
+    "duration": 25,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189046,
+    "idMal": 61316,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189046,
+    "idMal": 61316,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189046,
+    "idMal": 61316,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189046,
+    "idMal": 61316,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189046,
+    "idMal": 61316,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-27T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-27T13:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-27T13:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-27T13:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-27T13:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-27T13:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-27T12:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199547,
+    "idMal": 62601,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199547,
+    "idMal": 62601,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199547,
+    "idMal": 62601,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199547,
+    "idMal": 62601,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 199547,
+    "idMal": 62601,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194393,
+    "idMal": 61839,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194393,
+    "idMal": 61839,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194393,
+    "idMal": 61839,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194393,
+    "idMal": 61839,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 194393,
+    "idMal": 61839,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T14:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 183661,
+    "idMal": 60226,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T13:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 183661,
+    "idMal": 60226,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T13:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 183661,
+    "idMal": 60226,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T13:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 183661,
+    "idMal": 60226,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T13:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 183661,
+    "idMal": 60226,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-26T13:30:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197754,
+    "idMal": 62331,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T16:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197754,
+    "idMal": 62331,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T16:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197754,
+    "idMal": 62331,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T16:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197754,
+    "idMal": 62331,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T16:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 197754,
+    "idMal": 62331,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T16:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189987,
+    "idMal": 61425,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189987,
+    "idMal": 61425,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189987,
+    "idMal": 61425,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189987,
+    "idMal": 61425,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 189987,
+    "idMal": 61425,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-25T15:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 147105,
+    "idMal": 51553,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-25T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 147105,
+    "idMal": 51553,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-25T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 147105,
+    "idMal": 51553,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-25T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 147105,
+    "idMal": 51553,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-25T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 147105,
+    "idMal": 51553,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-25T14:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 123,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 123,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 122,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 122,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 121,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 121,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 120,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 120,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 119,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 119,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 118,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 118,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 117,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 117,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 116,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 116,
+      "airedAt": "2026-05-25T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
     "id": 204319,
     "idMal": 63248,
     "format": "TV_SHORT",
@@ -1661,6 +3003,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-20T15:00:00Z",
+      "addedAt": "2026-05-20T16:57:48Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-20T15:00:00Z",
+      "addedAt": "2026-05-20T16:57:49Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-20T15:00:00Z",
+      "addedAt": "2026-05-20T16:57:49Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-20T15:00:00Z",
+      "addedAt": "2026-05-20T16:57:49Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-20T15:00:00Z",
+      "addedAt": "2026-05-20T16:57:48Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -1689,61 +3086,6 @@
     "duration": 25,
     "episode": {
       "aired": 10,
-      "airedAt": "2026-05-20T14:00:00Z",
-      "addedAt": "2026-05-20T16:57:48Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 8,
-      "airedAt": "2026-05-20T14:00:00Z",
-      "addedAt": "2026-05-20T16:57:48Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 8,
-      "airedAt": "2026-05-20T14:00:00Z",
-      "addedAt": "2026-05-20T16:57:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 8,
-      "airedAt": "2026-05-20T14:00:00Z",
-      "addedAt": "2026-05-20T16:57:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 8,
-      "airedAt": "2026-05-20T14:00:00Z",
-      "addedAt": "2026-05-20T16:57:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 8,
       "airedAt": "2026-05-20T14:00:00Z",
       "addedAt": "2026-05-20T16:57:48Z"
     }
@@ -2318,6 +3660,2536 @@
       "aired": 8,
       "airedAt": "2026-05-18T14:00:00Z",
       "addedAt": "2026-05-18T16:23:57Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 115,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 115,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 114,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 114,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 113,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 113,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 112,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 112,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 111,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 111,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 110,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 110,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 109,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 109,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 108,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 108,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 107,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 107,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 106,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 106,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 105,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 105,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 104,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 104,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 103,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 103,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 102,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 102,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 101,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 101,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 100,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 100,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 99,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 99,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 98,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 98,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 97,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 97,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 96,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 96,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 95,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 95,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 94,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 94,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 93,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 93,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 92,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 92,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 91,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 91,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 90,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 90,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 89,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 89,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 88,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 88,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 87,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 87,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 86,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 86,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 85,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 85,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 84,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 84,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 83,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 83,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 82,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 82,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 81,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 81,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 80,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 80,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 79,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 79,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 78,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 78,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 77,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 77,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 76,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 76,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 75,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 75,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 74,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 74,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 73,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 73,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 72,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 72,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 71,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 71,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 70,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 70,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 69,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 69,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 68,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 68,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 67,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 67,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 66,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 66,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 65,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 65,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 64,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 64,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 63,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 63,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 62,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 62,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 61,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 61,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 60,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 60,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 59,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 59,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 58,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 58,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 57,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 57,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 56,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 56,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 55,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 55,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 54,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 54,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 53,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 53,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 52,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 52,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 51,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 51,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 50,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 50,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 49,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 49,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 48,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 48,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 47,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 47,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 46,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 46,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 45,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 45,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 44,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 44,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 43,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 43,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 42,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 42,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 41,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 41,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 40,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 40,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 39,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 39,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 38,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 38,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 37,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 37,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 36,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 36,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 35,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 35,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 34,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 34,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 33,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 33,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 32,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 32,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 31,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 31,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 30,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 30,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 29,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 29,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 28,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 28,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 27,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 27,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 26,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 26,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 25,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 25,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 24,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 24,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 23,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 23,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 22,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 22,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 21,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 21,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 20,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 20,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 19,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 19,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 18,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 18,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 17,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 17,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 16,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 16,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 15,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 15,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 14,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 14,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 13,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 13,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 12,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 12,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
+    }
+  },
+  {
+    "id": 527,
+    "idMal": 527,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-05-18T04:00:00Z",
+      "addedAt": "2026-05-28T18:39:42Z"
     }
   },
   {
@@ -3817,6 +7689,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-13T15:00:00Z",
+      "addedAt": "2026-05-13T15:43:49Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-13T15:00:00Z",
+      "addedAt": "2026-05-13T15:43:49Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-13T15:00:00Z",
+      "addedAt": "2026-05-13T15:43:49Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-13T15:00:00Z",
+      "addedAt": "2026-05-13T15:43:49Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 7,
+      "airedAt": "2026-05-13T15:00:00Z",
+      "addedAt": "2026-05-13T15:43:49Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -3856,61 +7783,6 @@
     "duration": 25,
     "episode": {
       "aired": 9,
-      "airedAt": "2026-05-13T14:00:00Z",
-      "addedAt": "2026-05-13T15:43:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 7,
-      "airedAt": "2026-05-13T14:00:00Z",
-      "addedAt": "2026-05-13T15:43:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 7,
-      "airedAt": "2026-05-13T14:00:00Z",
-      "addedAt": "2026-05-13T15:43:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 7,
-      "airedAt": "2026-05-13T14:00:00Z",
-      "addedAt": "2026-05-13T15:43:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 7,
-      "airedAt": "2026-05-13T14:00:00Z",
-      "addedAt": "2026-05-13T15:43:49Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 7,
       "airedAt": "2026-05-13T14:00:00Z",
       "addedAt": "2026-05-13T15:43:49Z"
     }
@@ -5896,6 +9768,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-06T15:00:00Z",
+      "addedAt": "2026-05-06T14:13:27Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-06T15:00:00Z",
+      "addedAt": "2026-05-06T14:13:28Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-06T15:00:00Z",
+      "addedAt": "2026-05-06T14:13:28Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-06T15:00:00Z",
+      "addedAt": "2026-05-06T14:13:28Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2026-05-06T15:00:00Z",
+      "addedAt": "2026-05-06T14:13:27Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -5946,61 +9873,6 @@
     "duration": 25,
     "episode": {
       "aired": 8,
-      "airedAt": "2026-05-06T14:00:00Z",
-      "addedAt": "2026-05-06T14:13:27Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 6,
-      "airedAt": "2026-05-06T14:00:00Z",
-      "addedAt": "2026-05-06T14:13:27Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 6,
-      "airedAt": "2026-05-06T14:00:00Z",
-      "addedAt": "2026-05-06T14:13:28Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 6,
-      "airedAt": "2026-05-06T14:00:00Z",
-      "addedAt": "2026-05-06T14:13:28Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 6,
-      "airedAt": "2026-05-06T14:00:00Z",
-      "addedAt": "2026-05-06T14:13:28Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 6,
       "airedAt": "2026-05-06T14:00:00Z",
       "addedAt": "2026-05-06T14:13:27Z"
     }
@@ -7865,6 +11737,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-04-29T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-04-29T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-04-29T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-04-29T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-04-29T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -7915,61 +11842,6 @@
     "duration": 25,
     "episode": {
       "aired": 7,
-      "airedAt": "2026-04-29T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 5,
-      "airedAt": "2026-04-29T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 5,
-      "airedAt": "2026-04-29T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 5,
-      "airedAt": "2026-04-29T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 5,
-      "airedAt": "2026-04-29T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 5,
       "airedAt": "2026-04-29T14:00:00Z",
       "addedAt": "2026-05-04T02:56:21Z"
     }
@@ -9669,6 +13541,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-04-22T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-04-22T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-04-22T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-04-22T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-04-22T15:00:00Z",
+      "addedAt": "2026-05-04T02:56:21Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -9719,61 +13646,6 @@
     "duration": 25,
     "episode": {
       "aired": 6,
-      "airedAt": "2026-04-22T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 4,
-      "airedAt": "2026-04-22T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 4,
-      "airedAt": "2026-04-22T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 4,
-      "airedAt": "2026-04-22T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 4,
-      "airedAt": "2026-04-22T14:00:00Z",
-      "addedAt": "2026-05-04T02:56:21Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 4,
       "airedAt": "2026-04-22T14:00:00Z",
       "addedAt": "2026-05-04T02:56:21Z"
     }
@@ -11330,6 +15202,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-15T15:00:00Z",
+      "addedAt": "2026-04-15T14:46:03Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-15T15:00:00Z",
+      "addedAt": "2026-04-15T14:46:04Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-15T15:00:00Z",
+      "addedAt": "2026-04-15T14:46:04Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-15T15:00:00Z",
+      "addedAt": "2026-04-15T14:46:04Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-04-15T15:00:00Z",
+      "addedAt": "2026-04-15T14:46:03Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -11380,61 +15307,6 @@
     "duration": 25,
     "episode": {
       "aired": 5,
-      "airedAt": "2026-04-15T14:00:00Z",
-      "addedAt": "2026-04-15T14:46:03Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 3,
-      "airedAt": "2026-04-15T14:00:00Z",
-      "addedAt": "2026-04-15T14:46:03Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 3,
-      "airedAt": "2026-04-15T14:00:00Z",
-      "addedAt": "2026-04-15T14:46:04Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 3,
-      "airedAt": "2026-04-15T14:00:00Z",
-      "addedAt": "2026-04-15T14:46:04Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 3,
-      "airedAt": "2026-04-15T14:00:00Z",
-      "addedAt": "2026-04-15T14:46:04Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 3,
       "airedAt": "2026-04-15T14:00:00Z",
       "addedAt": "2026-04-15T14:46:03Z"
     }
@@ -13167,6 +17039,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-08T15:00:00Z",
+      "addedAt": "2026-04-09T14:06:09Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-08T15:00:00Z",
+      "addedAt": "2026-04-09T14:06:09Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-08T15:00:00Z",
+      "addedAt": "2026-04-09T14:06:09Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-08T15:00:00Z",
+      "addedAt": "2026-04-09T14:06:09Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-04-08T15:00:00Z",
+      "addedAt": "2026-04-09T14:06:09Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -13184,61 +17111,6 @@
     "duration": 25,
     "episode": {
       "aired": 4,
-      "airedAt": "2026-04-08T14:00:00Z",
-      "addedAt": "2026-04-09T14:06:09Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 2,
-      "airedAt": "2026-04-08T14:00:00Z",
-      "addedAt": "2026-04-09T14:06:09Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 2,
-      "airedAt": "2026-04-08T14:00:00Z",
-      "addedAt": "2026-04-09T14:06:09Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 2,
-      "airedAt": "2026-04-08T14:00:00Z",
-      "addedAt": "2026-04-09T14:06:09Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 2,
-      "airedAt": "2026-04-08T14:00:00Z",
-      "addedAt": "2026-04-09T14:06:09Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 2,
       "airedAt": "2026-04-08T14:00:00Z",
       "addedAt": "2026-04-09T14:06:09Z"
     }
@@ -14652,6 +18524,61 @@
     }
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-01T15:00:00Z",
+      "addedAt": "2026-04-01T16:57:05Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-01T15:00:00Z",
+      "addedAt": "2026-04-01T16:57:05Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-01T15:00:00Z",
+      "addedAt": "2026-04-01T16:57:05Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-01T15:00:00Z",
+      "addedAt": "2026-04-01T16:57:05Z"
+    }
+  },
+  {
+    "id": 182587,
+    "idMal": 60058,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-01T15:00:00Z",
+      "addedAt": "2026-04-01T16:57:05Z"
+    }
+  },
+  {
     "id": 173172,
     "idMal": 57779,
     "format": "ONA",
@@ -14744,61 +18671,6 @@
     "idMal": 57779,
     "format": "ONA",
     "duration": 25,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2026-04-01T14:00:00Z",
-      "addedAt": "2026-04-01T16:57:05Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2026-04-01T14:00:00Z",
-      "addedAt": "2026-04-01T16:57:05Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2026-04-01T14:00:00Z",
-      "addedAt": "2026-04-01T16:57:05Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2026-04-01T14:00:00Z",
-      "addedAt": "2026-04-01T16:57:05Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2026-04-01T14:00:00Z",
-      "addedAt": "2026-04-01T16:57:05Z"
-    }
-  },
-  {
-    "id": 182587,
-    "idMal": 60058,
-    "format": "TV",
-    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-01T14:00:00Z",
