@@ -2844,8 +2844,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-05-29T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-06-05T16:00:00Z"
             }
           ]
         }
@@ -3060,8 +3060,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-05-29T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-06-05T16:00:00Z"
             }
           ]
         }
