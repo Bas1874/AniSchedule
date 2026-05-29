@@ -5418,8 +5418,8 @@
     "english": "Kill Blue",
     "native": "キルアオ",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
+    "delayedFrom": "2026-05-29T07:00:00Z",
+    "delayedUntil": "2026-06-05T07:00:00Z",
     "episodeDate": "2026-05-29T07:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
@@ -5458,7 +5458,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2026-06-05T07:00:00Z"
             }
           ]
@@ -5474,10 +5474,65 @@
     "romaji": "Kill Ao",
     "english": "Kill Blue",
     "native": "キルアオ",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
+    "delayedFrom": "2026-05-29T07:00:00Z",
+    "delayedUntil": "2026-06-05T07:00:00Z",
     "episodeDate": "2026-06-05T07:00:00Z",
+    "episodeNumber": 7,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198113,
+        "idMal": 62391,
+        "title": {
+          "romaji": "Kill Ao",
+          "english": "KILL BLUE",
+          "native": "キルアオ",
+          "userPreferred": "KILL BLUE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+          "color": "#50aefe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 7,
+              "airingAt": "2026-06-05T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-15T19:39:19Z"
+  },
+  {
+    "title": "Kill Ao",
+    "route": "kill-ao",
+    "romaji": "Kill Ao",
+    "english": "Kill Blue",
+    "native": "キルアオ",
+    "delayedFrom": "2026-05-29T07:00:00Z",
+    "delayedUntil": "2026-06-05T07:00:00Z",
+    "episodeDate": "2026-06-12T07:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -5531,10 +5586,9 @@
     "romaji": "Kill Ao",
     "english": "Kill Blue",
     "native": "キルアオ",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-06-12T07:00:00Z",
+    "delayedFrom": "2026-05-29T07:00:00Z",
+    "delayedUntil": "2026-06-05T07:00:00Z",
+    "episodeDate": "2026-06-19T07:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -5573,7 +5627,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-06-12T07:00:00Z"
+              "airingAt": "2026-06-05T07:00:00Z"
             }
           ]
         }
@@ -5589,65 +5643,8 @@
     "english": "Kill Blue",
     "native": "キルアオ",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-06-19T07:00:00Z",
-    "episodeNumber": 10,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 198113,
-        "idMal": 62391,
-        "title": {
-          "romaji": "Kill Ao",
-          "english": "KILL BLUE",
-          "native": "キルアオ",
-          "userPreferred": "KILL BLUE"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
-          "color": "#50aefe"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 10,
-              "airingAt": "2026-06-19T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-05-15T19:39:19Z"
-  },
-  {
-    "title": "Kill Ao",
-    "route": "kill-ao",
-    "romaji": "Kill Ao",
-    "english": "Kill Blue",
-    "native": "キルアオ",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
+    "delayedFrom": "2026-05-29T07:00:00Z",
+    "delayedUntil": "2026-06-05T07:00:00Z",
     "episodeDate": "2026-05-29T07:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
@@ -5686,7 +5683,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2026-06-05T07:00:00Z"
             }
           ]
@@ -10601,8 +10598,9 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-15T15:00:00Z",
-    "delayedUntil": "2026-05-22T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-05-29T15:00:00Z",
+    "delayedUntil": "2026-06-05T15:00:00Z",
     "episodeDate": "2026-05-29T15:00:00Z",
     "episodeNumber": 6,
     "lengthMin": 24,
@@ -10642,7 +10640,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2026-06-05T15:00:00Z"
             }
           ]
@@ -10658,9 +10656,66 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-15T15:00:00Z",
-    "delayedUntil": "2026-05-22T15:00:00Z",
+    "delayedFrom": "2026-05-29T15:00:00Z",
+    "delayedUntil": "2026-06-05T15:00:00Z",
     "episodeDate": "2026-06-05T15:00:00Z",
+    "episodeNumber": 6,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182205,
+        "idMal": 59970,
+        "title": {
+          "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+          "english": "That Time I Got Reincarnated as a Slime Season 4",
+          "native": "転生したらスライムだった件 第4期",
+          "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
+          "color": "#1abbd6"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
+              "airingAt": "2026-06-05T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-04T02:56:21Z"
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 4th Season",
+    "route": "tensei-shitara-slime-datta-ken-4th-season",
+    "romaji": "Tensei shitara Slime Datta Ken 4th Season",
+    "english": "That Time I Got Reincarnated as a Slime 4th Season",
+    "native": "転生したらスライムだった件 第4期",
+    "delayedFrom": "2026-05-29T15:00:00Z",
+    "delayedUntil": "2026-06-05T15:00:00Z",
+    "episodeDate": "2026-06-12T15:00:00Z",
     "episodeNumber": 7,
     "lengthMin": 24,
     "mediaTypes": [
@@ -10715,9 +10770,9 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-15T15:00:00Z",
-    "delayedUntil": "2026-05-22T15:00:00Z",
-    "episodeDate": "2026-06-12T15:00:00Z",
+    "delayedFrom": "2026-05-29T15:00:00Z",
+    "delayedUntil": "2026-06-05T15:00:00Z",
+    "episodeDate": "2026-06-19T15:00:00Z",
     "episodeNumber": 8,
     "lengthMin": 24,
     "mediaTypes": [
@@ -10757,7 +10812,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2026-06-12T15:00:00Z"
+              "airingAt": "2026-06-05T15:00:00Z"
             }
           ]
         }
@@ -10772,65 +10827,9 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-15T15:00:00Z",
-    "delayedUntil": "2026-05-22T15:00:00Z",
-    "episodeDate": "2026-06-19T15:00:00Z",
-    "episodeNumber": 9,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 182205,
-        "idMal": 59970,
-        "title": {
-          "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
-          "english": "That Time I Got Reincarnated as a Slime Season 4",
-          "native": "転生したらスライムだった件 第4期",
-          "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
-          "color": "#1abbd6"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2026-06-19T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-05-04T02:56:21Z"
-  },
-  {
-    "title": "Tensei shitara Slime Datta Ken 4th Season",
-    "route": "tensei-shitara-slime-datta-ken-4th-season",
-    "romaji": "Tensei shitara Slime Datta Ken 4th Season",
-    "english": "That Time I Got Reincarnated as a Slime 4th Season",
-    "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-15T15:00:00Z",
-    "delayedUntil": "2026-05-22T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-05-29T15:00:00Z",
+    "delayedUntil": "2026-06-05T15:00:00Z",
     "episodeDate": "2026-05-29T15:00:00Z",
     "episodeNumber": 6,
     "lengthMin": 24,
@@ -10870,7 +10869,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2026-06-05T15:00:00Z"
             }
           ]
