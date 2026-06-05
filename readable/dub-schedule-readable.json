@@ -4036,8 +4036,8 @@
     "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
     "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedFrom": "2026-06-10T14:00:00Z",
+    "delayedUntil": "2026-06-17T14:00:00Z",
     "episodeDate": "2026-06-03T14:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -4077,8 +4077,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-06-10T14:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-06-17T14:00:00Z"
             }
           ]
         }
@@ -4093,8 +4093,8 @@
     "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
     "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedFrom": "2026-06-10T14:00:00Z",
+    "delayedUntil": "2026-06-17T14:00:00Z",
     "episodeDate": "2026-06-10T14:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
@@ -4135,7 +4135,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-06-10T14:00:00Z"
+              "airingAt": "2026-06-17T14:00:00Z"
             }
           ]
         }
@@ -4150,9 +4150,66 @@
     "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
     "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedFrom": "2026-06-10T14:00:00Z",
+    "delayedUntil": "2026-06-17T14:00:00Z",
     "episodeDate": "2026-06-17T14:00:00Z",
+    "episodeNumber": 9,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198939,
+        "idMal": 62512,
+        "title": {
+          "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+          "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+          "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
+          "userPreferred": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198939-95aqzBr0Lzcv.jpg",
+          "color": "#e49328"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 9,
+              "airingAt": "2026-06-17T14:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-04-15T14:00:00Z"
+  },
+  {
+    "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+    "route": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
+    "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+    "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
+    "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
+    "delayedFrom": "2026-06-10T14:00:00Z",
+    "delayedUntil": "2026-06-17T14:00:00Z",
+    "episodeDate": "2026-06-24T14:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
@@ -4207,65 +4264,8 @@
     "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
     "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-06-24T14:00:00Z",
-    "episodeNumber": 11,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 198939,
-        "idMal": 62512,
-        "title": {
-          "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-          "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
-          "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
-          "userPreferred": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198939-95aqzBr0Lzcv.jpg",
-          "color": "#e49328"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 11,
-              "airingAt": "2026-06-24T14:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-15T14:00:00Z"
-  },
-  {
-    "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-    "route": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-    "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-    "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
-    "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedFrom": "2026-06-10T14:00:00Z",
+    "delayedUntil": "2026-06-17T14:00:00Z",
     "episodeDate": "2026-06-03T14:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -4305,8 +4305,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-06-10T14:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-06-17T14:00:00Z"
             }
           ]
         }
@@ -10244,7 +10244,8 @@
     "delayedFrom": "2026-05-29T15:00:00Z",
     "delayedUntil": "2026-06-05T15:00:00Z",
     "episodeDate": "2026-06-05T15:00:00Z",
-    "episodeNumber": 6,
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 6,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -10282,7 +10283,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 6,
+              "airingAt": "2026-06-05T15:00:00Z"
+            },
+            {
               "episode": 7,
+              "airingAt": "2026-06-05T15:00:00Z"
+            },
+            {
+              "episode": 8,
               "airingAt": "2026-06-12T15:00:00Z"
             }
           ]
@@ -10301,63 +10310,6 @@
     "delayedFrom": "2026-05-29T15:00:00Z",
     "delayedUntil": "2026-06-05T15:00:00Z",
     "episodeDate": "2026-06-12T15:00:00Z",
-    "episodeNumber": 7,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 182205,
-        "idMal": 59970,
-        "title": {
-          "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
-          "english": "That Time I Got Reincarnated as a Slime Season 4",
-          "native": "転生したらスライムだった件 第4期",
-          "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
-          "color": "#1abbd6"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 7,
-              "airingAt": "2026-06-12T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-05-04T02:56:21Z"
-  },
-  {
-    "title": "Tensei shitara Slime Datta Ken 4th Season",
-    "route": "tensei-shitara-slime-datta-ken-4th-season",
-    "romaji": "Tensei shitara Slime Datta Ken 4th Season",
-    "english": "That Time I Got Reincarnated as a Slime 4th Season",
-    "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-29T15:00:00Z",
-    "delayedUntil": "2026-06-05T15:00:00Z",
-    "episodeDate": "2026-06-19T15:00:00Z",
     "episodeNumber": 8,
     "lengthMin": 24,
     "mediaTypes": [
@@ -10397,7 +10349,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2026-06-19T15:00:00Z"
+              "airingAt": "2026-06-12T15:00:00Z"
             }
           ]
         }
@@ -10414,7 +10366,7 @@
     "native": "転生したらスライムだった件 第4期",
     "delayedFrom": "2026-05-29T15:00:00Z",
     "delayedUntil": "2026-06-05T15:00:00Z",
-    "episodeDate": "2026-06-26T15:00:00Z",
+    "episodeDate": "2026-06-19T15:00:00Z",
     "episodeNumber": 9,
     "lengthMin": 24,
     "mediaTypes": [
@@ -10454,7 +10406,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-06-26T15:00:00Z"
+              "airingAt": "2026-06-19T15:00:00Z"
             }
           ]
         }
@@ -10471,8 +10423,8 @@
     "native": "転生したらスライムだった件 第4期",
     "delayedFrom": "2026-05-29T15:00:00Z",
     "delayedUntil": "2026-06-05T15:00:00Z",
-    "episodeDate": "2026-06-05T15:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-06-26T15:00:00Z",
+    "episodeNumber": 10,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -10510,7 +10462,73 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 10,
+              "airingAt": "2026-06-26T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-04T02:56:21Z"
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 4th Season",
+    "route": "tensei-shitara-slime-datta-ken-4th-season",
+    "romaji": "Tensei shitara Slime Datta Ken 4th Season",
+    "english": "That Time I Got Reincarnated as a Slime 4th Season",
+    "native": "転生したらスライムだった件 第4期",
+    "delayedFrom": "2026-05-29T15:00:00Z",
+    "delayedUntil": "2026-06-05T15:00:00Z",
+    "episodeDate": "2026-06-05T15:00:00Z",
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 6,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182205,
+        "idMal": 59970,
+        "title": {
+          "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+          "english": "That Time I Got Reincarnated as a Slime Season 4",
+          "native": "転生したらスライムだった件 第4期",
+          "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
+          "color": "#1abbd6"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
+              "airingAt": "2026-06-05T15:00:00Z"
+            },
+            {
               "episode": 7,
+              "airingAt": "2026-06-05T15:00:00Z"
+            },
+            {
+              "episode": 8,
               "airingAt": "2026-06-12T15:00:00Z"
             }
           ]
