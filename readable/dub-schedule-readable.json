@@ -5656,6 +5656,7 @@
         "format": "TV",
         "genres": [
           "Comedy",
+          "Drama",
           "Romance",
           "Slice of Life"
         ],
@@ -5671,8 +5672,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-06-11T15:30:00Z"
+              "episode": 12,
+              "airingAt": "2026-06-18T15:30:00Z"
             }
           ]
         }
@@ -5712,6 +5713,7 @@
         "format": "TV",
         "genres": [
           "Comedy",
+          "Drama",
           "Romance",
           "Slice of Life"
         ],
@@ -5768,6 +5770,7 @@
         "format": "TV",
         "genres": [
           "Comedy",
+          "Drama",
           "Romance",
           "Slice of Life"
         ],
@@ -5824,6 +5827,7 @@
         "format": "TV",
         "genres": [
           "Comedy",
+          "Drama",
           "Romance",
           "Slice of Life"
         ],
@@ -5880,6 +5884,7 @@
         "format": "TV",
         "genres": [
           "Comedy",
+          "Drama",
           "Romance",
           "Slice of Life"
         ],
@@ -5895,8 +5900,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-06-11T15:30:00Z"
+              "episode": 12,
+              "airingAt": "2026-06-18T15:30:00Z"
             }
           ]
         }
@@ -9318,8 +9323,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-06-11T15:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-18T15:00:00Z"
             }
           ]
         }
@@ -9542,8 +9547,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-06-11T15:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-18T15:00:00Z"
             }
           ]
         }
