@@ -1,5 +1,27 @@
 [
   {
+    "id": 142842,
+    "idMal": 50607,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 32,
+      "airedAt": "2026-06-13T12:00:00Z",
+      "addedAt": "2026-06-13T12:25:59Z"
+    }
+  },
+  {
+    "id": 198560,
+    "idMal": 62238,
+    "format": "ONA",
+    "duration": 5,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-06-13T12:00:00Z",
+      "addedAt": "2026-06-13T12:25:59Z"
+    }
+  },
+  {
     "id": 184492,
     "idMal": 60310,
     "format": "TV",
@@ -326,7 +348,7 @@
     "episode": {
       "aired": 10,
       "airedAt": "2026-06-12T15:00:00Z",
-      "addedAt": "2026-06-13T10:29:39Z"
+      "addedAt": "2026-06-13T12:25:59Z"
     }
   },
   {
@@ -337,7 +359,7 @@
     "episode": {
       "aired": 9,
       "airedAt": "2026-06-12T15:00:00Z",
-      "addedAt": "2026-06-13T10:29:39Z"
+      "addedAt": "2026-06-13T12:25:59Z"
     }
   },
   {
@@ -348,7 +370,7 @@
     "episode": {
       "aired": 9,
       "airedAt": "2026-06-12T15:00:00Z",
-      "addedAt": "2026-06-13T10:29:39Z"
+      "addedAt": "2026-06-13T12:25:59Z"
     }
   },
   {
