@@ -3605,8 +3605,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-06-17T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-24T14:00:00Z"
             }
           ]
         }
@@ -3663,7 +3663,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2026-06-17T14:00:00Z"
+              "airingAt": "2026-06-24T14:00:00Z"
             }
           ]
         }
@@ -3720,7 +3720,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-06-17T14:00:00Z"
+              "airingAt": "2026-07-01T14:00:00Z"
             }
           ]
         }
@@ -3777,7 +3777,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-06-17T14:00:00Z"
+              "airingAt": "2026-07-08T14:00:00Z"
             }
           ]
         }
@@ -3833,8 +3833,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-06-17T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-24T14:00:00Z"
             }
           ]
         }
@@ -4638,8 +4638,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-06-17T13:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-24T13:00:00Z"
             }
           ]
         }
@@ -4862,8 +4862,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-06-17T13:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-24T13:00:00Z"
             }
           ]
         }
@@ -7167,8 +7167,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-06-17T14:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-06-24T14:00:00Z"
             }
           ]
         }
@@ -7411,8 +7411,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-06-17T14:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-06-24T14:00:00Z"
             }
           ]
         }
@@ -10069,8 +10069,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-06-17T12:30:00Z"
+              "episode": 14,
+              "airingAt": "2026-06-24T12:30:00Z"
             }
           ]
         }
@@ -10293,8 +10293,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-06-17T12:30:00Z"
+              "episode": 14,
+              "airingAt": "2026-06-24T12:30:00Z"
             }
           ]
         }
