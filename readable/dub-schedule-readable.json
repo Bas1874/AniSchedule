@@ -7065,8 +7065,8 @@
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
     "english": "Re:Zero - Starting Life in Another World 4",
     "native": "Re:ゼロから始める異世界生活 4",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedFrom": "2026-06-24T14:00:00Z",
+    "delayedUntil": "2026-08-12T14:00:00Z",
     "episodeDate": "2026-06-17T14:00:00Z",
     "episodeNumber": 11,
     "episodes": 19,
@@ -7110,8 +7110,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-06-24T14:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-08-12T14:00:00Z"
             }
           ]
         }
@@ -7126,8 +7126,9 @@
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
     "english": "Re:Zero - Starting Life in Another World 4",
     "native": "Re:ゼロから始める異世界生活 4",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-06-24T14:00:00Z",
+    "delayedUntil": "2026-08-12T14:00:00Z",
     "episodeDate": "2026-06-24T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 19,
@@ -7172,7 +7173,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-06-24T14:00:00Z"
+              "airingAt": "2026-08-12T14:00:00Z"
             }
           ]
         }
@@ -7187,10 +7188,11 @@
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
     "english": "Re:Zero - Starting Life in Another World 4",
     "native": "Re:ゼロから始める異世界生活 4",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-06-24T14:00:00Z",
+    "delayedUntil": "2026-08-12T14:00:00Z",
     "episodeDate": "2026-07-01T14:00:00Z",
-    "episodeNumber": 13,
+    "episodeNumber": 12,
     "episodes": 19,
     "lengthMin": 23,
     "mediaTypes": [
@@ -7232,8 +7234,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-07-01T14:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-08-12T14:00:00Z"
             }
           ]
         }
@@ -7248,10 +7250,11 @@
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
     "english": "Re:Zero - Starting Life in Another World 4",
     "native": "Re:ゼロから始める異世界生活 4",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedText": "Break",
+    "delayedFrom": "2026-06-24T14:00:00Z",
+    "delayedUntil": "2026-08-12T14:00:00Z",
     "episodeDate": "2026-07-08T14:00:00Z",
-    "episodeNumber": 14,
+    "episodeNumber": 12,
     "episodes": 19,
     "lengthMin": 23,
     "mediaTypes": [
@@ -7293,8 +7296,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
-              "airingAt": "2026-07-08T14:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-08-12T14:00:00Z"
             }
           ]
         }
@@ -7309,8 +7312,8 @@
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
     "english": "Re:Zero - Starting Life in Another World 4",
     "native": "Re:ゼロから始める異世界生活 4",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedFrom": "2026-06-24T14:00:00Z",
+    "delayedUntil": "2026-08-12T14:00:00Z",
     "episodeDate": "2026-06-17T14:00:00Z",
     "episodeNumber": 11,
     "episodes": 19,
@@ -7354,8 +7357,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-06-24T14:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-08-12T14:00:00Z"
             }
           ]
         }
