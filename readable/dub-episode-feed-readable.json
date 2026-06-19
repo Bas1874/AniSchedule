@@ -242,6 +242,28 @@
     }
   },
   {
+    "id": 103871,
+    "idMal": 37976,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-06-19T00:00:00Z",
+      "addedAt": "2026-06-19T19:59:30Z"
+    }
+  },
+  {
+    "id": 103871,
+    "idMal": 37976,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-06-19T00:00:00Z",
+      "addedAt": "2026-06-19T19:59:30Z"
+    }
+  },
+  {
     "id": 181839,
     "idMal": 59897,
     "format": "MOVIE",
