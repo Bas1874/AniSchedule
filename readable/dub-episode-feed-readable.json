@@ -1,5 +1,104 @@
 [
   {
+    "id": 182205,
+    "idMal": 59970,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-06-19T15:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 182205,
+    "idMal": 59970,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-06-19T15:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 182205,
+    "idMal": 59970,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-06-19T15:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 182205,
+    "idMal": 59970,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-06-19T15:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 182205,
+    "idMal": 59970,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-06-19T15:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 192808,
+    "idMal": 61687,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-06-19T13:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 192808,
+    "idMal": 61687,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-06-19T13:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 192808,
+    "idMal": 61687,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-06-19T13:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
+    "id": 192808,
+    "idMal": 61687,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 10,
+      "airedAt": "2026-06-19T13:00:00Z",
+      "addedAt": "2026-06-19T15:19:09Z"
+    }
+  },
+  {
     "id": 181839,
     "idMal": 59897,
     "format": "MOVIE",
