@@ -2549,6 +2549,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-06-19T16:00:00Z",
     "episodeNumber": 13,
+    "episodes": 14,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2603,6 +2604,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-06-26T16:00:00Z",
     "episodeNumber": 14,
+    "episodes": 14,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2655,116 +2657,9 @@
     "native": "北斗の拳 -FIST OF THE NORTH STAR-",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-07-03T16:00:00Z",
-    "episodeNumber": 15,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 169228,
-        "idMal": 56646,
-        "title": {
-          "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR",
-          "english": "FIST OF THE NORTH STAR: HOKUTO NO KEN",
-          "native": "北斗の拳 -FIST OF THE NORTH STAR-",
-          "userPreferred": "FIST OF THE NORTH STAR: HOKUTO NO KEN"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Drama",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169228-y79xDpZ29Vv4.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169228-y79xDpZ29Vv4.jpg",
-          "color": "#f1bb28"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169228-L0wA8BGp54fa.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 15,
-              "airingAt": "2026-07-03T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-10T16:00:00Z"
-  },
-  {
-    "title": "Hokuto no Ken: Fist of the North Star",
-    "route": "hokuto-no-ken-fist-of-the-north-star",
-    "native": "北斗の拳 -FIST OF THE NORTH STAR-",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-07-10T16:00:00Z",
-    "episodeNumber": 16,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 169228,
-        "idMal": 56646,
-        "title": {
-          "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR",
-          "english": "FIST OF THE NORTH STAR: HOKUTO NO KEN",
-          "native": "北斗の拳 -FIST OF THE NORTH STAR-",
-          "userPreferred": "FIST OF THE NORTH STAR: HOKUTO NO KEN"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Drama",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169228-y79xDpZ29Vv4.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169228-y79xDpZ29Vv4.jpg",
-          "color": "#f1bb28"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169228-L0wA8BGp54fa.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 16,
-              "airingAt": "2026-07-10T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-10T16:00:00Z"
-  },
-  {
-    "title": "Hokuto no Ken: Fist of the North Star",
-    "route": "hokuto-no-ken-fist-of-the-north-star",
-    "native": "北斗の拳 -FIST OF THE NORTH STAR-",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-06-19T16:00:00Z",
     "episodeNumber": 13,
+    "episodes": 14,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -8008,9 +7903,9 @@
         "id": 183231,
         "idMal": 60153,
         "title": {
-          "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+          "romaji": "Rilakkuma",
           "english": "RILAKKUMA",
-          "native": "リラックマ ～ごゆるり夢の旅～",
+          "native": "リラックマ",
           "userPreferred": "RILAKKUMA"
         },
         "format": "TV_SHORT",
@@ -8030,8 +7925,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-06-20T01:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-06-27T01:00:00Z"
             }
           ]
         }
@@ -8061,9 +7956,9 @@
         "id": 183231,
         "idMal": 60153,
         "title": {
-          "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+          "romaji": "Rilakkuma",
           "english": "RILAKKUMA",
-          "native": "リラックマ ～ごゆるり夢の旅～",
+          "native": "リラックマ",
           "userPreferred": "RILAKKUMA"
         },
         "format": "TV_SHORT",
@@ -8114,9 +8009,9 @@
         "id": 183231,
         "idMal": 60153,
         "title": {
-          "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+          "romaji": "Rilakkuma",
           "english": "RILAKKUMA",
-          "native": "リラックマ ～ごゆるり夢の旅～",
+          "native": "リラックマ",
           "userPreferred": "RILAKKUMA"
         },
         "format": "TV_SHORT",
@@ -8167,9 +8062,9 @@
         "id": 183231,
         "idMal": 60153,
         "title": {
-          "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+          "romaji": "Rilakkuma",
           "english": "RILAKKUMA",
-          "native": "リラックマ ～ごゆるり夢の旅～",
+          "native": "リラックマ",
           "userPreferred": "RILAKKUMA"
         },
         "format": "TV_SHORT",
@@ -8220,9 +8115,9 @@
         "id": 183231,
         "idMal": 60153,
         "title": {
-          "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+          "romaji": "Rilakkuma",
           "english": "RILAKKUMA",
-          "native": "リラックマ ～ごゆるり夢の旅～",
+          "native": "リラックマ",
           "userPreferred": "RILAKKUMA"
         },
         "format": "TV_SHORT",
@@ -8242,8 +8137,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-06-20T01:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-06-27T01:00:00Z"
             }
           ]
         }
