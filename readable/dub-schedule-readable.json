@@ -9328,6 +9328,7 @@
     "episodeDate": "2026-07-15T07:00:00Z",
     "episodeNumber": 12,
     "subtractedEpisodeNumber": 1,
+    "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
