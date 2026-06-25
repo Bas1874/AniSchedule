@@ -1985,8 +1985,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-25T12:30:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-02T12:30:00Z"
             }
           ]
         }
@@ -2159,8 +2159,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-25T12:30:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-02T12:30:00Z"
             }
           ]
         }
@@ -4744,6 +4744,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-06-25T15:30:00Z",
     "episodeNumber": 13,
+    "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -4801,6 +4802,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-07-02T15:30:00Z",
     "episodeNumber": 14,
+    "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -4856,122 +4858,9 @@
     "native": "氷の城壁",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-09T15:30:00Z",
-    "episodeNumber": 15,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 186497,
-        "idMal": 60852,
-        "title": {
-          "romaji": "Koori no Jouheki",
-          "english": "The Ramparts of Ice",
-          "native": "氷の城壁",
-          "userPreferred": "The Ramparts of Ice"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186497-uwPrNPphXvjP.jpg",
-          "color": "#e49343"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 15,
-              "airingAt": "2026-07-09T15:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-02T15:30:00Z"
-  },
-  {
-    "title": "Koori no Jouheki",
-    "route": "koori-no-jouheki",
-    "romaji": "Koori no Jouheki",
-    "english": "The Ramparts of Ice",
-    "native": "氷の城壁",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-16T15:30:00Z",
-    "episodeNumber": 16,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 186497,
-        "idMal": 60852,
-        "title": {
-          "romaji": "Koori no Jouheki",
-          "english": "The Ramparts of Ice",
-          "native": "氷の城壁",
-          "userPreferred": "The Ramparts of Ice"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186497-uwPrNPphXvjP.jpg",
-          "color": "#e49343"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 16,
-              "airingAt": "2026-07-16T15:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-02T15:30:00Z"
-  },
-  {
-    "title": "Koori no Jouheki",
-    "route": "koori-no-jouheki",
-    "romaji": "Koori no Jouheki",
-    "english": "The Ramparts of Ice",
-    "native": "氷の城壁",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-06-25T15:30:00Z",
     "episodeNumber": 13,
+    "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
       {
