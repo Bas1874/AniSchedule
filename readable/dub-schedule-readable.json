@@ -6016,6 +6016,160 @@
     "addedAt": "2026-05-04T02:56:21Z"
   },
   {
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "route": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
+    "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "english": "The Angel Next Door Spoils Me Rotten",
+    "native": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "delayedFrom": "0001-01-01T13:30:00Z",
+    "delayedUntil": "0001-01-01T13:30:00Z",
+    "episodeDate": "2026-06-23T13:30:00Z",
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 143338,
+        "idMal": 50739,
+        "title": {
+          "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+          "english": "The Angel Next Door Spoils Me Rotten",
+          "native": "お隣の天使様にいつの間にか駄目人間にされていた件",
+          "userPreferred": "The Angel Next Door Spoils Me Rotten"
+        },
+        "format": "TV",
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143338-zhyDVYgEzsm5.png",
+          "color": "#c9f1f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143338-d0AqJzRUQCgk.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-23T13:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-06-23T13:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-06-23T13:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-06-30T13:30:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-06-30T13:30:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-06-30T13:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-26T20:46:38Z"
+  },
+  {
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "route": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
+    "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "english": "The Angel Next Door Spoils Me Rotten",
+    "native": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "delayedFrom": "0001-01-01T13:30:00Z",
+    "delayedUntil": "0001-01-01T13:30:00Z",
+    "episodeDate": "2026-06-23T13:30:00Z",
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 143338,
+        "idMal": 50739,
+        "title": {
+          "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+          "english": "The Angel Next Door Spoils Me Rotten",
+          "native": "お隣の天使様にいつの間にか駄目人間にされていた件",
+          "userPreferred": "The Angel Next Door Spoils Me Rotten"
+        },
+        "format": "TV",
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143338-zhyDVYgEzsm5.png",
+          "color": "#c9f1f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143338-d0AqJzRUQCgk.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-23T13:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-06-23T13:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-06-23T13:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-06-30T13:30:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-06-30T13:30:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-06-30T13:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-26T20:46:38Z"
+  },
+  {
     "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
     "route": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
     "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
@@ -7952,8 +8106,9 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-29T15:00:00Z",
-    "delayedUntil": "2026-06-05T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-06-26T15:00:00Z",
+    "delayedUntil": "2026-07-03T15:00:00Z",
     "episodeDate": "2026-06-26T15:00:00Z",
     "episodeNumber": 10,
     "lengthMin": 24,
@@ -7993,7 +8148,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2026-07-03T15:00:00Z"
             }
           ]
@@ -8009,9 +8164,66 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-29T15:00:00Z",
-    "delayedUntil": "2026-06-05T15:00:00Z",
+    "delayedFrom": "2026-06-26T15:00:00Z",
+    "delayedUntil": "2026-07-03T15:00:00Z",
     "episodeDate": "2026-07-03T15:00:00Z",
+    "episodeNumber": 10,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182205,
+        "idMal": 59970,
+        "title": {
+          "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+          "english": "That Time I Got Reincarnated as a Slime Season 4",
+          "native": "転生したらスライムだった件 第4期",
+          "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
+          "color": "#1abbd6"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 10,
+              "airingAt": "2026-07-03T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-04T02:56:21Z"
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 4th Season",
+    "route": "tensei-shitara-slime-datta-ken-4th-season",
+    "romaji": "Tensei shitara Slime Datta Ken 4th Season",
+    "english": "That Time I Got Reincarnated as a Slime 4th Season",
+    "native": "転生したらスライムだった件 第4期",
+    "delayedFrom": "2026-06-26T15:00:00Z",
+    "delayedUntil": "2026-07-03T15:00:00Z",
+    "episodeDate": "2026-07-10T15:00:00Z",
     "episodeNumber": 11,
     "lengthMin": 24,
     "mediaTypes": [
@@ -8066,9 +8278,9 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-29T15:00:00Z",
-    "delayedUntil": "2026-06-05T15:00:00Z",
-    "episodeDate": "2026-07-10T15:00:00Z",
+    "delayedFrom": "2026-06-26T15:00:00Z",
+    "delayedUntil": "2026-07-03T15:00:00Z",
+    "episodeDate": "2026-07-17T15:00:00Z",
     "episodeNumber": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -8108,7 +8320,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-10T15:00:00Z"
+              "airingAt": "2026-07-03T15:00:00Z"
             }
           ]
         }
@@ -8123,65 +8335,9 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-29T15:00:00Z",
-    "delayedUntil": "2026-06-05T15:00:00Z",
-    "episodeDate": "2026-07-17T15:00:00Z",
-    "episodeNumber": 13,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 182205,
-        "idMal": 59970,
-        "title": {
-          "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
-          "english": "That Time I Got Reincarnated as a Slime Season 4",
-          "native": "転生したらスライムだった件 第4期",
-          "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
-          "color": "#1abbd6"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-07-17T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-05-04T02:56:21Z"
-  },
-  {
-    "title": "Tensei shitara Slime Datta Ken 4th Season",
-    "route": "tensei-shitara-slime-datta-ken-4th-season",
-    "romaji": "Tensei shitara Slime Datta Ken 4th Season",
-    "english": "That Time I Got Reincarnated as a Slime 4th Season",
-    "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-29T15:00:00Z",
-    "delayedUntil": "2026-06-05T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-06-26T15:00:00Z",
+    "delayedUntil": "2026-07-03T15:00:00Z",
     "episodeDate": "2026-06-26T15:00:00Z",
     "episodeNumber": 10,
     "lengthMin": 24,
@@ -8221,7 +8377,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2026-07-03T15:00:00Z"
             }
           ]
