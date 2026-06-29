@@ -4263,8 +4263,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-29T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-06T16:00:00Z"
             }
           ]
         }
@@ -4317,7 +4317,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-06-29T16:00:00Z"
+              "airingAt": "2026-07-06T16:00:00Z"
             }
           ]
         }
@@ -4370,7 +4370,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-06-29T16:00:00Z"
+              "airingAt": "2026-07-13T16:00:00Z"
             }
           ]
         }
@@ -4423,7 +4423,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2026-06-29T16:00:00Z"
+              "airingAt": "2026-07-20T16:00:00Z"
             }
           ]
         }
@@ -4475,8 +4475,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-29T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-06T16:00:00Z"
             }
           ]
         }
@@ -5316,8 +5316,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-29T15:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-06T15:00:00Z"
             }
           ]
         }
@@ -5374,7 +5374,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-06-29T15:00:00Z"
+              "airingAt": "2026-07-06T15:00:00Z"
             }
           ]
         }
@@ -5431,7 +5431,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-06-29T15:00:00Z"
+              "airingAt": "2026-07-13T15:00:00Z"
             }
           ]
         }
@@ -5487,8 +5487,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-29T15:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-06T15:00:00Z"
             }
           ]
         }
