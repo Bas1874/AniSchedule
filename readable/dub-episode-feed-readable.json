@@ -1,5 +1,104 @@
 [
   {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-07-01T14:00:00Z",
+      "addedAt": "2026-07-01T15:41:59Z"
+    }
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-07-01T14:00:00Z",
+      "addedAt": "2026-07-01T15:42:00Z"
+    }
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-07-01T14:00:00Z",
+      "addedAt": "2026-07-01T15:41:59Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-07-01T13:00:00Z",
+      "addedAt": "2026-07-01T15:41:59Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-07-01T13:00:00Z",
+      "addedAt": "2026-07-01T15:42:00Z"
+    }
+  },
+  {
+    "id": 199029,
+    "idMal": 62485,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-07-01T13:00:00Z",
+      "addedAt": "2026-07-01T15:41:59Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 15,
+      "airedAt": "2026-07-01T12:30:00Z",
+      "addedAt": "2026-07-01T15:41:59Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 15,
+      "airedAt": "2026-07-01T12:30:00Z",
+      "addedAt": "2026-07-01T15:42:00Z"
+    }
+  },
+  {
+    "id": 180745,
+    "idMal": 59708,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 15,
+      "airedAt": "2026-07-01T12:30:00Z",
+      "addedAt": "2026-07-01T15:41:59Z"
+    }
+  },
+  {
     "id": 192867,
     "idMal": 61694,
     "format": "TV_SHORT",
