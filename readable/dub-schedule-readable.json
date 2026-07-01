@@ -1696,8 +1696,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -1924,8 +1924,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -2671,8 +2671,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -2839,8 +2839,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -4035,8 +4035,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -4263,8 +4263,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -6271,8 +6271,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -6495,8 +6495,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -6776,8 +6776,9 @@
     "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
     "english": "The Beginning After the End 2nd Season",
     "native": "最強の王様、二度目の人生は何をする? Season 2",
-    "delayedFrom": "0001-01-01T16:15:00Z",
-    "delayedUntil": "0001-01-01T16:15:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-01T16:15:00Z",
+    "delayedUntil": "2026-07-08T16:15:00Z",
     "episodeDate": "2026-07-01T16:15:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -6818,7 +6819,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-01T16:15:00Z"
+              "airingAt": "2026-07-08T16:15:00Z"
             }
           ]
         }
@@ -6833,8 +6834,66 @@
     "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
     "english": "The Beginning After the End 2nd Season",
     "native": "最強の王様、二度目の人生は何をする? Season 2",
-    "delayedFrom": "0001-01-01T16:15:00Z",
-    "delayedUntil": "0001-01-01T16:15:00Z",
+    "delayedFrom": "2026-07-01T16:15:00Z",
+    "delayedUntil": "2026-07-08T16:15:00Z",
+    "episodeDate": "2026-07-08T16:15:00Z",
+    "episodeNumber": 12,
+    "episodes": 12,
+    "lengthMin": 22,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 194317,
+        "idMal": 61831,
+        "title": {
+          "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+          "english": "The Beginning After the End Season 2",
+          "native": "最強の王様、二度目の人生は 何をする? 第2期",
+          "userPreferred": "The Beginning After the End Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-M7t2ymBDHqyW.jpg",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2026-07-08T16:15:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-04-15T16:15:00Z"
+  },
+  {
+    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+    "route": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-2nd-season",
+    "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+    "english": "The Beginning After the End 2nd Season",
+    "native": "最強の王様、二度目の人生は何をする? Season 2",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-01T16:15:00Z",
+    "delayedUntil": "2026-07-08T16:15:00Z",
     "episodeDate": "2026-07-01T16:15:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -6875,7 +6934,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-01T16:15:00Z"
+              "airingAt": "2026-07-08T16:15:00Z"
             }
           ]
         }
@@ -8420,8 +8479,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
@@ -8648,8 +8707,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-07-01T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-07-08T17:00:00Z"
             }
           ]
         }
