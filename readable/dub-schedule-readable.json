@@ -7871,7 +7871,7 @@
         "route": "special"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 179930,
@@ -7929,7 +7929,7 @@
         "route": "special"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 179930,
