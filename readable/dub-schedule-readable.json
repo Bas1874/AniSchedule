@@ -1940,8 +1940,9 @@
     "romaji": "Hime Kishi wa Barbaroi no Yome",
     "english": "The Warrior Princess and the Barbaric King",
     "native": "姫騎士は蛮族の嫁",
-    "delayedFrom": "0001-01-01T12:30:00Z",
-    "delayedUntil": "0001-01-01T12:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-02T12:30:00Z",
+    "delayedUntil": "2026-07-09T12:30:00Z",
     "episodeDate": "2026-07-02T12:30:00Z",
     "episodeNumber": 11,
     "episodes": 12,
@@ -1982,7 +1983,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2026-07-09T12:30:00Z"
             }
           ]
@@ -1998,9 +1999,67 @@
     "romaji": "Hime Kishi wa Barbaroi no Yome",
     "english": "The Warrior Princess and the Barbaric King",
     "native": "姫騎士は蛮族の嫁",
-    "delayedFrom": "0001-01-01T12:30:00Z",
-    "delayedUntil": "0001-01-01T12:30:00Z",
+    "delayedFrom": "2026-07-02T12:30:00Z",
+    "delayedUntil": "2026-07-09T12:30:00Z",
     "episodeDate": "2026-07-09T12:30:00Z",
+    "episodeNumber": 11,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182483,
+        "idMal": 60028,
+        "title": {
+          "romaji": "Hime Kishi wa Barbaroi no Yome",
+          "english": "The Warrior Princess and the Barbaric King",
+          "native": "姫騎士は蛮族の嫁",
+          "userPreferred": "The Warrior Princess and the Barbaric King"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182483-La7chs6htDWr.jpg",
+          "color": "#50bbf1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 11,
+              "airingAt": "2026-07-09T12:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-04T02:56:21Z"
+  },
+  {
+    "title": "Himekishi wa Barbaroi no Yome",
+    "route": "himekishi-wa-barbaroi-no-yome",
+    "romaji": "Hime Kishi wa Barbaroi no Yome",
+    "english": "The Warrior Princess and the Barbaric King",
+    "native": "姫騎士は蛮族の嫁",
+    "delayedFrom": "2026-07-02T12:30:00Z",
+    "delayedUntil": "2026-07-09T12:30:00Z",
+    "episodeDate": "2026-07-16T12:30:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -2056,8 +2115,9 @@
     "romaji": "Hime Kishi wa Barbaroi no Yome",
     "english": "The Warrior Princess and the Barbaric King",
     "native": "姫騎士は蛮族の嫁",
-    "delayedFrom": "0001-01-01T12:30:00Z",
-    "delayedUntil": "0001-01-01T12:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-02T12:30:00Z",
+    "delayedUntil": "2026-07-09T12:30:00Z",
     "episodeDate": "2026-07-02T12:30:00Z",
     "episodeNumber": 11,
     "episodes": 12,
@@ -2098,7 +2158,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2026-07-09T12:30:00Z"
             }
           ]
