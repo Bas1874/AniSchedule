@@ -1650,6 +1650,261 @@
     "addedAt": "2025-09-20T20:17:06Z"
   },
   {
+    "title": "Grow Up Show: Himawari no Circus-dan",
+    "route": "grow-up-show-himawari-no-circus-dan",
+    "romaji": "Grow Up Show: Himawari no Sakasu-dan",
+    "english": "Grow Up Show: Sunflower Cirus",
+    "native": "グロウアップショウ ～ひまわりのサーカス団～",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-04T16:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 196017,
+        "idMal": 62051,
+        "title": {
+          "romaji": "Grow Up Show: Himawari no Circus-dan",
+          "english": "GROW UP SHOW -Sunflower Circus-",
+          "native": "グロウアップショウ ～ひまわりのサーカス団～",
+          "userPreferred": "GROW UP SHOW -Sunflower Circus-"
+        },
+        "format": "TV",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196017-GynDNdbDzqzk.jpg",
+          "color": "#f1ae1a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-04T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T16:00:00Z"
+  },
+  {
+    "title": "Grow Up Show: Himawari no Circus-dan",
+    "route": "grow-up-show-himawari-no-circus-dan",
+    "romaji": "Grow Up Show: Himawari no Sakasu-dan",
+    "english": "Grow Up Show: Sunflower Cirus",
+    "native": "グロウアップショウ ～ひまわりのサーカス団～",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-11T16:00:00Z",
+    "episodeNumber": 2,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 196017,
+        "idMal": 62051,
+        "title": {
+          "romaji": "Grow Up Show: Himawari no Circus-dan",
+          "english": "GROW UP SHOW -Sunflower Circus-",
+          "native": "グロウアップショウ ～ひまわりのサーカス団～",
+          "userPreferred": "GROW UP SHOW -Sunflower Circus-"
+        },
+        "format": "TV",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196017-GynDNdbDzqzk.jpg",
+          "color": "#f1ae1a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-11T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-03T00:05:45Z"
+  },
+  {
+    "title": "Grow Up Show: Himawari no Circus-dan",
+    "route": "grow-up-show-himawari-no-circus-dan",
+    "romaji": "Grow Up Show: Himawari no Sakasu-dan",
+    "english": "Grow Up Show: Sunflower Cirus",
+    "native": "グロウアップショウ ～ひまわりのサーカス団～",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-18T16:00:00Z",
+    "episodeNumber": 3,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 196017,
+        "idMal": 62051,
+        "title": {
+          "romaji": "Grow Up Show: Himawari no Circus-dan",
+          "english": "GROW UP SHOW -Sunflower Circus-",
+          "native": "グロウアップショウ ～ひまわりのサーカス団～",
+          "userPreferred": "GROW UP SHOW -Sunflower Circus-"
+        },
+        "format": "TV",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196017-GynDNdbDzqzk.jpg",
+          "color": "#f1ae1a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-07-18T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-03T00:05:45Z"
+  },
+  {
+    "title": "Grow Up Show: Himawari no Circus-dan",
+    "route": "grow-up-show-himawari-no-circus-dan",
+    "romaji": "Grow Up Show: Himawari no Sakasu-dan",
+    "english": "Grow Up Show: Sunflower Cirus",
+    "native": "グロウアップショウ ～ひまわりのサーカス団～",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-25T16:00:00Z",
+    "episodeNumber": 4,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 196017,
+        "idMal": 62051,
+        "title": {
+          "romaji": "Grow Up Show: Himawari no Circus-dan",
+          "english": "GROW UP SHOW -Sunflower Circus-",
+          "native": "グロウアップショウ ～ひまわりのサーカス団～",
+          "userPreferred": "GROW UP SHOW -Sunflower Circus-"
+        },
+        "format": "TV",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196017-GynDNdbDzqzk.jpg",
+          "color": "#f1ae1a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-07-25T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-03T00:05:45Z"
+  },
+  {
+    "title": "Grow Up Show: Himawari no Circus-dan",
+    "route": "grow-up-show-himawari-no-circus-dan",
+    "romaji": "Grow Up Show: Himawari no Sakasu-dan",
+    "english": "Grow Up Show: Sunflower Cirus",
+    "native": "グロウアップショウ ～ひまわりのサーカス団～",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-04T16:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 196017,
+        "idMal": 62051,
+        "title": {
+          "romaji": "Grow Up Show: Himawari no Circus-dan",
+          "english": "GROW UP SHOW -Sunflower Circus-",
+          "native": "グロウアップショウ ～ひまわりのサーカス団～",
+          "userPreferred": "GROW UP SHOW -Sunflower Circus-"
+        },
+        "format": "TV",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196017-GynDNdbDzqzk.jpg",
+          "color": "#f1ae1a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-04T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T16:00:00Z"
+  },
+  {
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
     "route": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
@@ -7206,6 +7461,7 @@
         "format": "ONA",
         "genres": [
           "Comedy",
+          "Music",
           "Romance"
         ],
         "duration": 24,
@@ -7262,6 +7518,7 @@
         "format": "ONA",
         "genres": [
           "Comedy",
+          "Music",
           "Romance"
         ],
         "duration": 24,
@@ -7318,6 +7575,7 @@
         "format": "ONA",
         "genres": [
           "Comedy",
+          "Music",
           "Romance"
         ],
         "duration": 24,
@@ -7374,6 +7632,7 @@
         "format": "ONA",
         "genres": [
           "Comedy",
+          "Music",
           "Romance"
         ],
         "duration": 24,
@@ -7430,6 +7689,7 @@
         "format": "ONA",
         "genres": [
           "Comedy",
+          "Music",
           "Romance"
         ],
         "duration": 24,
@@ -8137,7 +8397,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-07-02T22:06:27Z"
+    "addedAt": "2026-07-16T16:00:00Z"
   },
   {
     "title": "Yomi no Tsugai",
