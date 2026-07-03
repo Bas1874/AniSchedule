@@ -1650,6 +1650,286 @@
     "addedAt": "2025-09-20T20:17:06Z"
   },
   {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-04T11:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-04T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T11:30:00Z"
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-11T11:30:00Z",
+    "episodeNumber": 2,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-11T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-03T04:41:25Z"
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-18T11:30:00Z",
+    "episodeNumber": 3,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-07-18T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-03T04:41:25Z"
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-25T11:30:00Z",
+    "episodeNumber": 4,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-07-25T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-03T04:41:25Z"
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-04T11:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-04T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T11:30:00Z"
+  },
+  {
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
@@ -1749,7 +2029,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-07-03T00:05:45Z"
+    "addedAt": "2026-07-04T16:00:00Z"
   },
   {
     "title": "Grow Up Show: Himawari no Circus-dan",
@@ -1800,7 +2080,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-07-03T00:05:45Z"
+    "addedAt": "2026-07-04T16:00:00Z"
   },
   {
     "title": "Grow Up Show: Himawari no Circus-dan",
@@ -1851,7 +2131,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-07-03T00:05:45Z"
+    "addedAt": "2026-07-04T16:00:00Z"
   },
   {
     "title": "Grow Up Show: Himawari no Circus-dan",
@@ -8300,6 +8580,7 @@
     "episodeDate": "2026-07-16T16:00:00Z",
     "episodeNumber": 1,
     "episodes": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -8355,6 +8636,7 @@
     "episodeDate": "2026-07-23T16:00:00Z",
     "episodeNumber": 2,
     "episodes": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
