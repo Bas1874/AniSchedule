@@ -2709,9 +2709,66 @@
     "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
     "english": "Ascendance of a Bookworm Part 4",
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-    "delayedFrom": "0001-01-01T09:30:00Z",
-    "delayedUntil": "0001-01-01T09:30:00Z",
+    "delayedFrom": "2026-06-27T09:30:00Z",
+    "delayedUntil": "2026-07-03T09:30:00Z",
     "episodeDate": "2026-07-04T09:30:00Z",
+    "episodeNumber": 10,
+    "episodes": 24,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 171110,
+        "idMal": 57466,
+        "title": {
+          "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+          "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+          "native": "本好きの下剋上 領主の養女",
+          "userPreferred": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171110-7zOdInS6DQNL.jpg",
+          "color": "#5daee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 10,
+              "airingAt": "2026-07-04T09:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-04T02:56:21Z"
+  },
+  {
+    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
+    "route": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo",
+    "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
+    "english": "Ascendance of a Bookworm Part 4",
+    "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+    "delayedFrom": "2026-06-27T09:30:00Z",
+    "delayedUntil": "2026-07-03T09:30:00Z",
+    "episodeDate": "2026-07-11T09:30:00Z",
     "episodeNumber": 11,
     "episodes": 24,
     "lengthMin": 23,
@@ -2751,7 +2808,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2026-07-04T09:30:00Z"
+              "airingAt": "2026-07-11T09:30:00Z"
             }
           ]
         }
@@ -2766,9 +2823,9 @@
     "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
     "english": "Ascendance of a Bookworm Part 4",
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-    "delayedFrom": "0001-01-01T09:30:00Z",
-    "delayedUntil": "0001-01-01T09:30:00Z",
-    "episodeDate": "2026-07-11T09:30:00Z",
+    "delayedFrom": "2026-06-27T09:30:00Z",
+    "delayedUntil": "2026-07-03T09:30:00Z",
+    "episodeDate": "2026-07-18T09:30:00Z",
     "episodeNumber": 12,
     "episodes": 24,
     "lengthMin": 23,
@@ -2808,7 +2865,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-11T09:30:00Z"
+              "airingAt": "2026-07-18T09:30:00Z"
             }
           ]
         }
@@ -2823,9 +2880,9 @@
     "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
     "english": "Ascendance of a Bookworm Part 4",
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-    "delayedFrom": "0001-01-01T09:30:00Z",
-    "delayedUntil": "0001-01-01T09:30:00Z",
-    "episodeDate": "2026-07-18T09:30:00Z",
+    "delayedFrom": "2026-06-27T09:30:00Z",
+    "delayedUntil": "2026-07-03T09:30:00Z",
+    "episodeDate": "2026-07-25T09:30:00Z",
     "episodeNumber": 13,
     "episodes": 24,
     "lengthMin": 23,
@@ -2865,63 +2922,6 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2026-07-18T09:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-05-04T02:56:21Z"
-  },
-  {
-    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
-    "route": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo",
-    "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
-    "english": "Ascendance of a Bookworm Part 4",
-    "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-    "delayedFrom": "0001-01-01T09:30:00Z",
-    "delayedUntil": "0001-01-01T09:30:00Z",
-    "episodeDate": "2026-07-25T09:30:00Z",
-    "episodeNumber": 14,
-    "episodes": 24,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 171110,
-        "idMal": 57466,
-        "title": {
-          "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-          "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-          "native": "本好きの下剋上 領主の養女",
-          "userPreferred": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171110-7zOdInS6DQNL.jpg",
-          "color": "#5daee4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 14,
               "airingAt": "2026-07-25T09:30:00Z"
             }
           ]
@@ -2937,10 +2937,10 @@
     "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
     "english": "Ascendance of a Bookworm Part 4",
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-    "delayedFrom": "0001-01-01T09:30:00Z",
-    "delayedUntil": "0001-01-01T09:30:00Z",
+    "delayedFrom": "2026-06-27T09:30:00Z",
+    "delayedUntil": "2026-07-03T09:30:00Z",
     "episodeDate": "2026-07-04T09:30:00Z",
-    "episodeNumber": 11,
+    "episodeNumber": 10,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2978,7 +2978,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2026-07-04T09:30:00Z"
             }
           ]
@@ -3624,8 +3624,9 @@
     "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
     "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "native": "自称悪役令嬢な婚約者の観察記録。",
-    "delayedFrom": "0001-01-01T13:00:00Z",
-    "delayedUntil": "0001-01-01T13:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-03T13:00:00Z",
+    "delayedUntil": "2026-07-10T13:00:00Z",
     "episodeDate": "2026-07-03T13:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -3667,7 +3668,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-03T13:00:00Z"
+              "airingAt": "2026-07-10T13:00:00Z"
             }
           ]
         }
@@ -3682,8 +3683,67 @@
     "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
     "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "native": "自称悪役令嬢な婚約者の観察記録。",
-    "delayedFrom": "0001-01-01T13:00:00Z",
-    "delayedUntil": "0001-01-01T13:00:00Z",
+    "delayedFrom": "2026-07-03T13:00:00Z",
+    "delayedUntil": "2026-07-10T13:00:00Z",
+    "episodeDate": "2026-07-10T13:00:00Z",
+    "episodeNumber": 12,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192808,
+        "idMal": 61687,
+        "title": {
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+          "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+          "native": "自称悪役令嬢な婚約者の観察記録。",
+          "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2026-07-10T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-03T13:00:00Z",
+    "delayedUntil": "2026-07-10T13:00:00Z",
     "episodeDate": "2026-07-03T13:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -3725,7 +3785,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-03T13:00:00Z"
+              "airingAt": "2026-07-10T13:00:00Z"
             }
           ]
         }
