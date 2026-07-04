@@ -1056,6 +1056,7 @@
     "delayedUntil": "0001-01-01T13:00:00Z",
     "episodeDate": "2026-07-04T13:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1110,6 +1111,7 @@
     "delayedUntil": "0001-01-01T13:00:00Z",
     "episodeDate": "2026-07-11T13:00:00Z",
     "episodeNumber": 2,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1164,6 +1166,7 @@
     "delayedUntil": "0001-01-01T13:00:00Z",
     "episodeDate": "2026-07-18T13:00:00Z",
     "episodeNumber": 3,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1218,6 +1221,7 @@
     "delayedUntil": "0001-01-01T13:00:00Z",
     "episodeDate": "2026-07-25T13:00:00Z",
     "episodeNumber": 4,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1272,6 +1276,7 @@
     "delayedUntil": "0001-01-01T13:00:00Z",
     "episodeDate": "2026-07-04T13:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1659,6 +1664,8 @@
     "delayedUntil": "0001-01-01T11:30:00Z",
     "episodeDate": "2026-07-04T11:30:00Z",
     "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1697,174 +1704,6 @@
             {
               "episode": 2,
               "airingAt": "2026-07-11T11:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-04T11:30:00Z"
-  },
-  {
-    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
-    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-    "english": "Skeleton Knight in Another World II",
-    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-    "delayedFrom": "0001-01-01T11:30:00Z",
-    "delayedUntil": "0001-01-01T11:30:00Z",
-    "episodeDate": "2026-07-11T11:30:00Z",
-    "episodeNumber": 2,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185542,
-        "idMal": 60522,
-        "title": {
-          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-          "english": "Skeleton Knight in Another World Season 2",
-          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-          "userPreferred": "Skeleton Knight in Another World Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
-          "color": "#286bbb"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 2,
-              "airingAt": "2026-07-11T11:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-04T11:30:00Z"
-  },
-  {
-    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
-    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-    "english": "Skeleton Knight in Another World II",
-    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-    "delayedFrom": "0001-01-01T11:30:00Z",
-    "delayedUntil": "0001-01-01T11:30:00Z",
-    "episodeDate": "2026-07-18T11:30:00Z",
-    "episodeNumber": 3,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185542,
-        "idMal": 60522,
-        "title": {
-          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-          "english": "Skeleton Knight in Another World Season 2",
-          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-          "userPreferred": "Skeleton Knight in Another World Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
-          "color": "#286bbb"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 3,
-              "airingAt": "2026-07-18T11:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-04T11:30:00Z"
-  },
-  {
-    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
-    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-    "english": "Skeleton Knight in Another World II",
-    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-    "delayedFrom": "0001-01-01T11:30:00Z",
-    "delayedUntil": "0001-01-01T11:30:00Z",
-    "episodeDate": "2026-07-25T11:30:00Z",
-    "episodeNumber": 4,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185542,
-        "idMal": 60522,
-        "title": {
-          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-          "english": "Skeleton Knight in Another World Season 2",
-          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-          "userPreferred": "Skeleton Knight in Another World Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
-          "color": "#286bbb"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-07-25T11:30:00Z"
             }
           ]
         }
@@ -1883,6 +1722,8 @@
     "delayedUntil": "0001-01-01T11:30:00Z",
     "episodeDate": "2026-07-04T11:30:00Z",
     "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1939,6 +1780,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-07-04T16:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1990,6 +1832,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-07-11T16:00:00Z",
     "episodeNumber": 2,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2041,6 +1884,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-07-18T16:00:00Z",
     "episodeNumber": 3,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2092,6 +1936,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-07-25T16:00:00Z",
     "episodeNumber": 4,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2143,6 +1988,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-07-04T16:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -3793,6 +3639,291 @@
     },
     "verified": true,
     "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
+    "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "route": "kabushikigaisha-magi-lumi-re-2nd-season",
+    "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "english": "Magilumiere Magical Girls Inc. 2nd Season",
+    "native": "株式会社マジルミエ 第2期",
+    "delayedFrom": "0001-01-01T17:25:00Z",
+    "delayedUntil": "0001-01-01T17:25:00Z",
+    "episodeDate": "2026-07-04T17:25:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185692,
+        "idMal": 60552,
+        "title": {
+          "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+          "english": "Magilumiere Magical Girls Inc. Season 2",
+          "native": "株式会社マジルミエ 第2期",
+          "userPreferred": "Magilumiere Magical Girls Inc. Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185692-1a8huwOIx7gw.jpg",
+          "color": "#5dc9e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-11T17:25:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T20:08:53Z"
+  },
+  {
+    "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "route": "kabushikigaisha-magi-lumi-re-2nd-season",
+    "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "english": "Magilumiere Magical Girls Inc. 2nd Season",
+    "native": "株式会社マジルミエ 第2期",
+    "delayedFrom": "0001-01-01T17:25:00Z",
+    "delayedUntil": "0001-01-01T17:25:00Z",
+    "episodeDate": "2026-07-11T17:25:00Z",
+    "episodeNumber": 2,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185692,
+        "idMal": 60552,
+        "title": {
+          "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+          "english": "Magilumiere Magical Girls Inc. Season 2",
+          "native": "株式会社マジルミエ 第2期",
+          "userPreferred": "Magilumiere Magical Girls Inc. Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185692-1a8huwOIx7gw.jpg",
+          "color": "#5dc9e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-11T17:25:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T20:08:53Z"
+  },
+  {
+    "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "route": "kabushikigaisha-magi-lumi-re-2nd-season",
+    "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "english": "Magilumiere Magical Girls Inc. 2nd Season",
+    "native": "株式会社マジルミエ 第2期",
+    "delayedFrom": "0001-01-01T17:25:00Z",
+    "delayedUntil": "0001-01-01T17:25:00Z",
+    "episodeDate": "2026-07-18T17:25:00Z",
+    "episodeNumber": 3,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185692,
+        "idMal": 60552,
+        "title": {
+          "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+          "english": "Magilumiere Magical Girls Inc. Season 2",
+          "native": "株式会社マジルミエ 第2期",
+          "userPreferred": "Magilumiere Magical Girls Inc. Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185692-1a8huwOIx7gw.jpg",
+          "color": "#5dc9e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-07-18T17:25:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T20:08:53Z"
+  },
+  {
+    "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "route": "kabushikigaisha-magi-lumi-re-2nd-season",
+    "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "english": "Magilumiere Magical Girls Inc. 2nd Season",
+    "native": "株式会社マジルミエ 第2期",
+    "delayedFrom": "0001-01-01T17:25:00Z",
+    "delayedUntil": "0001-01-01T17:25:00Z",
+    "episodeDate": "2026-07-25T17:25:00Z",
+    "episodeNumber": 4,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185692,
+        "idMal": 60552,
+        "title": {
+          "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+          "english": "Magilumiere Magical Girls Inc. Season 2",
+          "native": "株式会社マジルミエ 第2期",
+          "userPreferred": "Magilumiere Magical Girls Inc. Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185692-1a8huwOIx7gw.jpg",
+          "color": "#5dc9e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-07-25T17:25:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T20:08:53Z"
+  },
+  {
+    "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "route": "kabushikigaisha-magi-lumi-re-2nd-season",
+    "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "english": "Magilumiere Magical Girls Inc. 2nd Season",
+    "native": "株式会社マジルミエ 第2期",
+    "delayedFrom": "0001-01-01T17:25:00Z",
+    "delayedUntil": "0001-01-01T17:25:00Z",
+    "episodeDate": "2026-07-04T17:25:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185692,
+        "idMal": 60552,
+        "title": {
+          "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+          "english": "Magilumiere Magical Girls Inc. Season 2",
+          "native": "株式会社マジルミエ 第2期",
+          "userPreferred": "Magilumiere Magical Girls Inc. Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185692-1a8huwOIx7gw.jpg",
+          "color": "#5dc9e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-11T17:25:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T20:08:53Z"
   },
   {
     "title": "Kami no Shizuku",
