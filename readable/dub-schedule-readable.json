@@ -1052,9 +1052,9 @@
   {
     "title": "BLACK TORCH",
     "route": "black-torch",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-07-04T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-07-04T13:00:00Z",
     "episodeNumber": 1,
     "mediaTypes": [
       {
@@ -1094,7 +1094,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2026-07-04T14:00:00Z"
+              "airingAt": "2026-07-04T13:00:00Z"
             }
           ]
         }
@@ -1106,9 +1106,9 @@
   {
     "title": "BLACK TORCH",
     "route": "black-torch",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-07-11T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-07-11T13:00:00Z",
     "episodeNumber": 2,
     "mediaTypes": [
       {
@@ -1148,7 +1148,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-07-11T14:00:00Z"
+              "airingAt": "2026-07-11T13:00:00Z"
             }
           ]
         }
@@ -1160,9 +1160,9 @@
   {
     "title": "BLACK TORCH",
     "route": "black-torch",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-07-18T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-07-18T13:00:00Z",
     "episodeNumber": 3,
     "mediaTypes": [
       {
@@ -1202,7 +1202,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2026-07-18T14:00:00Z"
+              "airingAt": "2026-07-18T13:00:00Z"
             }
           ]
         }
@@ -1214,9 +1214,9 @@
   {
     "title": "BLACK TORCH",
     "route": "black-torch",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-07-25T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-07-25T13:00:00Z",
     "episodeNumber": 4,
     "mediaTypes": [
       {
@@ -1256,7 +1256,7 @@
           "nodes": [
             {
               "episode": 4,
-              "airingAt": "2026-07-25T14:00:00Z"
+              "airingAt": "2026-07-25T13:00:00Z"
             }
           ]
         }
@@ -1268,9 +1268,9 @@
   {
     "title": "BLACK TORCH",
     "route": "black-torch",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-07-04T14:00:00Z",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-07-04T13:00:00Z",
     "episodeNumber": 1,
     "mediaTypes": [
       {
@@ -1310,7 +1310,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2026-07-04T14:00:00Z"
+              "airingAt": "2026-07-04T13:00:00Z"
             }
           ]
         }
@@ -2750,8 +2750,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-07-04T09:30:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-11T09:30:00Z"
             }
           ]
         }
@@ -2978,8 +2978,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-07-04T09:30:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-11T09:30:00Z"
             }
           ]
         }
