@@ -266,8 +266,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         }
@@ -478,8 +478,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         }
@@ -1933,7 +1933,7 @@
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
-    "english": "Grow Up Show: Sunflower Cirus",
+    "english": "Grow Up Show: Sunflower Circus",
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
@@ -1945,7 +1945,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 196017,
@@ -1970,8 +1970,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         }
@@ -1984,7 +1984,7 @@
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
-    "english": "Grow Up Show: Sunflower Cirus",
+    "english": "Grow Up Show: Sunflower Circus",
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
@@ -2035,7 +2035,7 @@
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
-    "english": "Grow Up Show: Sunflower Cirus",
+    "english": "Grow Up Show: Sunflower Circus",
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
@@ -2086,7 +2086,7 @@
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
-    "english": "Grow Up Show: Sunflower Cirus",
+    "english": "Grow Up Show: Sunflower Circus",
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
@@ -2137,7 +2137,7 @@
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
-    "english": "Grow Up Show: Sunflower Cirus",
+    "english": "Grow Up Show: Sunflower Circus",
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
@@ -2149,7 +2149,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 196017,
@@ -2174,8 +2174,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         }
@@ -9070,8 +9070,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         }
@@ -9306,8 +9306,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         }
