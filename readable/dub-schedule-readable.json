@@ -3129,9 +3129,10 @@
     "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
     "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "native": "自称悪役令嬢な婚約者の観察記録。",
-    "delayedFrom": "2026-07-03T13:00:00Z",
-    "delayedUntil": "2026-07-10T13:00:00Z",
-    "episodeDate": "2026-07-10T13:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-07-06T13:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -3172,7 +3173,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-10T13:00:00Z"
+              "airingAt": "2026-07-06T13:00:00Z"
             }
           ]
         }
@@ -3187,9 +3188,10 @@
     "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
     "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "native": "自称悪役令嬢な婚約者の観察記録。",
-    "delayedFrom": "2026-07-03T13:00:00Z",
-    "delayedUntil": "2026-07-10T13:00:00Z",
-    "episodeDate": "2026-07-10T13:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-07-06T13:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -3230,7 +3232,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-10T13:00:00Z"
+              "airingAt": "2026-07-06T13:00:00Z"
             }
           ]
         }
@@ -4770,8 +4772,9 @@
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
-    "delayedFrom": "2026-06-22T16:00:00Z",
-    "delayedUntil": "2026-06-29T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-06T16:00:00Z",
+    "delayedUntil": "2026-07-13T16:00:00Z",
     "episodeDate": "2026-07-06T16:00:00Z",
     "episodeNumber": 12,
     "lengthMin": 23,
@@ -4809,7 +4812,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2026-07-13T16:00:00Z"
             }
           ]
@@ -4823,9 +4826,62 @@
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
-    "delayedFrom": "2026-06-22T16:00:00Z",
-    "delayedUntil": "2026-06-29T16:00:00Z",
+    "delayedFrom": "2026-07-06T16:00:00Z",
+    "delayedUntil": "2026-07-13T16:00:00Z",
     "episodeDate": "2026-07-13T16:00:00Z",
+    "episodeNumber": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 197754,
+        "idMal": 62331,
+        "title": {
+          "romaji": "LIAR GAME",
+          "english": "LIAR GAME",
+          "native": "LIAR GAME",
+          "userPreferred": "LIAR GAME"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Psychological"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197754-Q5KqcUhIdypp.png",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2026-07-13T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-04T02:56:21Z"
+  },
+  {
+    "title": "LIAR GAME",
+    "route": "liar-game",
+    "native": "ライアーゲーム",
+    "delayedFrom": "2026-07-06T16:00:00Z",
+    "delayedUntil": "2026-07-13T16:00:00Z",
+    "episodeDate": "2026-07-20T16:00:00Z",
     "episodeNumber": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -4876,9 +4932,9 @@
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
-    "delayedFrom": "2026-06-22T16:00:00Z",
-    "delayedUntil": "2026-06-29T16:00:00Z",
-    "episodeDate": "2026-07-20T16:00:00Z",
+    "delayedFrom": "2026-07-06T16:00:00Z",
+    "delayedUntil": "2026-07-13T16:00:00Z",
+    "episodeDate": "2026-07-27T16:00:00Z",
     "episodeNumber": 14,
     "lengthMin": 23,
     "mediaTypes": [
@@ -4916,7 +4972,7 @@
           "nodes": [
             {
               "episode": 14,
-              "airingAt": "2026-07-20T16:00:00Z"
+              "airingAt": "2026-07-13T16:00:00Z"
             }
           ]
         }
@@ -4929,61 +4985,9 @@
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
-    "delayedFrom": "2026-06-22T16:00:00Z",
-    "delayedUntil": "2026-06-29T16:00:00Z",
-    "episodeDate": "2026-07-27T16:00:00Z",
-    "episodeNumber": 15,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 197754,
-        "idMal": 62331,
-        "title": {
-          "romaji": "LIAR GAME",
-          "english": "LIAR GAME",
-          "native": "LIAR GAME",
-          "userPreferred": "LIAR GAME"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Psychological"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197754-Q5KqcUhIdypp.png",
-          "color": null
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 15,
-              "airingAt": "2026-07-27T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-05-04T02:56:21Z"
-  },
-  {
-    "title": "LIAR GAME",
-    "route": "liar-game",
-    "native": "ライアーゲーム",
-    "delayedFrom": "2026-06-22T16:00:00Z",
-    "delayedUntil": "2026-06-29T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-06T16:00:00Z",
+    "delayedUntil": "2026-07-13T16:00:00Z",
     "episodeDate": "2026-07-06T16:00:00Z",
     "episodeNumber": 12,
     "lengthMin": 23,
@@ -5021,7 +5025,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2026-07-13T16:00:00Z"
             }
           ]
@@ -5990,8 +5994,9 @@
     "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
     "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
     "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
-    "delayedFrom": "2026-06-22T15:00:00Z",
-    "delayedUntil": "2026-06-29T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-06T15:00:00Z",
+    "delayedUntil": "2026-07-13T15:00:00Z",
     "episodeDate": "2026-07-06T15:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -6032,7 +6037,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-06T15:00:00Z"
+              "airingAt": "2026-07-13T15:00:00Z"
             }
           ]
         }
@@ -6047,8 +6052,66 @@
     "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
     "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
     "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
-    "delayedFrom": "2026-06-22T15:00:00Z",
-    "delayedUntil": "2026-06-29T15:00:00Z",
+    "delayedFrom": "2026-07-06T15:00:00Z",
+    "delayedUntil": "2026-07-13T15:00:00Z",
+    "episodeDate": "2026-07-13T15:00:00Z",
+    "episodeNumber": 12,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189987,
+        "idMal": 61425,
+        "title": {
+          "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+          "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+          "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+          "userPreferred": "The Klutzy Class Monitor and the Girl with the Short Skirt"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189987-CkTDPfD7vu2Y.jpg",
+          "color": "#e4c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2026-07-13T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-05-04T02:56:21Z"
+  },
+  {
+    "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+    "route": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+    "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+    "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+    "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-06T15:00:00Z",
+    "delayedUntil": "2026-07-13T15:00:00Z",
     "episodeDate": "2026-07-06T15:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -6089,7 +6152,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-07-06T15:00:00Z"
+              "airingAt": "2026-07-13T15:00:00Z"
             }
           ]
         }
