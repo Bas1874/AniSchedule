@@ -1488,6 +1488,180 @@
     "addedAt": "2025-09-20T20:17:06Z"
   },
   {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-14T11:30:00Z",
+    "episodeNumber": 2,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-14T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-06T05:11:57Z"
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-21T11:30:00Z",
+    "episodeNumber": 3,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-07-21T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-06T05:11:57Z"
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World II",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "delayedFrom": "0001-01-01T11:30:00Z",
+    "delayedUntil": "0001-01-01T11:30:00Z",
+    "episodeDate": "2026-07-28T11:30:00Z",
+    "episodeNumber": 4,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185542,
+        "idMal": 60522,
+        "title": {
+          "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "english": "Skeleton Knight in Another World Season 2",
+          "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "userPreferred": "Skeleton Knight in Another World Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+          "color": "#286bbb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-07-28T11:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-06T05:11:57Z"
+  },
+  {
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
@@ -5564,7 +5738,7 @@
           "Adventure",
           "Romance"
         ],
-        "duration": null,
+        "duration": 25,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
@@ -5620,7 +5794,7 @@
           "Adventure",
           "Romance"
         ],
-        "duration": null,
+        "duration": 25,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
@@ -5676,7 +5850,7 @@
           "Adventure",
           "Romance"
         ],
-        "duration": null,
+        "duration": 25,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
@@ -5732,7 +5906,7 @@
           "Adventure",
           "Romance"
         ],
-        "duration": null,
+        "duration": 25,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
@@ -5788,7 +5962,7 @@
           "Adventure",
           "Romance"
         ],
-        "duration": null,
+        "duration": 25,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
@@ -6927,7 +7101,7 @@
           "Romance",
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
@@ -6983,7 +7157,7 @@
           "Romance",
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
@@ -7039,7 +7213,7 @@
           "Romance",
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
@@ -7095,7 +7269,7 @@
           "Romance",
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
@@ -7151,7 +7325,7 @@
           "Romance",
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
@@ -8147,8 +8321,9 @@
     "romaji": "Yomi no Tsugai",
     "english": "Daemons of the Shadow Realm",
     "native": "黄泉のツガイ",
-    "delayedFrom": "2026-05-02T16:00:00Z",
-    "delayedUntil": "2026-05-16T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-11T16:00:00Z",
+    "delayedUntil": "2026-07-18T16:00:00Z",
     "episodeDate": "2026-07-11T16:00:00Z",
     "episodeNumber": 13,
     "episodes": 24,
@@ -8191,7 +8366,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2026-07-11T16:00:00Z"
+              "airingAt": "2026-07-18T16:00:00Z"
             }
           ]
         }
@@ -8206,9 +8381,68 @@
     "romaji": "Yomi no Tsugai",
     "english": "Daemons of the Shadow Realm",
     "native": "黄泉のツガイ",
-    "delayedFrom": "2026-05-02T16:00:00Z",
-    "delayedUntil": "2026-05-16T16:00:00Z",
+    "delayedFrom": "2026-07-11T16:00:00Z",
+    "delayedUntil": "2026-07-18T16:00:00Z",
     "episodeDate": "2026-07-18T16:00:00Z",
+    "episodeNumber": 13,
+    "episodes": 24,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195600,
+        "idMal": 62001,
+        "title": {
+          "romaji": "Yomi no Tsugai",
+          "english": "Daemons of the Shadow Realm",
+          "native": "黄泉のツガイ",
+          "userPreferred": "Daemons of the Shadow Realm"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195600-moI0UFArtOme.jpg",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 13,
+              "airingAt": "2026-07-18T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": true,
+    "addedAt": "2026-04-04T16:00:00Z"
+  },
+  {
+    "title": "Yomi no Tsugai",
+    "route": "yomi-no-tsugai",
+    "romaji": "Yomi no Tsugai",
+    "english": "Daemons of the Shadow Realm",
+    "native": "黄泉のツガイ",
+    "delayedFrom": "2026-07-11T16:00:00Z",
+    "delayedUntil": "2026-07-18T16:00:00Z",
+    "episodeDate": "2026-07-25T16:00:00Z",
     "episodeNumber": 14,
     "episodes": 24,
     "lengthMin": 23,
@@ -8265,9 +8499,9 @@
     "romaji": "Yomi no Tsugai",
     "english": "Daemons of the Shadow Realm",
     "native": "黄泉のツガイ",
-    "delayedFrom": "2026-05-02T16:00:00Z",
-    "delayedUntil": "2026-05-16T16:00:00Z",
-    "episodeDate": "2026-07-25T16:00:00Z",
+    "delayedFrom": "2026-07-11T16:00:00Z",
+    "delayedUntil": "2026-07-18T16:00:00Z",
+    "episodeDate": "2026-08-01T16:00:00Z",
     "episodeNumber": 15,
     "episodes": 24,
     "lengthMin": 23,
@@ -8309,7 +8543,7 @@
           "nodes": [
             {
               "episode": 15,
-              "airingAt": "2026-07-25T16:00:00Z"
+              "airingAt": "2026-07-18T16:00:00Z"
             }
           ]
         }
@@ -8324,67 +8558,9 @@
     "romaji": "Yomi no Tsugai",
     "english": "Daemons of the Shadow Realm",
     "native": "黄泉のツガイ",
-    "delayedFrom": "2026-05-02T16:00:00Z",
-    "delayedUntil": "2026-05-16T16:00:00Z",
-    "episodeDate": "2026-08-01T16:00:00Z",
-    "episodeNumber": 16,
-    "episodes": 24,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 195600,
-        "idMal": 62001,
-        "title": {
-          "romaji": "Yomi no Tsugai",
-          "english": "Daemons of the Shadow Realm",
-          "native": "黄泉のツガイ",
-          "userPreferred": "Daemons of the Shadow Realm"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy",
-          "Supernatural"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195600-moI0UFArtOme.jpg",
-          "color": "#e49335"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 16,
-              "airingAt": "2026-08-01T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-04T16:00:00Z"
-  },
-  {
-    "title": "Yomi no Tsugai",
-    "route": "yomi-no-tsugai",
-    "romaji": "Yomi no Tsugai",
-    "english": "Daemons of the Shadow Realm",
-    "native": "黄泉のツガイ",
-    "delayedFrom": "2026-05-02T16:00:00Z",
-    "delayedUntil": "2026-05-16T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-11T16:00:00Z",
+    "delayedUntil": "2026-07-18T16:00:00Z",
     "episodeDate": "2026-07-11T16:00:00Z",
     "episodeNumber": 13,
     "episodes": 24,
@@ -8427,7 +8603,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2026-07-11T16:00:00Z"
+              "airingAt": "2026-07-18T16:00:00Z"
             }
           ]
         }
