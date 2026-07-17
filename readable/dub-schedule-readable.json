@@ -6150,6 +6150,296 @@
     "addedAt": "2026-05-04T02:56:21Z"
   },
   {
+    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+    "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation 3",
+    "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-07-18T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178789,
+        "idMal": 59193,
+        "title": {
+          "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+          "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+          "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
+          "userPreferred": "Mushoku Tensei: Jobless Reincarnation Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-hNXjKFzUq7mk.jpg",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-18T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T15:00:00Z"
+  },
+  {
+    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+    "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation 3",
+    "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-07-25T15:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178789,
+        "idMal": 59193,
+        "title": {
+          "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+          "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+          "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
+          "userPreferred": "Mushoku Tensei: Jobless Reincarnation Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-hNXjKFzUq7mk.jpg",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-25T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-17T20:57:42Z"
+  },
+  {
+    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+    "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation 3",
+    "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-08-01T15:00:00Z",
+    "episodeNumber": 3,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178789,
+        "idMal": 59193,
+        "title": {
+          "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+          "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+          "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
+          "userPreferred": "Mushoku Tensei: Jobless Reincarnation Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-hNXjKFzUq7mk.jpg",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-08-01T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-17T20:57:42Z"
+  },
+  {
+    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+    "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation 3",
+    "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-08-08T15:00:00Z",
+    "episodeNumber": 4,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178789,
+        "idMal": 59193,
+        "title": {
+          "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+          "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+          "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
+          "userPreferred": "Mushoku Tensei: Jobless Reincarnation Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-hNXjKFzUq7mk.jpg",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-08-08T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-17T20:57:42Z"
+  },
+  {
+    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+    "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation 3",
+    "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-07-18T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178789,
+        "idMal": 59193,
+        "title": {
+          "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+          "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+          "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
+          "userPreferred": "Mushoku Tensei: Jobless Reincarnation Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-hNXjKFzUq7mk.jpg",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-18T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T15:00:00Z"
+  },
+  {
     "title": "NEEDY GIRL OVERDOSE",
     "route": "needy-girl-overdose",
     "delayedFrom": "0001-01-01T17:00:00Z",
@@ -8985,6 +9275,286 @@
     },
     "verified": true,
     "addedAt": "2026-05-07T16:00:00Z"
+  },
+  {
+    "title": "Tenmaku no Jaadugar",
+    "route": "tenmaku-no-jaadugar",
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "native": "天幕のジャードゥーガル",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-18T16:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 190569,
+        "idMal": 61483,
+        "title": {
+          "romaji": "Tenmaku no Jaadugar",
+          "english": "Jaadugar: A Witch in Mongolia",
+          "native": "天幕のジャードゥーガル",
+          "userPreferred": "Jaadugar: A Witch in Mongolia"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-18T16:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-07-18T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T16:00:00Z"
+  },
+  {
+    "title": "Tenmaku no Jaadugar",
+    "route": "tenmaku-no-jaadugar",
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "native": "天幕のジャードゥーガル",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-25T16:00:00Z",
+    "episodeNumber": 3,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 190569,
+        "idMal": 61483,
+        "title": {
+          "romaji": "Tenmaku no Jaadugar",
+          "english": "Jaadugar: A Witch in Mongolia",
+          "native": "天幕のジャードゥーガル",
+          "userPreferred": "Jaadugar: A Witch in Mongolia"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-07-25T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-17T20:57:42Z"
+  },
+  {
+    "title": "Tenmaku no Jaadugar",
+    "route": "tenmaku-no-jaadugar",
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "native": "天幕のジャードゥーガル",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-08-01T16:00:00Z",
+    "episodeNumber": 4,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 190569,
+        "idMal": 61483,
+        "title": {
+          "romaji": "Tenmaku no Jaadugar",
+          "english": "Jaadugar: A Witch in Mongolia",
+          "native": "天幕のジャードゥーガル",
+          "userPreferred": "Jaadugar: A Witch in Mongolia"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-08-01T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-17T20:57:42Z"
+  },
+  {
+    "title": "Tenmaku no Jaadugar",
+    "route": "tenmaku-no-jaadugar",
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "native": "天幕のジャードゥーガル",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-08-08T16:00:00Z",
+    "episodeNumber": 5,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 190569,
+        "idMal": 61483,
+        "title": {
+          "romaji": "Tenmaku no Jaadugar",
+          "english": "Jaadugar: A Witch in Mongolia",
+          "native": "天幕のジャードゥーガル",
+          "userPreferred": "Jaadugar: A Witch in Mongolia"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 5,
+              "airingAt": "2026-08-08T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-17T20:57:42Z"
+  },
+  {
+    "title": "Tenmaku no Jaadugar",
+    "route": "tenmaku-no-jaadugar",
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "native": "天幕のジャードゥーガル",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-18T16:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 190569,
+        "idMal": 61483,
+        "title": {
+          "romaji": "Tenmaku no Jaadugar",
+          "english": "Jaadugar: A Witch in Mongolia",
+          "native": "天幕のジャードゥーガル",
+          "userPreferred": "Jaadugar: A Witch in Mongolia"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-18T16:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-07-18T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T16:00:00Z"
   },
   {
     "title": "Tensei shitara Slime Datta Ken 4th Season",
