@@ -3988,7 +3988,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-04T20:08:53Z"
   },
   {
@@ -4045,7 +4045,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-04T20:08:53Z"
   },
   {
@@ -4102,7 +4102,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-04T20:08:53Z"
   },
   {
@@ -4159,7 +4159,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-04T20:08:53Z"
   },
   {
@@ -4216,7 +4216,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-04T20:08:53Z"
   },
   {
@@ -5011,7 +5011,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-07-18T19:07:10Z"
+    "addedAt": "2026-07-19T14:00:00Z"
   },
   {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
@@ -5067,7 +5067,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-07-18T19:07:10Z"
+    "addedAt": "2026-07-19T14:00:00Z"
   },
   {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
@@ -5123,7 +5123,7 @@
       }
     },
     "verified": false,
-    "addedAt": "2026-07-18T19:07:10Z"
+    "addedAt": "2026-07-19T14:00:00Z"
   },
   {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
@@ -8867,6 +8867,296 @@
     },
     "verified": false,
     "addedAt": "2026-07-06T00:06:20Z"
+  },
+  {
+    "title": "Seihantai na Kimi to Boku 2nd Season",
+    "route": "seihantai-na-kimi-to-boku-2nd-season",
+    "romaji": "Seihantai na Kimi to Boku 2nd Season",
+    "english": "You and I Are Polar Opposites 2nd Season",
+    "native": "正反対な君と僕 第2期",
+    "delayedFrom": "0001-01-01T08:30:00Z",
+    "delayedUntil": "0001-01-01T08:30:00Z",
+    "episodeDate": "2026-07-19T08:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 210031,
+        "idMal": 63832,
+        "title": {
+          "romaji": "Seihantai na Kimi to Boku 2nd Season",
+          "english": "You and I Are Polar Opposites Season 2",
+          "native": "正反対な君と僕 第2期",
+          "userPreferred": "You and I Are Polar Opposites Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210031-TppgcHZh46LY.jpg",
+          "color": "#fe5093"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-19T08:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-19T08:30:00Z"
+  },
+  {
+    "title": "Seihantai na Kimi to Boku 2nd Season",
+    "route": "seihantai-na-kimi-to-boku-2nd-season",
+    "romaji": "Seihantai na Kimi to Boku 2nd Season",
+    "english": "You and I Are Polar Opposites 2nd Season",
+    "native": "正反対な君と僕 第2期",
+    "delayedFrom": "0001-01-01T08:30:00Z",
+    "delayedUntil": "0001-01-01T08:30:00Z",
+    "episodeDate": "2026-07-26T08:30:00Z",
+    "episodeNumber": 2,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 210031,
+        "idMal": 63832,
+        "title": {
+          "romaji": "Seihantai na Kimi to Boku 2nd Season",
+          "english": "You and I Are Polar Opposites Season 2",
+          "native": "正反対な君と僕 第2期",
+          "userPreferred": "You and I Are Polar Opposites Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210031-TppgcHZh46LY.jpg",
+          "color": "#fe5093"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-26T08:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T20:52:20Z"
+  },
+  {
+    "title": "Seihantai na Kimi to Boku 2nd Season",
+    "route": "seihantai-na-kimi-to-boku-2nd-season",
+    "romaji": "Seihantai na Kimi to Boku 2nd Season",
+    "english": "You and I Are Polar Opposites 2nd Season",
+    "native": "正反対な君と僕 第2期",
+    "delayedFrom": "0001-01-01T08:30:00Z",
+    "delayedUntil": "0001-01-01T08:30:00Z",
+    "episodeDate": "2026-08-02T08:30:00Z",
+    "episodeNumber": 3,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 210031,
+        "idMal": 63832,
+        "title": {
+          "romaji": "Seihantai na Kimi to Boku 2nd Season",
+          "english": "You and I Are Polar Opposites Season 2",
+          "native": "正反対な君と僕 第2期",
+          "userPreferred": "You and I Are Polar Opposites Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210031-TppgcHZh46LY.jpg",
+          "color": "#fe5093"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 3,
+              "airingAt": "2026-08-02T08:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T20:52:20Z"
+  },
+  {
+    "title": "Seihantai na Kimi to Boku 2nd Season",
+    "route": "seihantai-na-kimi-to-boku-2nd-season",
+    "romaji": "Seihantai na Kimi to Boku 2nd Season",
+    "english": "You and I Are Polar Opposites 2nd Season",
+    "native": "正反対な君と僕 第2期",
+    "delayedFrom": "0001-01-01T08:30:00Z",
+    "delayedUntil": "0001-01-01T08:30:00Z",
+    "episodeDate": "2026-08-09T08:30:00Z",
+    "episodeNumber": 4,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 210031,
+        "idMal": 63832,
+        "title": {
+          "romaji": "Seihantai na Kimi to Boku 2nd Season",
+          "english": "You and I Are Polar Opposites Season 2",
+          "native": "正反対な君と僕 第2期",
+          "userPreferred": "You and I Are Polar Opposites Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210031-TppgcHZh46LY.jpg",
+          "color": "#fe5093"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-08-09T08:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T20:52:20Z"
+  },
+  {
+    "title": "Seihantai na Kimi to Boku 2nd Season",
+    "route": "seihantai-na-kimi-to-boku-2nd-season",
+    "romaji": "Seihantai na Kimi to Boku 2nd Season",
+    "english": "You and I Are Polar Opposites 2nd Season",
+    "native": "正反対な君と僕 第2期",
+    "delayedFrom": "0001-01-01T08:30:00Z",
+    "delayedUntil": "0001-01-01T08:30:00Z",
+    "episodeDate": "2026-07-19T08:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 210031,
+        "idMal": 63832,
+        "title": {
+          "romaji": "Seihantai na Kimi to Boku 2nd Season",
+          "english": "You and I Are Polar Opposites Season 2",
+          "native": "正反対な君と僕 第2期",
+          "userPreferred": "You and I Are Polar Opposites Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210031-TppgcHZh46LY.jpg",
+          "color": "#fe5093"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-19T08:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-19T08:30:00Z"
   },
   {
     "title": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach",
