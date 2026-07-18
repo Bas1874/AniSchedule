@@ -3466,8 +3466,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-07-18T09:30:00Z"
+              "episode": 14,
+              "airingAt": "2026-07-25T09:30:00Z"
             }
           ]
         }
@@ -3694,8 +3694,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-07-18T09:30:00Z"
+              "episode": 14,
+              "airingAt": "2026-07-25T09:30:00Z"
             }
           ]
         }
@@ -5226,7 +5226,7 @@
           "color": "#e48650"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -5282,7 +5282,7 @@
           "color": "#e48650"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -5338,7 +5338,7 @@
           "color": "#e48650"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -5394,7 +5394,7 @@
           "color": "#e48650"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -5450,7 +5450,7 @@
           "color": "#e48650"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -5794,8 +5794,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2026-07-18T10:25:00Z"
+              "episode": 17,
+              "airingAt": "2026-07-25T10:25:00Z"
             }
           ]
         }
@@ -6022,8 +6022,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2026-07-18T10:25:00Z"
+              "episode": 17,
+              "airingAt": "2026-07-25T10:25:00Z"
             }
           ]
         }
