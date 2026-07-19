@@ -4918,7 +4918,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 162694,
@@ -4947,8 +4947,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-19T14:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-26T14:00:00Z"
             }
           ]
         }
@@ -5142,7 +5142,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 162694,
@@ -5171,8 +5171,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-19T14:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-26T14:00:00Z"
             }
           ]
         }
@@ -6927,14 +6927,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-07-19T14:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-07-26T14:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-05T14:00:00Z"
   },
   {
@@ -6990,7 +6990,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-05T14:00:00Z"
   },
   {
@@ -7046,7 +7046,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-05T14:00:00Z"
   },
   {
@@ -7102,7 +7102,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-05T14:00:00Z"
   },
   {
@@ -7151,14 +7151,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-07-19T14:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-07-26T14:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-05T14:00:00Z"
   },
   {
