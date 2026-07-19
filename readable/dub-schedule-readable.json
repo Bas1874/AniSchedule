@@ -8886,7 +8886,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 210031,
@@ -8916,8 +8916,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-19T08:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-26T08:30:00Z"
             }
           ]
         }
@@ -9118,7 +9118,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 210031,
@@ -9148,8 +9148,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-19T08:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-26T08:30:00Z"
             }
           ]
         }
@@ -9202,7 +9202,7 @@
           "color": null
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209961-88hLnRWbwZiI.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -9260,7 +9260,7 @@
           "color": null
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209961-88hLnRWbwZiI.jpg",
         "airingSchedule": {
           "nodes": [
             {
