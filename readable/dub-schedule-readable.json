@@ -5239,8 +5239,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
-              "airingAt": "2026-07-20T16:00:00Z"
+              "episode": 15,
+              "airingAt": "2026-07-27T16:00:00Z"
             }
           ]
         }
@@ -5451,8 +5451,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
-              "airingAt": "2026-07-20T16:00:00Z"
+              "episode": 15,
+              "airingAt": "2026-07-27T16:00:00Z"
             }
           ]
         }
@@ -6705,6 +6705,214 @@
     },
     "verified": false,
     "addedAt": "2026-07-16T19:13:26Z"
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T02:00:00Z",
+    "delayedUntil": "0001-01-01T02:00:00Z",
+    "episodeDate": "2026-07-20T02:00:00Z",
+    "episodeNumber": 136,
+    "subtractedEpisodeNumber": 124,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 527,
+        "idMal": 527,
+        "title": {
+          "romaji": "Pocket Monsters",
+          "english": "Pokémon",
+          "native": "ポケットモンスター",
+          "userPreferred": "Pokémon"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1997,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b527-t6dBVJ5OVcXK.png",
+          "color": "#ffae00"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 124,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 125,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 126,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 127,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 128,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 129,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 130,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 131,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 132,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 133,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 134,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 135,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 136,
+              "airingAt": "2026-07-20T02:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-20T18:05:08Z"
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T02:00:00Z",
+    "delayedUntil": "0001-01-01T02:00:00Z",
+    "episodeDate": "2026-07-20T02:00:00Z",
+    "episodeNumber": 136,
+    "subtractedEpisodeNumber": 124,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 527,
+        "idMal": 527,
+        "title": {
+          "romaji": "Pocket Monsters",
+          "english": "Pokémon",
+          "native": "ポケットモンスター",
+          "userPreferred": "Pokémon"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1997,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b527-t6dBVJ5OVcXK.png",
+          "color": "#ffae00"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 124,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 125,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 126,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 127,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 128,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 129,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 130,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 131,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 132,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 133,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 134,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 135,
+              "airingAt": "2026-07-20T02:00:00Z"
+            },
+            {
+              "episode": 136,
+              "airingAt": "2026-07-20T02:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-20T18:05:08Z"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
