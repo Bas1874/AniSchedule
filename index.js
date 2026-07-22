@@ -342,6 +342,47 @@ export async function fetchDubSchedule() {
 
     const results = await AnimeResolver.resolveFileAnime(titles);
 
+    // --- Authoritative AniList ID correction (fixes "dub attached to an old finished season") ---
+    // Fuzzy title matching can resolve a sequel/special to the wrong (usually the
+    // original/most-popular) AniList entry, e.g. "100 Girlfriends 2nd Season" -> the 2023
+    // Season 1 id, or "Go-toubun no Hanayome*" -> the 2019 TV id. The Seanime plugin matches
+    // by media id, so users then see a dub episode painted onto a finished show in their list.
+    //
+    // We only re-check entries whose resolved AniList season year is more than a year before
+    // the episode's air year (the signature of that mis-resolution), so correctly-resolved
+    // current-season shows make ZERO extra API calls. For a suspect, animeschedule.net's own
+    // AniList URL for the route is treated as the source of truth.
+    for (const airingItem of airing) {
+        try {
+            const orderEntry = order.find(o => o.route === airingItem.route);
+            const result = results?.find(r => r.media?.title?.userPreferred === orderEntry?.title);
+            const resolvedMedia = result?.media;
+            if (!resolvedMedia?.id || !resolvedMedia?.seasonYear || !airingItem.episodeDate) continue;
+
+            const airYear = new Date(airingItem.episodeDate).getUTCFullYear();
+            if (!(airYear - resolvedMedia.seasonYear > 1)) continue; // not a suspect
+
+            const animeDetail = await fetchAiringSchedule({ type: 'anime', route: airingItem.route, token: BEARER_TOKEN });
+            let authoritative = null;
+            for (const url of [animeDetail?.websites?.aniList, animeDetail?.websites?.mal].filter(Boolean)) {
+                const match = url.match(mediaID);
+                if (!match) continue;
+                const res = await anilistClient.searchIDS({ ...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] }) });
+                authoritative = res?.data?.Page?.media?.[0];
+                if (authoritative) break;
+            }
+            if (authoritative && authoritative.id !== resolvedMedia.id) {
+                console.log(`Corrected ${airingItem.route}: resolved id ${resolvedMedia.id} (${resolvedMedia.title?.userPreferred}, ${resolvedMedia.seasonYear}) -> authoritative id ${authoritative.id} (${authoritative.title?.userPreferred}, ${authoritative.seasonYear}) from animeschedule.net.`);
+                changes.push(`(Dub) Corrected ${authoritative.title?.userPreferred} to AniList id ${authoritative.id} (was mis-resolved to ${resolvedMedia.title?.userPreferred}).`);
+                AnimeResolver.cacheAnimeName(authoritative.title.userPreferred, authoritative);
+                result.media = authoritative;
+                if (orderEntry) orderEntry.title = authoritative.title.userPreferred;
+            }
+        } catch (e) {
+            console.error(`ID correction check failed for ${airingItem.route}`, e);
+        }
+    }
+
     let combinedResults = airing.map(({ donghua, status, airType, imageVersionRoute, streams, airingStatus, ...airingItem }) => {
         const entry = order.find(o => o.route === airingItem.route);
         const mediaMatch = results?.find(result => result.media?.title?.userPreferred === entry?.title);
