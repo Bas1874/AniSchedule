@@ -21,30 +21,29 @@
     "unaired": false,
     "media": {
       "media": {
-        "id": 103572,
-        "idMal": 38101,
+        "id": 177191,
+        "idMal": 58755,
         "title": {
-          "romaji": "Go-toubun no Hanayome",
-          "english": "The Quintessential Quintuplets",
-          "native": "五等分の花嫁",
-          "userPreferred": "The Quintessential Quintuplets"
+          "romaji": "Go-toubun no Hanayome *",
+          "english": "The Quintessential Quintuplets Specials 2",
+          "native": "五等分の花嫁＊",
+          "userPreferred": "The Quintessential Quintuplets Specials 2"
         },
-        "format": "TV",
+        "format": "SPECIAL",
         "genres": [
           "Comedy",
           "Drama",
-          "Romance",
-          "Slice of Life"
+          "Romance"
         ],
         "duration": 24,
-        "seasonYear": 2019,
+        "seasonYear": 2024,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103572-cchriAdH95cQ.png",
-          "color": "#e4436b"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177191-ovNZsq8EbIPY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177191-ovNZsq8EbIPY.jpg",
+          "color": "#28d6e4"
         },
         "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103572-qRtBguYOOR2j.jpg",
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177191-iWzXRyn2fGvS.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -234,6 +233,122 @@
     },
     "verified": true,
     "addedAt": "2026-06-03T01:00:00Z"
+  },
+  {
+    "title": "Android wa Keiken Ninzuu ni Hairimasu ka?? Special",
+    "route": "android-wa-keiken-ninzuu-ni-hairimasu-ka-special",
+    "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka?? Special",
+    "english": "Does It Count If You Lose Your Innocence to an Android? Special",
+    "native": "アンドロイドは経験人数に入りますか??",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "episodeDate": "2026-07-29T01:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 5,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 192867,
+        "idMal": 61694,
+        "title": {
+          "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+          "english": "Does it Count if You Lose Your Innocence to an Android?",
+          "native": "アンドロイドは経験人数に入りますか？？",
+          "userPreferred": "Does it Count if You Lose Your Innocence to an Android?"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "duration": 4,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192867-AXAu2LP7YA7Y.jpg",
+          "color": "#f1d6bb"
+        },
+        "isAdult": true,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192867-r3UitttEQv8C.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-29T01:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-29T01:00:00Z"
+  },
+  {
+    "title": "Ansatsu Kyoushitsu: Minna no Jikan",
+    "route": "ansatsu-kyoushitsu-movie-minna-no-jikan",
+    "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
+    "english": "Assassination Classroom: Everyone's Time",
+    "native": "暗殺教室 みんなの時間",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2026-07-24T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 87,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 198373,
+        "idMal": 62421,
+        "title": {
+          "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
+          "english": "Assassination Classroom the Movie: Our Time",
+          "native": "暗殺教室 みんなの時間",
+          "userPreferred": "Assassination Classroom the Movie: Our Time"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": 87,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-bJ7PYyknp4ln.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198373-bJ7PYyknp4ln.jpg",
+          "color": "#f15d5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-24T00:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-24T00:00:00Z"
   },
   {
     "title": "BANANA FISH",
@@ -1217,6 +1332,64 @@
     "addedAt": "2026-05-04T02:56:21Z"
   },
   {
+    "title": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
+    "route": "isekai-no-sata-wa-shachiku-shidai-omoi-wo-hasemashita",
+    "romaji": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
+    "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter Special",
+    "native": "異世界の沙汰は社畜次第 OVA 「思いを馳せました」",
+    "delayedFrom": "0001-01-01T13:30:00Z",
+    "delayedUntil": "0001-01-01T13:30:00Z",
+    "episodeDate": "2026-07-21T13:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 212563,
+        "idMal": 63503,
+        "title": {
+          "romaji": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
+          "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - I Let My Thoughts Wander",
+          "native": "異世界の沙汰は社畜次第 思いを馳せました",
+          "userPreferred": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - I Let My Thoughts Wander"
+        },
+        "format": "OVA",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212563-8YkPUqUDReu9.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212563-8YkPUqUDReu9.png",
+          "color": "#e45d86"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-21T13:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-22T17:48:04Z"
+  },
+  {
     "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
     "route": "kabushikigaisha-magi-lumi-re-2nd-season",
     "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
@@ -1439,13 +1612,13 @@
     "unaired": false,
     "media": {
       "media": {
-        "id": 162694,
-        "idMal": 54714,
+        "id": 200637,
+        "idMal": 62811,
         "title": {
-          "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
-          "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
-          "native": "君のことが大大大大大好きな100人の彼女",
-          "userPreferred": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You"
+          "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+          "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+          "native": "君のことが大大大大大好きな100人の彼女 第3期",
+          "userPreferred": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3"
         },
         "format": "TV",
         "genres": [
@@ -1454,14 +1627,14 @@
           "Romance"
         ],
         "duration": 24,
-        "seasonYear": 2023,
+        "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162694-QFBei5pbjSh8.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162694-QFBei5pbjSh8.png",
-          "color": "#28aee4"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200637-QLR5uv9SbQ69.jpg",
+          "color": "#f193bb"
         },
         "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162694-PzaToQuFdpsr.jpg",
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1619,6 +1792,62 @@
     },
     "verified": true,
     "addedAt": "2026-07-04T04:34:50Z"
+  },
+  {
+    "title": "Koukaku Kidoutai (TV)",
+    "route": "koukaku-kidoutai-tv",
+    "romaji": "Koukaku Kidoutai (TV)",
+    "english": "The Ghost in the Shell (TV)",
+    "native": "攻殻機動隊（仮）",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-07-21T14:30:00Z",
+    "episodeNumber": 3,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177699,
+        "idMal": 58929,
+        "title": {
+          "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+          "english": "THE GHOST IN THE SHELL",
+          "native": "攻殻機動隊 THE GHOST IN THE SHELL",
+          "userPreferred": "THE GHOST IN THE SHELL"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Psychological",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177699-hnzc1CS5ZSM2.png",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-07-28T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-22T17:48:04Z"
   },
   {
     "title": "LIAR GAME",
@@ -2096,30 +2325,29 @@
     "unaired": false,
     "media": {
       "media": {
-        "id": 527,
-        "idMal": 527,
+        "id": 158871,
+        "idMal": 53876,
         "title": {
-          "romaji": "Pocket Monsters",
-          "english": "Pokémon",
-          "native": "ポケットモンスター",
-          "userPreferred": "Pokémon"
+          "romaji": "Pocket Monsters (2023)",
+          "english": "Pokémon Horizons: The Series",
+          "native": "ポケットモンスター (2023)",
+          "userPreferred": "Pokémon Horizons: The Series"
         },
         "format": "TV",
         "genres": [
           "Action",
           "Adventure",
-          "Comedy",
           "Fantasy"
         ],
         "duration": 24,
-        "seasonYear": 1997,
+        "seasonYear": 2023,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b527-t6dBVJ5OVcXK.png",
-          "color": "#ffae00"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg",
+          "color": "#e4bb28"
         },
         "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
         "airingSchedule": {
           "nodes": [
             {
