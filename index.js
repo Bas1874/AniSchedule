@@ -84,11 +84,15 @@ export async function fetchDubSchedule() {
     while (year < endYear || (year === endYear && week <= endWeek)) {
         console.log(`Fetching dub timetables for Year ${year}, Week ${week}...`);
         const fetchedData = await fetchAiringSchedule({ type: 'timetables', year, week, token: BEARER_TOKEN });
-        
-        // MODIFIED: This now adds ALL entries from the fetched data,
-        // instead of filtering out entries for shows that are already in the list.
+
+        // Dedupe by route across the multi-week fetch window: the timetables
+        // return each show once PER week it airs, so without this filter a
+        // weekly show gets one entry per week in the ~26-week window (5x+ dupes,
+        // each with a different future episode number). We only want the
+        // earliest/next upcoming episode per show.
         if (fetchedData) {
-            airingLists.update((lists) => [...lists, ...fetchedData]);
+            const newEntries = fetchedData.filter((item) => !airingLists.value.some((existing) => existing.route === item.route));
+            airingLists.update((lists) => [...lists, ...newEntries]);
         }
 
         await delay(500);
