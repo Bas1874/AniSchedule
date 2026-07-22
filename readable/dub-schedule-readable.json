@@ -4643,14 +4643,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-07-22T15:15:00Z"
+              "episode": 4,
+              "airingAt": "2026-07-29T15:15:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-08T15:15:00Z"
   },
   {
@@ -4707,7 +4707,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-08T15:15:00Z"
   },
   {
@@ -4764,7 +4764,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-08T15:15:00Z"
   },
   {
@@ -4821,7 +4821,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-08T15:15:00Z"
   },
   {
@@ -4871,14 +4871,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-07-22T15:15:00Z"
+              "episode": 4,
+              "airingAt": "2026-07-29T15:15:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-08T15:15:00Z"
   },
   {
@@ -7254,7 +7254,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 159309,
@@ -7284,8 +7284,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-22T15:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-29T15:30:00Z"
             }
           ]
         }
@@ -7486,7 +7486,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 159309,
@@ -7516,8 +7516,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-22T15:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-29T15:30:00Z"
             }
           ]
         }
