@@ -81,6 +81,13 @@ export async function fetchDubSchedule() {
     let year = startYear;
     let week = startWeek;
 
+    // Records EVERY weekly occurrence of each route across the fetch window
+    // (route -> [{ episodeNumber, subtractedEpisodeNumber, episodeDate }]). The schedule
+    // itself keeps only one entry per show (its next episode), but these real upcoming
+    // dates are later attached to that entry's airingSchedule.nodes so the plugin can show
+    // a proper forward view without re-introducing duplicate top-level entries.
+    const occurrencesByRoute = new Map();
+
     while (year < endYear || (year === endYear && week <= endWeek)) {
         console.log(`Fetching dub timetables for Year ${year}, Week ${week}...`);
         const fetchedData = await fetchAiringSchedule({ type: 'timetables', year, week, token: BEARER_TOKEN });
@@ -89,8 +96,18 @@ export async function fetchDubSchedule() {
         // return each show once PER week it airs, so without this filter a
         // weekly show gets one entry per week in the ~26-week window (5x+ dupes,
         // each with a different future episode number). We only want the
-        // earliest/next upcoming episode per show.
+        // earliest/next upcoming episode per show for the schedule list — but we
+        // still record every occurrence above for the airingSchedule.nodes.
         if (fetchedData) {
+            for (const item of fetchedData) {
+                if (!item?.route) continue;
+                if (!occurrencesByRoute.has(item.route)) occurrencesByRoute.set(item.route, []);
+                occurrencesByRoute.get(item.route).push({
+                    episodeNumber: item.episodeNumber,
+                    subtractedEpisodeNumber: item.subtractedEpisodeNumber,
+                    episodeDate: item.episodeDate
+                });
+            }
             const newEntries = fetchedData.filter((item) => !airingLists.value.some((existing) => existing.route === item.route));
             airingLists.update((lists) => [...lists, ...newEntries]);
         }
@@ -344,42 +361,79 @@ export async function fetchDubSchedule() {
 
     // --- Authoritative AniList ID correction (fixes "dub attached to an old finished season") ---
     // Fuzzy title matching can resolve a sequel/special to the wrong (usually the
-    // original/most-popular) AniList entry, e.g. "100 Girlfriends 2nd Season" -> the 2023
+    // original/most-popular) AniList entry, e.g. "100 Girlfriends 3rd Season" -> the 2023
     // Season 1 id, or "Go-toubun no Hanayome*" -> the 2019 TV id. The Seanime plugin matches
     // by media id, so users then see a dub episode painted onto a finished show in their list.
     //
-    // We only re-check entries whose resolved AniList season year is more than a year before
-    // the episode's air year (the signature of that mis-resolution), so correctly-resolved
-    // current-season shows make ZERO extra API calls. For a suspect, animeschedule.net's own
-    // AniList URL for the route is treated as the source of truth.
+    // A suspect must (a) have resolved to an AniList entry whose season year is >1 year before
+    // the episode's air year AND (b) carry a clear later-season/special marker in its route or
+    // title. That combination is the fingerprint of a sequel collapsing onto its Season 1;
+    // requiring both keeps legitimately-old dubs (movies, Pokémon, long-runners, Ghost in the
+    // Shell, etc.) from firing needless lookups. For a suspect, animeschedule.net's own AniList
+    // URL for the route is the source of truth. All AniList lookups are BATCHED into a single
+    // request (id_in / idMal_in) so this adds at most two AniList calls total, no matter how
+    // many suspects there are.
+    const idSuspects = [];
     for (const airingItem of airing) {
-        try {
-            const orderEntry = order.find(o => o.route === airingItem.route);
-            const result = results?.find(r => r.media?.title?.userPreferred === orderEntry?.title);
-            const resolvedMedia = result?.media;
-            if (!resolvedMedia?.id || !resolvedMedia?.seasonYear || !airingItem.episodeDate) continue;
+        const orderEntry = order.find(o => o.route === airingItem.route);
+        const result = results?.find(r => r.media?.title?.userPreferred === orderEntry?.title);
+        const resolvedMedia = result?.media;
+        if (!resolvedMedia?.id || !resolvedMedia?.seasonYear || !airingItem.episodeDate) continue;
+        const airYear = new Date(airingItem.episodeDate).getUTCFullYear();
+        const seasonGap = airYear - resolvedMedia.seasonYear > 1;
+        const label = `${airingItem.route || ''} ${airingItem.romaji || ''} ${airingItem.english || ''}`;
+        const sequelMarker = /(\bS\d+\b|\b(?:II|III|IV)\b|\b\d+(?:st|nd|rd|th)\s+Season\b|\bSeason\s+\d+\b|[*∽~＊])/i.test(label);
+        if (seasonGap && sequelMarker) idSuspects.push({ airingItem, orderEntry, result, resolvedMedia });
+    }
 
-            const airYear = new Date(airingItem.episodeDate).getUTCFullYear();
-            if (!(airYear - resolvedMedia.seasonYear > 1)) continue; // not a suspect
-
-            const animeDetail = await fetchAiringSchedule({ type: 'anime', route: airingItem.route, token: BEARER_TOKEN });
-            let authoritative = null;
-            for (const url of [animeDetail?.websites?.aniList, animeDetail?.websites?.mal].filter(Boolean)) {
-                const match = url.match(mediaID);
-                if (!match) continue;
-                const res = await anilistClient.searchIDS({ ...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] }) });
-                authoritative = res?.data?.Page?.media?.[0];
-                if (authoritative) break;
+    if (idSuspects.length) {
+        // Phase 1: get each suspect's authoritative AniList/MAL id from animeschedule.net.
+        // These are per-route (animeschedule has no batch endpoint) and throttled — but they
+        // hit animeschedule, not the rate-limited AniList API.
+        const wantIds = new Set();
+        const wantMalIds = new Set();
+        for (const s of idSuspects) {
+            try {
+                await delay(300);
+                const animeDetail = await fetchAiringSchedule({ type: 'anime', route: s.airingItem.route, token: BEARER_TOKEN });
+                for (const url of [animeDetail?.websites?.aniList, animeDetail?.websites?.mal].filter(Boolean)) {
+                    const match = url.match(mediaID);
+                    if (!match) continue;
+                    if (url.toLowerCase().includes('anilist')) { s.wantId = Number(match[1]); wantIds.add(s.wantId); }
+                    else { s.wantMalId = Number(match[1]); wantMalIds.add(s.wantMalId); }
+                }
+            } catch (e) {
+                console.error(`ID correction lookup failed for ${s.airingItem.route}`, e);
             }
-            if (authoritative && authoritative.id !== resolvedMedia.id) {
-                console.log(`Corrected ${airingItem.route}: resolved id ${resolvedMedia.id} (${resolvedMedia.title?.userPreferred}, ${resolvedMedia.seasonYear}) -> authoritative id ${authoritative.id} (${authoritative.title?.userPreferred}, ${authoritative.seasonYear}) from animeschedule.net.`);
-                changes.push(`(Dub) Corrected ${authoritative.title?.userPreferred} to AniList id ${authoritative.id} (was mis-resolved to ${resolvedMedia.title?.userPreferred}).`);
-                AnimeResolver.cacheAnimeName(authoritative.title.userPreferred, authoritative);
-                result.media = authoritative;
-                if (orderEntry) orderEntry.title = authoritative.title.userPreferred;
+        }
+
+        // Phase 2: ONE batched AniList request for all authoritative ids (and one more only if
+        // some suspects had a MAL url but no AniList url).
+        const byId = new Map();
+        const byMal = new Map();
+        try {
+            if (wantIds.size) {
+                const res = await anilistClient.searchIDS({ id: [...wantIds], perPage: 50 });
+                for (const m of (res?.data?.Page?.media || [])) byId.set(m.id, m);
+            }
+            if (wantMalIds.size) {
+                const res = await anilistClient.searchIDS({ idMal: [...wantMalIds], perPage: 50 });
+                for (const m of (res?.data?.Page?.media || [])) byMal.set(m.idMal, m);
             }
         } catch (e) {
-            console.error(`ID correction check failed for ${airingItem.route}`, e);
+            console.error('Batched AniList id lookup for corrections failed', e);
+        }
+
+        // Phase 3: apply corrections from the batched results.
+        for (const s of idSuspects) {
+            const authoritative = (s.wantId && byId.get(s.wantId)) || (s.wantMalId && byMal.get(s.wantMalId));
+            if (authoritative && authoritative.id !== s.resolvedMedia.id) {
+                console.log(`Corrected ${s.airingItem.route}: resolved id ${s.resolvedMedia.id} (${s.resolvedMedia.title?.userPreferred}, ${s.resolvedMedia.seasonYear}) -> authoritative id ${authoritative.id} (${authoritative.title?.userPreferred}, ${authoritative.seasonYear}) from animeschedule.net.`);
+                changes.push(`(Dub) Corrected ${authoritative.title?.userPreferred} to AniList id ${authoritative.id} (was mis-resolved to ${s.resolvedMedia.title?.userPreferred}).`);
+                AnimeResolver.cacheAnimeName(authoritative.title.userPreferred, authoritative);
+                s.result.media = authoritative;
+                if (s.orderEntry) s.orderEntry.title = authoritative.title.userPreferred;
+            }
         }
     }
 
@@ -390,18 +444,30 @@ export async function fetchDubSchedule() {
         const predictedEpisode = airingItem.episodeNumber + ((numberOfEpisodes > 4) && (airingStatus === 'aired') && !airingItem.unaired ? 0 : ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil) < new Date()) && (!airingItem.episodes || (airingItem.episodeNumber < airingItem.episodes)) ? ((airingItem.subtractedEpisodeNumber >= 1 && (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) > 1 ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 0) + 1) : 0));
         const range = (start, end) => Array.from({ length: end - start + 1 }, (_, i) => start + i);
 
+        // Nodes for the current airing (unchanged: handles the current/multi-header episode).
+        const currentNodes = range(airingItem.subtractedEpisodeNumber || predictedEpisode, predictedEpisode).map((ep) => ({
+            episode: ep,
+            airingAt: past(new Date((new Date(airingItem.delayedUntil) < new Date()) ? airingItem.episodeDate : airingItem.delayedUntil), (airingItem.episodeNumber < ep ? 1 : 0), false)
+        }));
+
+        // Append the REAL upcoming episodes gathered from later weeks of the animeschedule
+        // window so the plugin can render a true forward view (accurate dates, not guesses).
+        const nodeByEp = new Map(currentNodes.map((n) => [n.episode, n]));
+        const normDate = (d) => { const x = new Date(d); x.setMinutes(Math.floor((x.getMinutes() + 1) / 5) * 5, 0); return past(x, 0, true); };
+        for (const occ of (occurrencesByRoute.get(airingItem.route) || [])) {
+            if (occ.episodeNumber > airingItem.episodeNumber && !nodeByEp.has(occ.episodeNumber)) {
+                nodeByEp.set(occ.episodeNumber, { episode: occ.episodeNumber, airingAt: normDate(occ.episodeDate) });
+            }
+        }
+        const nodes = [...nodeByEp.values()].sort((a, b) => a.episode - b.episode);
+
         return {
             ...airingItem,
             ...(mediaMatch && {
                 media: {
                     media: {
                         ...mediaMatch.media,
-                        airingSchedule: {
-                            nodes: range(airingItem.subtractedEpisodeNumber || predictedEpisode, predictedEpisode).map((ep) => ({
-                                episode: ep,
-                                airingAt: past(new Date((new Date(airingItem.delayedUntil) < new Date()) ? airingItem.episodeDate : airingItem.delayedUntil), (airingItem.episodeNumber < ep ? 1 : 0), false)
-                            }))
-                        }
+                        airingSchedule: { nodes }
                     }
                 }
             })
