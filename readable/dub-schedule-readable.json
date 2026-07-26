@@ -935,7 +935,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 188139,
@@ -962,10 +962,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-bxOal1Q2Ehlr.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-07-26T15:45:00Z"
-            },
             {
               "episode": 2,
               "airingAt": "2026-08-02T15:45:00Z"
@@ -2651,10 +2647,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-07-26T15:30:00Z"
-            },
             {
               "episode": 5,
               "airingAt": "2026-08-02T15:30:00Z"
