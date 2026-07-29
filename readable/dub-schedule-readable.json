@@ -17,7 +17,7 @@
         "route": "special"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 192867,
@@ -1878,7 +1878,7 @@
         "id": 204466,
         "idMal": 63150,
         "title": {
-          "romaji": "Otome Kaijuu Caramelise",
+          "romaji": "Otome Kaijuu Caraméliser",
           "english": "KAIJU GIRL CARAMELISE",
           "native": "乙女怪獣キャラメリゼ",
           "userPreferred": "KAIJU GIRL CARAMELISE"
