@@ -11,6 +11,17 @@
     }
   },
   {
+    "id": 178788,
+    "idMal": 59192,
+    "format": "MOVIE",
+    "duration": 155,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-07-28T15:00:00Z",
+      "addedAt": "2026-07-29T10:39:04Z"
+    }
+  },
+  {
     "id": 197754,
     "idMal": 62331,
     "format": "TV",
@@ -22349,17 +22360,6 @@
       "aired": 11,
       "airedAt": "2025-09-12T04:00:00Z",
       "addedAt": "2025-12-12T09:26:29Z"
-    }
-  },
-  {
-    "id": 178788,
-    "idMal": 59192,
-    "format": "MOVIE",
-    "duration": 155,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2025-09-12T04:00:00Z",
-      "addedAt": "2025-09-12T20:41:04Z"
     }
   },
   {
