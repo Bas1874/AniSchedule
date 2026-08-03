@@ -258,6 +258,10 @@
             {
               "episode": 8,
               "airingAt": "2026-08-22T13:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-29T13:00:00Z"
             }
           ]
         }
@@ -323,6 +327,10 @@
             {
               "episode": 6,
               "airingAt": "2026-08-20T12:40:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-27T12:40:00Z"
             }
           ]
         }
@@ -386,6 +394,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-19T12:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-26T12:00:00Z"
             }
           ]
         }
@@ -451,6 +463,10 @@
             {
               "episode": 5,
               "airingAt": "2026-08-19T17:20:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-26T17:20:00Z"
             }
           ]
         }
@@ -570,6 +586,10 @@
             {
               "episode": 5,
               "airingAt": "2026-08-23T15:45:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-30T15:45:00Z"
             }
           ]
         }
@@ -636,6 +656,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-17T13:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-24T13:00:00Z"
             }
           ]
         }
@@ -700,6 +724,10 @@
             {
               "episode": 8,
               "airingAt": "2026-08-22T16:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-29T16:00:00Z"
             }
           ]
         }
@@ -764,6 +792,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-22T17:30:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-29T17:30:00Z"
             }
           ]
         }
@@ -830,6 +862,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-19T16:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-26T16:00:00Z"
             }
           ]
         }
@@ -895,6 +931,10 @@
             {
               "episode": 3,
               "airingAt": "2026-08-19T17:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-26T17:00:00Z"
             }
           ]
         }
@@ -1017,6 +1057,10 @@
             {
               "episode": 17,
               "airingAt": "2026-08-22T09:30:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2026-08-29T09:30:00Z"
             }
           ]
         }
@@ -1082,6 +1126,10 @@
             {
               "episode": 8,
               "airingAt": "2026-08-22T17:25:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-29T17:25:00Z"
             }
           ]
         }
@@ -1147,6 +1195,10 @@
             {
               "episode": 18,
               "airingAt": "2026-08-21T15:30:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-08-28T15:30:00Z"
             }
           ]
         }
@@ -1212,6 +1264,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-19T15:15:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-26T15:15:00Z"
             }
           ]
         }
@@ -1276,6 +1332,10 @@
             {
               "episode": 6,
               "airingAt": "2026-08-23T14:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-30T14:00:00Z"
             }
           ]
         }
@@ -1341,6 +1401,10 @@
             {
               "episode": 11,
               "airingAt": "2026-08-19T17:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-08-26T17:00:00Z"
             }
           ]
         }
@@ -1405,6 +1469,10 @@
             {
               "episode": 8,
               "airingAt": "2026-08-21T15:30:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-28T15:30:00Z"
             }
           ]
         }
@@ -1466,6 +1534,10 @@
             {
               "episode": 18,
               "airingAt": "2026-08-17T16:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-08-24T16:00:00Z"
             }
           ]
         }
@@ -1531,6 +1603,10 @@
             {
               "episode": 21,
               "airingAt": "2026-08-22T10:25:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-08-29T10:25:00Z"
             }
           ]
         }
@@ -1538,6 +1614,110 @@
     },
     "verified": false,
     "addedAt": "2026-07-22T18:12:28Z"
+  },
+  {
+    "title": "MAO",
+    "route": "mao",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-24T07:00:00Z",
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 26,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 196012,
+        "idMal": 62048,
+        "title": {
+          "romaji": "MAO",
+          "english": "MAO",
+          "native": "MAO",
+          "userPreferred": "MAO"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-R3YNjunufpYh.jpg",
+          "color": "#f1935d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-08-24T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-24T07:00:00Z"
   },
   {
     "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
@@ -1597,6 +1777,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-23T15:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-30T15:00:00Z"
             }
           ]
         }
@@ -1661,6 +1845,10 @@
             {
               "episode": 8,
               "airingAt": "2026-08-23T14:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-30T14:00:00Z"
             }
           ]
         }
@@ -1725,6 +1913,10 @@
             {
               "episode": 6,
               "airingAt": "2026-08-20T17:30:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-27T17:30:00Z"
             }
           ]
         }
@@ -1791,6 +1983,10 @@
             {
               "episode": 5,
               "airingAt": "2026-08-19T15:30:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-26T15:30:00Z"
             }
           ]
         }
@@ -1857,6 +2053,10 @@
             {
               "episode": 13,
               "airingAt": "2026-08-19T14:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-08-26T14:00:00Z"
             }
           ]
         }
@@ -1974,6 +2174,10 @@
             {
               "episode": 21,
               "airingAt": "2026-08-22T01:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-08-29T01:00:00Z"
             }
           ]
         }
@@ -2038,6 +2242,10 @@
             {
               "episode": 8,
               "airingAt": "2026-08-23T15:30:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-30T15:30:00Z"
             }
           ]
         }
@@ -2104,6 +2312,10 @@
             {
               "episode": 6,
               "airingAt": "2026-08-23T08:30:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-30T08:30:00Z"
             }
           ]
         }
@@ -2254,6 +2466,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-20T15:30:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-27T15:30:00Z"
             }
           ]
         }
@@ -2312,6 +2528,10 @@
             {
               "episode": 1,
               "airingAt": "2026-08-19T17:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-26T17:00:00Z"
             }
           ]
         }
@@ -2374,6 +2594,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-22T16:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-29T16:00:00Z"
             }
           ]
         }
@@ -2439,6 +2663,10 @@
             {
               "episode": 18,
               "airingAt": "2026-08-21T15:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-08-28T15:00:00Z"
             }
           ]
         }
@@ -2557,6 +2785,10 @@
             {
               "episode": 7,
               "airingAt": "2026-08-19T16:30:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-26T16:30:00Z"
             }
           ]
         }
@@ -2621,6 +2853,10 @@
             {
               "episode": 6,
               "airingAt": "2026-08-20T18:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-27T18:00:00Z"
             }
           ]
         }
@@ -2628,6 +2864,59 @@
     },
     "verified": false,
     "addedAt": "2026-07-22T18:12:28Z"
+  },
+  {
+    "title": "World Is Dancing",
+    "route": "world-is-dancing",
+    "native": "ワールド イズ ダンシング",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-08-26T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 206521,
+        "idMal": 63347,
+        "title": {
+          "romaji": "World Is Dancing",
+          "english": "The World Is Dancing",
+          "native": "ワールド イズ ダンシング",
+          "userPreferred": "The World Is Dancing"
+        },
+        "format": "ONA",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206521-ecJuDgjth84C.png",
+          "color": "#e45d78"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-26T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-26T17:00:00Z"
   },
   {
     "title": "Yani Neko",
@@ -2685,6 +2974,10 @@
             {
               "episode": 6,
               "airingAt": "2026-08-20T16:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-27T16:00:00Z"
             }
           ]
         }
@@ -2752,6 +3045,10 @@
             {
               "episode": 18,
               "airingAt": "2026-08-22T16:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-08-29T16:00:00Z"
             }
           ]
         }
@@ -2817,6 +3114,10 @@
             {
               "episode": 9,
               "airingAt": "2026-08-19T17:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-08-26T17:00:00Z"
             }
           ]
         }
