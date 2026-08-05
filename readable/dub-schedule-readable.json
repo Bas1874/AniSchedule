@@ -644,9 +644,9 @@
     "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga Hinamiya Chou Nezumi Torikae Den",
     "english": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
     "native": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-    "delayedFrom": "0001-01-01T15:45:00Z",
-    "delayedUntil": "0001-01-01T15:45:00Z",
-    "episodeDate": "2026-08-09T15:45:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-04T07:00:00Z",
     "episodeNumber": 3,
     "episodes": 11,
     "lengthMin": 23,
@@ -684,20 +684,16 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-08-09T15:45:00Z"
-            },
-            {
               "episode": 4,
-              "airingAt": "2026-08-16T15:45:00Z"
+              "airingAt": "2026-08-11T07:00:00Z"
             },
             {
               "episode": 5,
-              "airingAt": "2026-08-23T15:45:00Z"
+              "airingAt": "2026-08-18T07:00:00Z"
             },
             {
               "episode": 6,
-              "airingAt": "2026-08-30T15:45:00Z"
+              "airingAt": "2026-08-25T07:00:00Z"
             }
           ]
         }
@@ -989,7 +985,7 @@
     "episodeDate": "2026-08-05T17:00:00Z",
     "episodeNumber": 1,
     "episodes": 13,
-    "lengthMin": 25,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1900,7 +1896,7 @@
     "episodeDate": "2026-08-09T14:00:00Z",
     "episodeNumber": 6,
     "episodes": 13,
-    "lengthMin": 25,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2442,7 +2438,7 @@
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 213847,
