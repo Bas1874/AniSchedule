@@ -1971,10 +1971,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-08-06T17:30:00Z"
-            },
-            {
               "episode": 5,
               "airingAt": "2026-08-13T17:30:00Z"
             },
@@ -2594,10 +2590,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-08-06T15:30:00Z"
-            },
-            {
               "episode": 6,
               "airingAt": "2026-08-13T15:30:00Z"
             },
@@ -2977,10 +2969,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-08-06T18:00:00Z"
-            },
-            {
               "episode": 5,
               "airingAt": "2026-08-13T18:00:00Z"
             },
@@ -3097,10 +3085,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-08-06T16:00:00Z"
-            },
             {
               "episode": 5,
               "airingAt": "2026-08-13T16:00:00Z"
