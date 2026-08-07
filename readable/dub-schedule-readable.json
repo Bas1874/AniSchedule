@@ -2929,9 +2929,9 @@
     "romaji": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
     "english": "The Exiled Heavy Knight Knows How to Game the System",
     "native": "追放された転生重騎士はゲーム知識で無双する",
-    "delayedFrom": "0001-01-01T18:00:00Z",
-    "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2026-08-06T18:00:00Z",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-08-06T16:00:00Z",
     "episodeNumber": 4,
     "episodes": 26,
     "lengthMin": 23,
@@ -2970,15 +2970,15 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-08-13T18:00:00Z"
+              "airingAt": "2026-08-13T16:00:00Z"
             },
             {
               "episode": 6,
-              "airingAt": "2026-08-20T18:00:00Z"
+              "airingAt": "2026-08-20T16:00:00Z"
             },
             {
               "episode": 7,
-              "airingAt": "2026-08-27T18:00:00Z"
+              "airingAt": "2026-08-27T16:00:00Z"
             }
           ]
         }
@@ -3289,6 +3289,14 @@
             {
               "episode": 32,
               "airingAt": "2032-01-01T12:00:00Z"
+            },
+            {
+              "episode": 67,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 68,
+              "airingAt": "2026-08-12T12:00:00Z"
             }
           ]
         }
