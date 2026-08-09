@@ -1893,10 +1893,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-08-09T15:00:00Z"
-            },
-            {
               "episode": 6,
               "airingAt": "2026-08-16T15:00:00Z"
             },
@@ -2415,10 +2411,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 6,
-              "airingAt": "2026-08-09T15:30:00Z"
-            },
             {
               "episode": 7,
               "airingAt": "2026-08-16T15:30:00Z"
