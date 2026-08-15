@@ -1279,9 +1279,8 @@
     "romaji": "Kore Kaite Shine",
     "english": "Draw This, Then Die!",
     "native": "これ描いて死ね",
-    "delayedText": "Delayed",
-    "delayedFrom": "2026-08-14T15:30:00Z",
-    "delayedUntil": "2026-08-21T15:30:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-08-14T15:30:00Z",
     "episodeNumber": 7,
     "episodes": 12,
@@ -1320,15 +1319,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 8,
               "airingAt": "2026-08-21T15:30:00Z"
             },
             {
-              "episode": 8,
+              "episode": 9,
               "airingAt": "2026-08-28T15:30:00Z"
             },
             {
-              "episode": 9,
+              "episode": 10,
               "airingAt": "2026-09-04T15:30:00Z"
             }
           ]
