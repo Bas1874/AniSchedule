@@ -59,8 +59,8 @@
     "route": "black-torch",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-08-22T13:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-08-29T13:00:00Z",
+    "episodeNumber": 9,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -99,10 +99,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-22T13:00:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-08-29T13:00:00Z"
             },
@@ -113,6 +109,10 @@
             {
               "episode": 11,
               "airingAt": "2026-09-12T13:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-09-19T13:00:00Z"
             }
           ]
         }
@@ -129,8 +129,8 @@
     "native": "文豪ストレイドッグスわん！2",
     "delayedFrom": "0001-01-01T12:40:00Z",
     "delayedUntil": "0001-01-01T12:40:00Z",
-    "episodeDate": "2026-08-20T12:40:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-08-27T12:40:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 12,
     "mediaTypes": [
@@ -178,6 +178,10 @@
             {
               "episode": 9,
               "airingAt": "2026-09-10T12:40:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-09-17T12:40:00Z"
             }
           ]
         }
@@ -192,8 +196,8 @@
     "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2026-08-19T12:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-26T12:00:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -241,6 +245,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-09T12:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-16T12:00:00Z"
             }
           ]
         }
@@ -312,8 +320,8 @@
     "native": "도굴왕",
     "delayedFrom": "0001-01-01T17:20:00Z",
     "delayedUntil": "0001-01-01T17:20:00Z",
-    "episodeDate": "2026-08-19T17:20:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-26T17:20:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -361,6 +369,10 @@
             {
               "episode": 8,
               "airingAt": "2026-09-09T17:20:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-09-16T17:20:00Z"
             }
           ]
         }
@@ -425,62 +437,6 @@
     "addedAt": "2026-07-22T18:12:28Z"
   },
   {
-    "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
-    "route": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
-    "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga Hinamiya Chou Nezumi Torikae Den",
-    "english": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
-    "native": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-08-19T07:00:00Z",
-    "episodeNumber": 5,
-    "episodes": 11,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188139,
-        "idMal": 61240,
-        "title": {
-          "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
-          "english": "Though I Am an Inept Villainess",
-          "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~",
-          "userPreferred": "Though I Am an Inept Villainess"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188139-1qIJfWxym8FX.jpg",
-          "color": "#0d86fe"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 6,
-              "airingAt": "2026-08-26T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-08-20T01:14:07Z"
-  },
-  {
     "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
     "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
     "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
@@ -488,8 +444,8 @@
     "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-08-17T13:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-24T13:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -538,6 +494,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-07T13:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-14T13:00:00Z"
             }
           ]
         }
@@ -554,8 +514,8 @@
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-22T16:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-08-29T16:00:00Z",
+    "episodeNumber": 9,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -592,10 +552,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-22T16:00:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-08-29T16:00:00Z"
             },
@@ -606,6 +562,10 @@
             {
               "episode": 11,
               "airingAt": "2026-09-12T16:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-09-19T16:00:00Z"
             }
           ]
         }
@@ -622,8 +582,8 @@
     "native": "花織さんは転生しても喧嘩がしたい",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2026-08-22T17:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-29T17:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -661,10 +621,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-22T17:30:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2026-08-29T17:30:00Z"
             },
@@ -675,6 +631,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-12T17:30:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-19T17:30:00Z"
             }
           ]
         }
@@ -691,8 +651,8 @@
     "native": "花ざかりの君たちへ 第2期",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-19T16:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-26T16:00:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -741,6 +701,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-09T16:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-16T16:00:00Z"
             }
           ]
         }
@@ -757,8 +721,8 @@
     "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-08-19T17:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-08-26T17:00:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -792,7 +756,7 @@
           "color": "#0dbbf1"
         },
         "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-dKykF3rBGfik.jpg",
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -806,6 +770,10 @@
             {
               "episode": 6,
               "airingAt": "2026-09-09T17:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-09-16T17:00:00Z"
             }
           ]
         }
@@ -822,8 +790,8 @@
     "native": "本好きの下剋上 領主の養女",
     "delayedFrom": "2026-07-18T09:30:00Z",
     "delayedUntil": "2026-07-25T09:30:00Z",
-    "episodeDate": "2026-08-22T09:30:00Z",
-    "episodeNumber": 17,
+    "episodeDate": "2026-08-29T09:30:00Z",
+    "episodeNumber": 18,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -861,10 +829,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 17,
-              "airingAt": "2026-08-22T09:30:00Z"
-            },
-            {
               "episode": 18,
               "airingAt": "2026-08-29T09:30:00Z"
             },
@@ -875,6 +839,10 @@
             {
               "episode": 20,
               "airingAt": "2026-09-12T09:30:00Z"
+            },
+            {
+              "episode": 21,
+              "airingAt": "2026-09-19T09:30:00Z"
             }
           ]
         }
@@ -891,8 +859,8 @@
     "native": "株式会社マジルミエ 第2期",
     "delayedFrom": "0001-01-01T17:25:00Z",
     "delayedUntil": "0001-01-01T17:25:00Z",
-    "episodeDate": "2026-08-22T17:25:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-08-29T17:25:00Z",
+    "episodeNumber": 9,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -930,10 +898,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-22T17:25:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-08-29T17:25:00Z"
             },
@@ -944,6 +908,10 @@
             {
               "episode": 11,
               "airingAt": "2026-09-12T17:25:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-09-19T17:25:00Z"
             }
           ]
         }
@@ -953,69 +921,6 @@
     "addedAt": "2026-07-22T18:12:28Z"
   },
   {
-    "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
-    "route": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
-    "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
-    "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
-    "native": "かぐや様は告らせたい 大人への階段",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "episodeDate": "2026-08-21T00:00:00Z",
-    "episodeNumber": 2,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 2,
-    "lengthMin": 25,
-    "mediaTypes": [
-      {
-        "name": "Special",
-        "route": "special"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 194884,
-        "idMal": 61903,
-        "title": {
-          "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
-          "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
-          "native": "かぐや様は告らせたい 大人への階段",
-          "userPreferred": "Kaguya-sama: Love Is War -Stairway to Adulthood-"
-        },
-        "format": "SPECIAL",
-        "genres": [
-          "Comedy",
-          "Psychological",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 26,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194884-rHgGAzKSCEWz.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194884-rHgGAzKSCEWz.jpg",
-          "color": "#1a78ff"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194884-PwYRWyOUEwZI.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-08-21T00:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2026-08-21T00:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-08-21T00:00:00Z"
-  },
-  {
     "title": "Kami no Shizuku",
     "route": "kami-no-shizuku",
     "romaji": "Kami no Shizuku",
@@ -1023,8 +928,8 @@
     "native": "神の雫",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-08-21T15:30:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2026-08-28T15:30:00Z",
+    "episodeNumber": 19,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1062,10 +967,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 18,
-              "airingAt": "2026-08-21T15:30:00Z"
-            },
-            {
               "episode": 19,
               "airingAt": "2026-08-28T15:30:00Z"
             },
@@ -1076,6 +977,10 @@
             {
               "episode": 21,
               "airingAt": "2026-09-11T15:30:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-09-18T15:30:00Z"
             }
           ]
         }
@@ -1092,8 +997,8 @@
     "native": "片田舎のおっさん、剣聖になる 第二期",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2026-08-19T15:15:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-26T15:15:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1142,6 +1047,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-09T15:15:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-16T15:15:00Z"
             }
           ]
         }
@@ -1216,8 +1125,8 @@
     "native": "君のことが大大大大大好きな100人の彼女 第3期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-08-23T14:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-08-30T14:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1255,10 +1164,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-08-23T14:00:00Z"
-            },
-            {
               "episode": 7,
               "airingAt": "2026-08-30T14:00:00Z"
             },
@@ -1269,6 +1174,10 @@
             {
               "episode": 9,
               "airingAt": "2026-09-13T14:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-09-20T14:00:00Z"
             }
           ]
         }
@@ -1285,8 +1194,8 @@
     "native": "霧尾ファンクラブ",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-08-19T17:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-08-26T17:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1342,8 +1251,8 @@
     "native": "これ描いて死ね",
     "delayedFrom": "2026-08-14T15:30:00Z",
     "delayedUntil": "2026-08-21T15:30:00Z",
-    "episodeDate": "2026-08-21T15:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-28T15:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1380,10 +1289,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-21T15:30:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2026-08-28T15:30:00Z"
             },
@@ -1394,6 +1299,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-11T15:30:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-18T15:30:00Z"
             }
           ]
         }
@@ -1408,8 +1317,8 @@
     "native": "ライアーゲーム",
     "delayedFrom": "2026-07-06T16:00:00Z",
     "delayedUntil": "2026-07-13T16:00:00Z",
-    "episodeDate": "2026-08-17T16:00:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2026-08-24T16:00:00Z",
+    "episodeNumber": 19,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1455,6 +1364,10 @@
             {
               "episode": 21,
               "airingAt": "2026-09-07T16:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-09-14T16:00:00Z"
             }
           ]
         }
@@ -1471,8 +1384,8 @@
     "native": "魔入りました！入間くん 第4シリーズ",
     "delayedFrom": "2026-08-08T10:25:00Z",
     "delayedUntil": "2026-08-22T10:25:00Z",
-    "episodeDate": "2026-08-22T10:25:00Z",
-    "episodeNumber": 19,
+    "episodeDate": "2026-08-29T10:25:00Z",
+    "episodeNumber": 20,
     "episodes": 24,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1510,10 +1423,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 19,
-              "airingAt": "2026-08-22T10:25:00Z"
-            },
-            {
               "episode": 20,
               "airingAt": "2026-08-29T10:25:00Z"
             },
@@ -1524,6 +1433,10 @@
             {
               "episode": 22,
               "airingAt": "2026-09-12T10:25:00Z"
+            },
+            {
+              "episode": 23,
+              "airingAt": "2026-09-19T10:25:00Z"
             }
           ]
         }
@@ -1644,8 +1557,8 @@
     "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-08-23T15:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-30T15:00:00Z",
+    "episodeNumber": 8,
     "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1684,10 +1597,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-23T15:00:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2026-08-30T15:00:00Z"
             },
@@ -1698,6 +1607,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-13T15:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-20T15:00:00Z"
             }
           ]
         }
@@ -1714,8 +1627,8 @@
     "native": "逃げ上手の若君 第二期",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-21T16:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-08-28T16:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1724,7 +1637,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 182616,
@@ -1752,10 +1665,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-08-21T16:00:00Z"
-            },
-            {
               "episode": 2,
               "airingAt": "2026-08-28T16:00:00Z"
             },
@@ -1766,6 +1675,10 @@
             {
               "episode": 4,
               "airingAt": "2026-09-11T16:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-09-18T16:00:00Z"
             }
           ]
         }
@@ -1782,8 +1695,8 @@
     "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-08-23T14:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-08-30T14:00:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1820,10 +1733,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-23T14:00:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-08-30T14:00:00Z"
             },
@@ -1834,6 +1743,10 @@
             {
               "episode": 11,
               "airingAt": "2026-09-13T14:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-09-20T14:00:00Z"
             }
           ]
         }
@@ -1850,8 +1763,8 @@
     "native": "乙女怪獣キャラメリゼ",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2026-08-20T17:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-08-27T17:30:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1899,6 +1812,10 @@
             {
               "episode": 9,
               "airingAt": "2026-09-10T17:30:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-09-17T17:30:00Z"
             }
           ]
         }
@@ -1915,8 +1832,8 @@
     "native": "乙女ゲー世界はモブに厳しい世界です 第2期",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-08-19T15:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-26T15:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1965,6 +1882,10 @@
             {
               "episode": 8,
               "airingAt": "2026-09-09T15:30:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-09-16T15:30:00Z"
             }
           ]
         }
@@ -1981,8 +1902,8 @@
     "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-08-20T14:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-27T14:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2029,6 +1950,10 @@
             {
               "episode": 7,
               "airingAt": "2026-09-10T14:30:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-09-17T14:30:00Z"
             }
           ]
         }
@@ -2043,8 +1968,8 @@
     "native": "リラックマ ～ごゆるり夢の旅～",
     "delayedFrom": "0001-01-01T01:00:00Z",
     "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-08-22T01:00:00Z",
-    "episodeNumber": 21,
+    "episodeDate": "2026-08-29T01:00:00Z",
+    "episodeNumber": 22,
     "lengthMin": 1,
     "mediaTypes": [
       {
@@ -2080,10 +2005,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 21,
-              "airingAt": "2026-08-22T01:00:00Z"
-            },
-            {
               "episode": 22,
               "airingAt": "2026-08-29T01:00:00Z"
             },
@@ -2094,6 +2015,10 @@
             {
               "episode": 24,
               "airingAt": "2026-09-12T01:00:00Z"
+            },
+            {
+              "episode": 25,
+              "airingAt": "2026-09-19T01:00:00Z"
             }
           ]
         }
@@ -2110,8 +2035,8 @@
     "native": "さよならララ",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-08-23T15:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-08-30T15:30:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2149,10 +2074,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-23T15:30:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-08-30T15:30:00Z"
             },
@@ -2163,6 +2084,10 @@
             {
               "episode": 11,
               "airingAt": "2026-09-13T15:30:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-09-20T15:30:00Z"
             }
           ]
         }
@@ -2179,8 +2104,8 @@
     "native": "正反対な君と僕 第2期",
     "delayedFrom": "0001-01-01T08:30:00Z",
     "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2026-08-23T08:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-08-30T08:30:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2219,10 +2144,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-08-23T08:30:00Z"
-            },
-            {
               "episode": 7,
               "airingAt": "2026-08-30T08:30:00Z"
             },
@@ -2233,6 +2154,10 @@
             {
               "episode": 9,
               "airingAt": "2026-09-13T08:30:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-09-20T08:30:00Z"
             }
           ]
         }
@@ -2249,8 +2174,8 @@
     "native": "スーパーの裏でヤニ吸うふたり",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-08-20T15:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-27T15:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2298,6 +2223,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-10T15:30:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-17T15:30:00Z"
             }
           ]
         }
@@ -2314,8 +2243,8 @@
     "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-08-19T17:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-08-26T17:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2364,6 +2293,10 @@
             {
               "episode": 4,
               "airingAt": "2026-09-09T17:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-09-16T17:00:00Z"
             }
           ]
         }
@@ -2380,8 +2313,8 @@
     "native": "天幕のジャードゥーガル",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-22T16:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-29T16:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2418,10 +2351,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-22T16:00:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2026-08-29T16:00:00Z"
             },
@@ -2432,6 +2361,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-12T16:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-19T16:00:00Z"
             }
           ]
         }
@@ -2448,8 +2381,8 @@
     "native": "転生したらスライムだった件 第4期",
     "delayedFrom": "2026-08-14T15:00:00Z",
     "delayedUntil": "2026-08-21T15:00:00Z",
-    "episodeDate": "2026-08-21T15:00:00Z",
-    "episodeNumber": 17,
+    "episodeDate": "2026-08-28T15:00:00Z",
+    "episodeNumber": 18,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2488,10 +2421,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 17,
-              "airingAt": "2026-08-21T15:00:00Z"
-            },
-            {
               "episode": 18,
               "airingAt": "2026-08-28T15:00:00Z"
             },
@@ -2502,6 +2431,10 @@
             {
               "episode": 20,
               "airingAt": "2026-09-11T15:00:00Z"
+            },
+            {
+              "episode": 21,
+              "airingAt": "2026-09-18T15:00:00Z"
             }
           ]
         }
@@ -2517,8 +2450,8 @@
     "native": "サンダー3",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-08-19T16:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-08-26T16:30:00Z",
+    "episodeNumber": 8,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2565,6 +2498,10 @@
             {
               "episode": 10,
               "airingAt": "2026-09-09T16:30:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-09-16T16:30:00Z"
             }
           ]
         }
@@ -2581,8 +2518,8 @@
     "native": "追放された転生重騎士はゲーム知識で無双する",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-20T16:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-08-27T16:00:00Z",
+    "episodeNumber": 7,
     "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2629,6 +2566,10 @@
             {
               "episode": 9,
               "airingAt": "2026-09-10T16:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-09-17T16:00:00Z"
             }
           ]
         }
@@ -2690,6 +2631,10 @@
             {
               "episode": 3,
               "airingAt": "2026-09-09T17:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-09-16T17:00:00Z"
             }
           ]
         }
@@ -2706,8 +2651,8 @@
     "native": "ヤニねこ",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-20T16:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-08-27T16:00:00Z",
+    "episodeNumber": 7,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2755,6 +2700,10 @@
             {
               "episode": 9,
               "airingAt": "2026-09-10T16:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-09-17T16:00:00Z"
             }
           ]
         }
@@ -2771,8 +2720,8 @@
     "native": "黄泉のツガイ",
     "delayedFrom": "2026-07-11T16:00:00Z",
     "delayedUntil": "2026-07-18T16:00:00Z",
-    "episodeDate": "2026-08-22T16:00:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2026-08-29T16:00:00Z",
+    "episodeNumber": 19,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2812,10 +2761,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 18,
-              "airingAt": "2026-08-22T16:00:00Z"
-            },
-            {
               "episode": 19,
               "airingAt": "2026-08-29T16:00:00Z"
             },
@@ -2826,6 +2771,10 @@
             {
               "episode": 21,
               "airingAt": "2026-09-12T16:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-09-19T16:00:00Z"
             }
           ]
         }
@@ -2842,8 +2791,8 @@
     "native": "よわよわ先生",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-08-19T17:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-08-26T17:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2951,7 +2900,7 @@
             },
             {
               "episode": 68,
-              "airingAt": "2026-08-19T12:00:00Z"
+              "airingAt": "2026-08-26T12:00:00Z"
             }
           ]
         }
