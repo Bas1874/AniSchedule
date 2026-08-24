@@ -1350,10 +1350,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 19,
-              "airingAt": "2026-08-24T16:00:00Z"
-            },
-            {
               "episode": 20,
               "airingAt": "2026-08-31T16:00:00Z"
             },
