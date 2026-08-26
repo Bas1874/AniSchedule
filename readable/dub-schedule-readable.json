@@ -355,10 +355,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-08-26T17:20:00Z"
-            },
-            {
               "episode": 7,
               "airingAt": "2026-09-02T17:20:00Z"
             },
@@ -860,10 +856,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-08-26T17:00:00Z"
-            },
             {
               "episode": 5,
               "airingAt": "2026-09-02T17:00:00Z"
@@ -2433,10 +2425,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-08-26T17:00:00Z"
-            },
-            {
               "episode": 3,
               "airingAt": "2026-09-02T17:00:00Z"
             },
@@ -2638,10 +2626,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-26T16:30:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-09-02T16:30:00Z"
             },
@@ -2744,7 +2728,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 206521,
@@ -2770,10 +2754,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-08-26T17:00:00Z"
-            },
             {
               "episode": 2,
               "airingAt": "2026-09-02T17:00:00Z"
@@ -2979,10 +2959,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 10,
-              "airingAt": "2026-08-26T17:00:00Z"
-            },
             {
               "episode": 11,
               "airingAt": "2026-09-02T17:00:00Z"
