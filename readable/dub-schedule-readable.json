@@ -168,10 +168,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-27T12:40:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2026-09-03T12:40:00Z"
             },
@@ -568,7 +564,7 @@
         "route": "movie"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 197474,
@@ -1635,6 +1631,73 @@
     "addedAt": "2026-08-24T07:00:00Z"
   },
   {
+    "title": "Marika-chan no Koukando wa Bukkowareteiru",
+    "route": "marika-chan-no-koukando-wa-bukkowareteiru",
+    "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+    "english": "Marika's Love Meter Malfunction",
+    "native": "茉莉花ちゃんの好感度はぶっ壊れている",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-09-03T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 8,
+    "lengthMin": 6,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 202523,
+        "idMal": 62983,
+        "title": {
+          "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+          "english": "Marika's Love Meter Malfunction",
+          "native": "茉莉花ちゃんの好感度はぶっ壊れている",
+          "userPreferred": "Marika's Love Meter Malfunction"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Ecchi",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": 6,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202523-NHeyiypiPnGP.jpg",
+          "color": "#e44378"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-09-03T17:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-09-10T17:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-09-17T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-09-03T17:00:00Z"
+  },
+  {
     "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
     "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
     "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
@@ -2021,10 +2084,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-08-27T14:30:00Z"
-            },
-            {
               "episode": 6,
               "airingAt": "2026-09-03T14:30:00Z"
             },
@@ -2354,10 +2413,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 8,
-              "airingAt": "2026-08-27T15:30:00Z"
-            },
             {
               "episode": 9,
               "airingAt": "2026-09-03T15:30:00Z"
@@ -2690,10 +2745,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-27T16:00:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2026-09-03T16:00:00Z"
             },
@@ -2819,10 +2870,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 7,
-              "airingAt": "2026-08-27T16:00:00Z"
-            },
             {
               "episode": 8,
               "airingAt": "2026-09-03T16:00:00Z"
