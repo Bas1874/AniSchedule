@@ -122,6 +122,75 @@
     "addedAt": "2026-07-22T18:12:28Z"
   },
   {
+    "title": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+    "route": "bleach-sennen-kessen-hen-kashin-tan",
+    "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+    "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+    "native": "BLEACH 千年血戦篇-禍進譚-",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-08-29T14:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 10,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185874,
+        "idMal": 60636,
+        "title": {
+          "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+          "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+          "native": "BLEACH 千年血戦篇-禍進譚-",
+          "userPreferred": "BLEACH: Thousand-Year Blood War - The Calamity"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185874-aU3e6tBT6wwA.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1EBG91I.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-29T14:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-09-05T14:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-09-12T14:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-09-19T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-29T14:30:00Z"
+  },
+  {
     "title": "Bungou Stray Dogs Wan! 2",
     "route": "bungou-stray-dogs-wan-2",
     "romaji": "Bungou Stray Dogs Wan! 2",
@@ -1056,10 +1125,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 19,
-              "airingAt": "2026-08-28T15:30:00Z"
-            },
-            {
               "episode": 20,
               "airingAt": "2026-09-04T15:30:00Z"
             },
@@ -1373,10 +1438,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 8,
-              "airingAt": "2026-08-28T15:30:00Z"
-            },
             {
               "episode": 9,
               "airingAt": "2026-09-04T15:30:00Z"
@@ -1812,10 +1873,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 2,
-              "airingAt": "2026-08-28T16:00:00Z"
-            },
             {
               "episode": 3,
               "airingAt": "2026-09-04T16:00:00Z"
@@ -2364,6 +2421,72 @@
     "addedAt": "2026-07-22T18:12:28Z"
   },
   {
+    "title": "Shiguang Dailiren 3",
+    "route": "shi-guang-dai-li-ren-3",
+    "romaji": "Shiguang Dailiren 3",
+    "english": "LINK CLICK 3",
+    "native": "时光代理人 第三季",
+    "delayedFrom": "0001-01-01T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-08-28T03:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 21,
+    "mediaTypes": [
+      {
+        "name": "ONA (Chinese)",
+        "route": "ona-chinese"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 191832,
+        "idMal": 61607,
+        "title": {
+          "romaji": "Shiguang Dailiren III",
+          "english": "Link Click Season 3",
+          "native": "时光代理人 第三季",
+          "userPreferred": "Link Click Season 3"
+        },
+        "format": "ONA",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Supernatural",
+          "Thriller"
+        ],
+        "duration": 21,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191832-bsnCaLNVjzEw.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191832-bsnCaLNVjzEw.png",
+          "color": "#d66b1a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-09-04T03:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-09-11T03:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-09-18T03:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-28T23:26:01Z"
+  },
+  {
     "title": "Super no Ura de Yani Suu Futari",
     "route": "super-no-ura-de-yani-suu-futari",
     "romaji": "Super no Ura de Yani Suu Futari",
@@ -2609,10 +2732,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 18,
-              "airingAt": "2026-08-28T15:00:00Z"
-            },
             {
               "episode": 19,
               "airingAt": "2026-09-04T15:00:00Z"
