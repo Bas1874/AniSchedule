@@ -775,10 +775,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-29T17:30:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-09-05T17:30:00Z"
             },
@@ -999,9 +995,9 @@
     "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
     "english": "Magilumiere Magical Girls Inc. 2nd Season",
     "native": "株式会社マジルミエ 第2期",
-    "delayedFrom": "0001-01-01T17:25:00Z",
-    "delayedUntil": "0001-01-01T17:25:00Z",
-    "episodeDate": "2026-08-29T17:25:00Z",
+    "delayedFrom": "2026-08-29T17:25:00Z",
+    "delayedUntil": "2026-09-02T17:25:00Z",
+    "episodeDate": "2026-09-02T17:25:00Z",
     "episodeNumber": 9,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1041,19 +1037,15 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-08-29T17:25:00Z"
+              "airingAt": "2026-09-02T17:25:00Z"
             },
             {
               "episode": 10,
-              "airingAt": "2026-09-05T17:25:00Z"
+              "airingAt": "2026-09-09T17:25:00Z"
             },
             {
               "episode": 11,
-              "airingAt": "2026-09-12T17:25:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2026-09-19T17:25:00Z"
+              "airingAt": "2026-09-16T17:25:00Z"
             }
           ]
         }
