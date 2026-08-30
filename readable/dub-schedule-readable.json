@@ -1193,7 +1193,7 @@
     "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-08-31T07:00:00Z",
+    "episodeDate": "2026-08-30T07:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 108,
@@ -1203,7 +1203,7 @@
         "route": "movie"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 113971,
@@ -1234,7 +1234,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2026-08-31T07:00:00Z"
+              "airingAt": "2026-08-30T07:00:00Z"
             }
           ]
         }
@@ -1289,10 +1289,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 7,
-              "airingAt": "2026-08-30T14:00:00Z"
-            },
             {
               "episode": 8,
               "airingAt": "2026-09-06T14:00:00Z"
@@ -1778,10 +1774,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-30T15:00:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2026-09-06T15:00:00Z"
             },
@@ -1909,10 +1901,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2026-08-30T14:00:00Z"
-            },
             {
               "episode": 10,
               "airingAt": "2026-09-06T14:00:00Z"
@@ -2295,10 +2283,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2026-08-30T15:30:00Z"
-            },
             {
               "episode": 10,
               "airingAt": "2026-09-06T15:30:00Z"
