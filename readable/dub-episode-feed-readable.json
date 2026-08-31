@@ -1,5 +1,27 @@
 [
   {
+    "id": 197754,
+    "idMal": 62331,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 20,
+      "airedAt": "2026-08-31T16:00:00Z",
+      "addedAt": "2026-08-31T18:52:25Z"
+    }
+  },
+  {
+    "id": 185542,
+    "idMal": 60522,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 9,
+      "airedAt": "2026-08-31T13:00:00Z",
+      "addedAt": "2026-08-31T18:52:25Z"
+    }
+  },
+  {
     "id": 177637,
     "idMal": 58878,
     "format": "TV",
