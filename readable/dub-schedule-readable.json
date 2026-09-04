@@ -1071,10 +1071,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 20,
-              "airingAt": "2026-09-04T15:30:00Z"
-            },
-            {
               "episode": 21,
               "airingAt": "2026-09-11T15:30:00Z"
             },
@@ -1273,10 +1269,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2026-09-04T15:30:00Z"
-            },
             {
               "episode": 10,
               "airingAt": "2026-09-11T15:30:00Z"
@@ -1610,10 +1602,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-09-04T16:00:00Z"
-            },
-            {
               "episode": 4,
               "airingAt": "2026-09-11T16:00:00Z"
             },
@@ -1629,7 +1617,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-08-21T16:00:00Z"
   },
   {
@@ -1664,6 +1652,7 @@
         "format": "TV",
         "genres": [
           "Adventure",
+          "Comedy",
           "Romance"
         ],
         "duration": 25,
@@ -2476,10 +2465,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 19,
-              "airingAt": "2026-09-04T15:00:00Z"
-            },
             {
               "episode": 20,
               "airingAt": "2026-09-11T15:00:00Z"
