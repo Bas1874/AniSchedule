@@ -336,7 +336,7 @@
         "route": "special"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 166527,
@@ -2211,10 +2211,6 @@
         "bannerImage": null,
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 2,
-              "airingAt": "2026-09-04T03:00:00Z"
-            },
             {
               "episode": 3,
               "airingAt": "2026-09-11T03:00:00Z"
